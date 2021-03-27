@@ -1,0 +1,159 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #003 NAME:		Terrain Names
+
+//POINTER #0 @ $3857B - STRING #0 @ $385AF
+
+#W16($3857B)
+High Mt[X]
+
+
+//POINTER #1 @ $3857D - STRING #1 @ $385BF
+
+#W16($3857D)
+Deep Wd[X]
+
+
+//POINTER #2 @ $3857F - STRING #2 @ $385CF
+
+#W16($3857F)
+Cliff[X]
+
+
+//POINTER #3 @ $38581 - STRING #3 @ $385DB
+
+#W16($38581)
+Plains[X]
+
+
+//POINTER #4 @ $38583 - STRING #4 @ $385E9
+
+#W16($38583)
+Woods  [X]
+
+
+//POINTER #5 @ $38585 - STRING #5 @ $385F9
+
+#W16($38585)
+Sea[X]
+
+
+//POINTER #6 @ $38587 - STRING #6 @ $38601
+
+#W16($38587)
+River[X]
+
+
+//POINTER #7 @ $38589 - STRING #7 @ $3860D
+
+#W16($38589)
+Mt[X]
+
+
+//POINTER #8 @ $3858B - STRING #8 @ $38613
+
+#W16($3858B)
+Desert[X]
+
+
+//POINTER #9 @ $3858D - STRING #9 @ $38621
+
+#W16($3858D)
+Castle[X]
+
+
+//POINTER #10 @ $3858F - STRING #10 @ $3862F
+
+#W16($3858F)
+Keep[X]
+
+
+//POINTER #11 @ $38591 - STRING #11 @ $38639
+
+#W16($38591)
+City[X]
+
+
+//POINTER #12 @ $38593 - STRING #12 @ $38643
+
+#W16($38593)
+Gates[X]
+
+
+//POINTER #13 @ $38595 - STRING #13 @ $3864F
+
+#W16($38595)
+Walls[X]
+
+
+//POINTER #14 @ $38597 - STRING #14 @ $3865B
+
+#W16($38597)
+Sand[X]
+
+
+//POINTER #15 @ $38599 - STRING #15 @ $38665
+
+#W16($38599)
+Bridge[X]
+
+
+//POINTER #16 @ $3859B - STRING #16 @ $38673
+
+#W16($3859B)
+Swamp[X]
+
+
+//POINTER #17 @ $3859D - STRING #17 @ $38643
+
+#W16($3859D)
+Gates[X]
+
+
+//POINTER #18 @ $3859F - STRING #18 @ $3FB5C
+
+#W16($3859F)
+Village[X]
+
+
+//POINTER #19 @ $385A1 - STRING #19 @ $3867F
+
+#W16($385A1)
+Ruins[X]
+
+
+//POINTER #20 @ $385A3 - STRING #20 @ $3FB6C
+
+#W16($385A3)
+Storage[X]
+
+
+//POINTER #21 @ $385A5 - STRING #21 @ $3867F
+
+#W16($385A5)
+Ruins[X]
+
+
+//POINTER #22 @ $385A7 - STRING #22 @ $3FB7C
+
+#W16($385A7)
+Church[X]
+
+
+//POINTER #23 @ $385A9 - STRING #23 @ $3FB8A
+
+#W16($385A9)
+Temple[X]
+
+
+//POINTER #24 @ $385AB - STRING #24 @ $3FB98
+
+#W16($385AB)
+BragiTw[X]
+
+
+//POINTER #25 @ $385AD - STRING #25 @ $3FBA8
+
+#W16($385AD)
+Road[X]
+

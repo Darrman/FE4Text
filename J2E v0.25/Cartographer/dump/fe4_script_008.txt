@@ -1,0 +1,9 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #008 NAME:		Item Descriptions
+
+//POINTER #0 @ $3E4E8 - STRING #0 @ $3E5FC
+
+#W16($3E4E8)
+ [X]
+

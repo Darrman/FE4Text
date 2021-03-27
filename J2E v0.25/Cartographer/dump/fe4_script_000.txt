@@ -1,0 +1,75 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #000 NAME:		Chapter Objectives
+
+//POINTER #0 @ $DD74 - STRING #0 @ $DD98
+
+#W24($DD74)
+A<$83><$6F><$83><$93>m<$8F><$E9>YNBAR[X]
+
+
+//POINTER #1 @ $DD77 - STRING #1 @ $DDAE
+
+#W24($DD77)
+<$83><$94><$83><$46><$83><$8B><$83><$5F><$83><$93><$8F><$E9>YNBAR[X]
+
+
+//POINTER #2 @ $DD7A - STRING #2 @ $DDC6
+
+#W24($DD7A)
+a<$83><$4F>ms<$83><$42><$8F><$E9>YNBAR[X]
+
+
+//POINTER #3 @ $DD7D - STRING #3 @ $DDDE
+
+#W24($DD7D)
+e-<$83><$4B><$83><$71><$83><$8B><$8F><$E9>YNBAR[X]
+
+
+//POINTER #4 @ $DD80 - STRING #4 @ $DDF6
+
+#W24($DD80)
+<$83><$55>ho<$83><$93><$8F><$E9>YNBAR[X]
+
+
+//POINTER #5 @ $DD83 - STRING #5 @ $DE0C
+
+#W24($DD83)
+<$83><$6F>-z<$83><$89><$8F><$E9>YNBAR[X]
+
+
+//POINTER #6 @ $DD86 - STRING #6 @ $DE22
+
+#W24($DD86)
+<$83><$8A><$83><$7B>-<$8F><$E9>YNBAR[X]
+
+
+//POINTER #7 @ $DD89 - STRING #7 @ $DE36
+
+#W24($DD89)
+a<$83><$8B>mp-<$8F><$E9>YNBAR[X]
+
+
+//POINTER #8 @ $DD8C - STRING #8 @ $DE4E
+
+#W24($DD8C)
+<$83><$7E>-<$83><$59><$8F><$E9>YNBAR[X]
+
+
+//POINTER #9 @ $DD8F - STRING #9 @ $DE62
+
+#W24($DD8F)
+t<$83><$89>ga<$8F><$E9>YNBAR[X]
+
+
+//POINTER #10 @ $DD92 - STRING #10 @ $DE78
+
+#W24($DD92)
+la<$83><$8B><$83><$74><$83><$42><$8F><$E9>YNBAR[X]
+
+
+//POINTER #11 @ $DD95 - STRING #11 @ $DE90
+
+#W24($DD95)
+<$83><$6F>-z<$83><$89><$8F><$E9>YNBAR[X]
+
