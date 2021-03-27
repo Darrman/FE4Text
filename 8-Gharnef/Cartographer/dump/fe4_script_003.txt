@@ -1,0 +1,159 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #003 NAME:		Terrain Names
+
+//POINTER #0 @ $3857B - STRING #0 @ $385AF
+
+#W16($3857B)
+Peak[X]
+
+
+//POINTER #1 @ $3857D - STRING #1 @ $385B9
+
+#W16($3857D)
+Thicket[X]
+
+
+//POINTER #2 @ $3857F - STRING #2 @ $385C9
+
+#W16($3857F)
+Cliff[X]
+
+
+//POINTER #3 @ $38581 - STRING #3 @ $385D5
+
+#W16($38581)
+Plain[X]
+
+
+//POINTER #4 @ $38583 - STRING #4 @ $385E1
+
+#W16($38583)
+Forest[X]
+
+
+//POINTER #5 @ $38585 - STRING #5 @ $385EF
+
+#W16($38585)
+Sea[X]
+
+
+//POINTER #6 @ $38587 - STRING #6 @ $385F7
+
+#W16($38587)
+River[X]
+
+
+//POINTER #7 @ $38589 - STRING #7 @ $38603
+
+#W16($38589)
+Mount[X]
+
+
+//POINTER #8 @ $3858B - STRING #8 @ $3860F
+
+#W16($3858B)
+Desert[X]
+
+
+//POINTER #9 @ $3858D - STRING #9 @ $3861D
+
+#W16($3858D)
+Castle[X]
+
+
+//POINTER #10 @ $3858F - STRING #10 @ $3862B
+
+#W16($3858F)
+[X]
+
+
+//POINTER #11 @ $38591 - STRING #11 @ $3862D
+
+#W16($38591)
+Town[X]
+
+
+//POINTER #12 @ $38593 - STRING #12 @ $38637
+
+#W16($38593)
+Gate[X]
+
+
+//POINTER #13 @ $38595 - STRING #13 @ $38641
+
+#W16($38595)
+Rampart[X]
+
+
+//POINTER #14 @ $38597 - STRING #14 @ $38651
+
+#W16($38597)
+Sand[X]
+
+
+//POINTER #15 @ $38599 - STRING #15 @ $3865B
+
+#W16($38599)
+Bridge[X]
+
+
+//POINTER #16 @ $3859B - STRING #16 @ $38669
+
+#W16($3859B)
+Swamp[X]
+
+
+//POINTER #17 @ $3859D - STRING #17 @ $38637
+
+#W16($3859D)
+Gate[X]
+
+
+//POINTER #18 @ $3859F - STRING #18 @ $3862D
+
+#W16($3859F)
+Town[X]
+
+
+//POINTER #19 @ $385A1 - STRING #19 @ $38675
+
+#W16($385A1)
+Ruins[X]
+
+
+//POINTER #20 @ $385A3 - STRING #20 @ $38681
+
+#W16($385A3)
+[X]
+
+
+//POINTER #21 @ $385A5 - STRING #21 @ $38675
+
+#W16($385A5)
+Ruins[X]
+
+
+//POINTER #22 @ $385A7 - STRING #22 @ $3FA62
+
+#W16($385A7)
+Church[X]
+
+
+//POINTER #23 @ $385A9 - STRING #23 @ $3FA70
+
+#W16($385A9)
+Shrine[X]
+
+
+//POINTER #24 @ $385AB - STRING #24 @ $3FA7E
+
+#W16($385AB)
+Tower[X]
+
+
+//POINTER #25 @ $385AD - STRING #25 @ $38683
+
+#W16($385AD)
+Road[X]
+
