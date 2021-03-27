@@ -1,0 +1,57 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #014 NAME:		Top of Option Choice Panel
+
+//POINTER #0 @ $9F779 - STRING #0 @ $9F7BC
+
+#W24($9F779)
+<$83><$8A>a<$83><$8B>   J<$95><$94>R[X]
+
+
+//POINTER #1 @ $9F77C - STRING #1 @ $9F7A8
+
+#W24($9F77C)
+M<$82><$E9>    LUB[X]
+
+
+//POINTER #2 @ $9F77F - STRING #2 @ $9F7A8
+
+#W24($9F77F)
+M<$82><$E9>    LUB[X]
+
+
+//POINTER #3 @ $9F782 - STRING #3 @ $9F7D0
+
+#W24($9F782)
+EOB   Z<$82><$E2>B[X]
+
+
+//POINTER #4 @ $9F785 - STRING #4 @ $9F794
+
+#W24($9F785)
+ B<$82><$C7>Cm<$83><$73>-<$83><$68> [X]
+
+
+//POINTER #5 @ $9F788 - STRING #5 @ $9F7E4
+
+#W24($9F788)
+ms<$83><$8C>e   e<$83><$74>[X]
+
+
+//POINTER #6 @ $9F78B - STRING #6 @ $9F7F8
+
+#W24($9F78B)
+e<$83><$74>  <$83><$74><$83><$40>b<$83><$8B> [X]
+
+
+//POINTER #7 @ $9F78E - STRING #7 @ $9F7A8
+
+#W24($9F78E)
+M<$82><$E9>    LUB[X]
+
+
+//POINTER #8 @ $9F791 - STRING #8 @ $9F80C
+
+#W24($9F791)
+ AP<$82><$DC>Y<$82><$E6>K  [X]
+

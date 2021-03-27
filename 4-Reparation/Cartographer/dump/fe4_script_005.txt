@@ -1,0 +1,3423 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #005 NAME:		Character Names
+
+//POINTER #0 @ $39C59 - STRING #0 @ $3F9FC
+
+#W16($39C59)
+Sigurd[X]
+
+
+//POINTER #1 @ $39C5B - STRING #1 @ $3FA0A
+
+#W16($39C5B)
+Noish[X]
+
+
+//POINTER #2 @ $39C5D - STRING #2 @ $3FA16
+
+#W16($39C5D)
+Alec[X]
+
+
+//POINTER #3 @ $39C5F - STRING #3 @ $3FA20
+
+#W16($39C5F)
+Arden[X]
+
+
+//POINTER #4 @ $39C61 - STRING #4 @ $3FA2C
+
+#W16($39C61)
+Fin[X]
+
+
+//POINTER #5 @ $39C63 - STRING #5 @ $3FA34
+
+#W16($39C63)
+Cuan[X]
+
+
+//POINTER #6 @ $39C65 - STRING #6 @ $3FA3E
+
+#W16($39C65)
+Mideel[X]
+
+
+//POINTER #7 @ $39C67 - STRING #7 @ $3FA4C
+
+#W16($39C67)
+Levin[X]
+
+
+//POINTER #8 @ $39C69 - STRING #8 @ $3FA58
+
+#W16($39C69)
+Holyn[X]
+
+
+//POINTER #9 @ $39C6B - STRING #9 @ $3FA64
+
+#W16($39C6B)
+Azel[X]
+
+
+//POINTER #10 @ $39C6D - STRING #10 @ $3FA6E
+
+#W16($39C6D)
+Jamuka[X]
+
+
+//POINTER #11 @ $39C6F - STRING #11 @ $3FA7C
+
+#W16($39C6F)
+Claude[X]
+
+
+//POINTER #12 @ $39C71 - STRING #12 @ $3FA8A
+
+#W16($39C71)
+Beowulf[X]
+
+
+//POINTER #13 @ $39C73 - STRING #13 @ $3FA9A
+
+#W16($39C73)
+Lex[X]
+
+
+//POINTER #14 @ $39C75 - STRING #14 @ $3FAA2
+
+#W16($39C75)
+Dew[X]
+
+
+//POINTER #15 @ $39C77 - STRING #15 @ $3FAAA
+
+#W16($39C77)
+Diadora[X]
+
+
+//POINTER #16 @ $39C79 - STRING #16 @ $3FABA
+
+#W16($39C79)
+Ethlin[X]
+
+
+//POINTER #17 @ $39C7B - STRING #17 @ $3FAC8
+
+#W16($39C7B)
+Lachesis[X]
+
+
+//POINTER #18 @ $39C7D - STRING #18 @ $3FADA
+
+#W16($39C7D)
+Ayra[X]
+
+
+//POINTER #19 @ $39C7F - STRING #19 @ $3FAE4
+
+#W16($39C7F)
+Fury[X]
+
+
+//POINTER #20 @ $39C81 - STRING #20 @ $3FAEE
+
+#W16($39C81)
+Tiltyu[X]
+
+
+//POINTER #21 @ $39C83 - STRING #21 @ $3FAFC
+
+#W16($39C83)
+Sylvia[X]
+
+
+//POINTER #22 @ $39C85 - STRING #22 @ $3FB0A
+
+#W16($39C85)
+Edin[X]
+
+
+//POINTER #23 @ $39C87 - STRING #23 @ $3FB14
+
+#W16($39C87)
+Bridget[X]
+
+
+//POINTER #24 @ $39C89 - STRING #24 @ $3FB24
+
+#W16($39C89)
+Celice[X]
+
+
+//POINTER #25 @ $39C8B - STRING #25 @ $3FB32
+
+#W16($39C8B)
+Shanan[X]
+
+
+//POINTER #26 @ $39C8D - STRING #26 @ $3FB40
+
+#W16($39C8D)
+Rodolban[X]
+
+
+//POINTER #27 @ $39C8F - STRING #27 @ $3FB52
+
+#W16($39C8F)
+Asaello[X]
+
+
+//POINTER #28 @ $39C91 - STRING #28 @ $3FB62
+
+#W16($39C91)
+Leaf[X]
+
+
+//POINTER #29 @ $39C93 - STRING #29 @ $3FB6C
+
+#W16($39C93)
+Johan[X]
+
+
+//POINTER #30 @ $39C95 - STRING #30 @ $3FB78
+
+#W16($39C95)
+Sharlow[X]
+
+
+//POINTER #31 @ $39C97 - STRING #31 @ $3FB88
+
+#W16($39C97)
+Hawk[X]
+
+
+//POINTER #32 @ $39C99 - STRING #32 @ $3FB92
+
+#W16($39C99)
+Tristan[X]
+
+
+//POINTER #33 @ $39C9B - STRING #33 @ $3FA2C
+
+#W16($39C9B)
+Fin[X]
+
+
+//POINTER #34 @ $39C9D - STRING #34 @ $3FBA2
+
+#W16($39C9D)
+Dimna[X]
+
+
+//POINTER #35 @ $39C9F - STRING #35 @ $3FBAE
+
+#W16($39C9F)
+Hanival[X]
+
+
+//POINTER #36 @ $39CA1 - STRING #36 @ $3FBBE
+
+#W16($39CA1)
+Aless[X]
+
+
+//POINTER #37 @ $39CA3 - STRING #37 @ $3FBCA
+
+#W16($39CA3)
+Amid[X]
+
+
+//POINTER #38 @ $39CA5 - STRING #38 @ $3FBD4
+
+#W16($39CA5)
+Oifaye[X]
+
+
+//POINTER #39 @ $39CA7 - STRING #39 @ $3FBE2
+
+#W16($39CA7)
+Daisy[X]
+
+
+//POINTER #40 @ $39CA9 - STRING #40 @ $3FBEE
+
+#W16($39CA9)
+Radney[X]
+
+
+//POINTER #41 @ $39CAB - STRING #41 @ $3FBFC
+
+#W16($39CAB)
+Mana[X]
+
+
+//POINTER #42 @ $39CAD - STRING #42 @ $3FC06
+
+#W16($39CAD)
+Julia[X]
+
+
+//POINTER #43 @ $39CAF - STRING #43 @ $3FC12
+
+#W16($39CAF)
+Altenna[X]
+
+
+//POINTER #44 @ $39CB1 - STRING #44 @ $3FC22
+
+#W16($39CB1)
+Femina[X]
+
+
+//POINTER #45 @ $39CB3 - STRING #45 @ $3FC30
+
+#W16($39CB3)
+Linda[X]
+
+
+//POINTER #46 @ $39CB5 - STRING #46 @ $3FC3C
+
+#W16($39CB5)
+Laylea[X]
+
+
+//POINTER #47 @ $39CB7 - STRING #47 @ $3FC4A
+
+#W16($39CB7)
+Janne[X]
+
+
+//POINTER #48 @ $39CB9 - STRING #48 @ $3FC56
+
+#W16($39CB9)
+Johalva[X]
+
+
+//POINTER #49 @ $39CBB - STRING #49 @ $3FC66
+
+#W16($39CBB)
+Skasaha[X]
+
+
+//POINTER #50 @ $39CBD - STRING #50 @ $3FC76
+
+#W16($39CBD)
+Faval[X]
+
+
+//POINTER #51 @ $39CBF - STRING #51 @ $3FC82
+
+#W16($39CBF)
+Coupl[X]
+
+
+//POINTER #52 @ $39CC1 - STRING #52 @ $3FC8E
+
+#W16($39CC1)
+Sety[X]
+
+
+//POINTER #53 @ $39CC3 - STRING #53 @ $3FC98
+
+#W16($39CC3)
+Delmud[X]
+
+
+//POINTER #54 @ $39CC5 - STRING #54 @ $3FCA6
+
+#W16($39CC5)
+Lester[X]
+
+
+//POINTER #55 @ $39CC7 - STRING #55 @ $3FCB4
+
+#W16($39CC7)
+Arthur[X]
+
+
+//POINTER #56 @ $39CC9 - STRING #56 @ $3FCC2
+
+#W16($39CC9)
+Patty[X]
+
+
+//POINTER #57 @ $39CCB - STRING #57 @ $3FCCE
+
+#W16($39CCB)
+Lakche[X]
+
+
+//POINTER #58 @ $39CCD - STRING #58 @ $3FCDC
+
+#W16($39CCD)
+Rana[X]
+
+
+//POINTER #59 @ $39CCF - STRING #59 @ $3FCE6
+
+#W16($39CCF)
+Fee[X]
+
+
+//POINTER #60 @ $39CD1 - STRING #60 @ $3FCEE
+
+#W16($39CD1)
+Tinny[X]
+
+
+//POINTER #61 @ $39CD3 - STRING #61 @ $3FCFA
+
+#W16($39CD3)
+Lynn[X]
+
+
+//POINTER #62 @ $39CD5 - STRING #62 @ $3FD04
+
+#W16($39CD5)
+Nanna[X]
+
+
+//POINTER #63 @ $39CD7 - STRING #63 @ $3FD10
+
+#W16($39CD7)
+Gerrard[X]
+
+
+//POINTER #64 @ $39CD9 - STRING #64 @ $3FD20
+
+#W16($39CD9)
+DiMagio[X]
+
+
+//POINTER #65 @ $39CDB - STRING #65 @ $3FD30
+
+#W16($39CDB)
+Verdane[X]
+
+
+//POINTER #66 @ $39CDD - STRING #66 @ $3FD30
+
+#W16($39CDD)
+Verdane[X]
+
+
+//POINTER #67 @ $39CDF - STRING #67 @ $3FD30
+
+#W16($39CDF)
+Verdane[X]
+
+
+//POINTER #68 @ $39CE1 - STRING #68 @ $3FD30
+
+#W16($39CE1)
+Verdane[X]
+
+
+//POINTER #69 @ $39CE3 - STRING #69 @ $3FD30
+
+#W16($39CE3)
+Verdane[X]
+
+
+//POINTER #70 @ $39CE5 - STRING #70 @ $3FD30
+
+#W16($39CE5)
+Verdane[X]
+
+
+//POINTER #71 @ $39CE7 - STRING #71 @ $3FD40
+
+#W16($39CE7)
+Kinbois[X]
+
+
+//POINTER #72 @ $39CE9 - STRING #72 @ $3FD30
+
+#W16($39CE9)
+Verdane[X]
+
+
+//POINTER #73 @ $39CEB - STRING #73 @ $3FD30
+
+#W16($39CEB)
+Verdane[X]
+
+
+//POINTER #74 @ $39CED - STRING #74 @ $3FD30
+
+#W16($39CED)
+Verdane[X]
+
+
+//POINTER #75 @ $39CEF - STRING #75 @ $3FD30
+
+#W16($39CEF)
+Verdane[X]
+
+
+//POINTER #76 @ $39CF1 - STRING #76 @ $3FD50
+
+#W16($39CF1)
+Gandolf[X]
+
+
+//POINTER #77 @ $39CF3 - STRING #77 @ $3FD60
+
+#W16($39CF3)
+Captain[X]
+
+
+//POINTER #78 @ $39CF5 - STRING #78 @ $3FD30
+
+#W16($39CF5)
+Verdane[X]
+
+
+//POINTER #79 @ $39CF7 - STRING #79 @ $3FD30
+
+#W16($39CF7)
+Verdane[X]
+
+
+//POINTER #80 @ $39CF9 - STRING #80 @ $3FD30
+
+#W16($39CF9)
+Verdane[X]
+
+
+//POINTER #81 @ $39CFB - STRING #81 @ $3FD70
+
+#W16($39CFB)
+Sandima[X]
+
+
+//POINTER #82 @ $39CFD - STRING #82 @ $3FD30
+
+#W16($39CFD)
+Verdane[X]
+
+
+//POINTER #83 @ $39CFF - STRING #83 @ $3FD30
+
+#W16($39CFF)
+Verdane[X]
+
+
+//POINTER #84 @ $39D01 - STRING #84 @ $3FD60
+
+#W16($39D01)
+Captain[X]
+
+
+//POINTER #85 @ $39D03 - STRING #85 @ $3FD30
+
+#W16($39D03)
+Verdane[X]
+
+
+//POINTER #86 @ $39D05 - STRING #86 @ $3FD80
+
+#W16($39D05)
+Thief[X]
+
+
+//POINTER #87 @ $39D07 - STRING #87 @ $3FD8C
+
+#W16($39D07)
+Elliot[X]
+
+
+//POINTER #88 @ $39D09 - STRING #88 @ $3FD9A
+
+#W16($39D09)
+Heirhein[X]
+
+
+//POINTER #89 @ $39D0B - STRING #89 @ $3FDAC
+
+#W16($39D0B)
+Eltosian[X]
+
+
+//POINTER #90 @ $39D0D - STRING #90 @ $3FDBE
+
+#W16($39D0D)
+CrossKnt[X]
+
+
+//POINTER #91 @ $39D0F - STRING #91 @ $3FD60
+
+#W16($39D0F)
+Captain[X]
+
+
+//POINTER #92 @ $39D11 - STRING #92 @ $3FDD0
+
+#W16($39D11)
+Boldo[X]
+
+
+//POINTER #93 @ $39D13 - STRING #93 @ $3FD9A
+
+#W16($39D13)
+Heirhein[X]
+
+
+//POINTER #94 @ $39D15 - STRING #94 @ $3FDDC
+
+#W16($39D15)
+Philip[X]
+
+
+//POINTER #95 @ $39D17 - STRING #95 @ $3FD9A
+
+#W16($39D17)
+Heirhein[X]
+
+
+//POINTER #96 @ $39D19 - STRING #96 @ $3FD9A
+
+#W16($39D19)
+Heirhein[X]
+
+
+//POINTER #97 @ $39D1B - STRING #97 @ $3FD9A
+
+#W16($39D1B)
+Heirhein[X]
+
+
+//POINTER #98 @ $39D1D - STRING #98 @ $3FD9A
+
+#W16($39D1D)
+Heirhein[X]
+
+
+//POINTER #99 @ $39D1F - STRING #99 @ $3FD9A
+
+#W16($39D1F)
+Heirhein[X]
+
+
+//POINTER #100 @ $39D21 - STRING #100 @ $3FD9A
+
+#W16($39D21)
+Heirhein[X]
+
+
+//POINTER #101 @ $39D23 - STRING #101 @ $3FD8C
+
+#W16($39D23)
+Elliot[X]
+
+
+//POINTER #102 @ $39D25 - STRING #102 @ $3FD9A
+
+#W16($39D25)
+Heirhein[X]
+
+
+//POINTER #103 @ $39D27 - STRING #103 @ $3FD9A
+
+#W16($39D27)
+Heirhein[X]
+
+
+//POINTER #104 @ $39D29 - STRING #104 @ $3FD9A
+
+#W16($39D29)
+Heirhein[X]
+
+
+//POINTER #105 @ $39D2B - STRING #105 @ $3FD60
+
+#W16($39D2B)
+Captain[X]
+
+
+//POINTER #106 @ $39D2D - STRING #106 @ $3FDEA
+
+#W16($39D2D)
+Anphony[X]
+
+
+//POINTER #107 @ $39D2F - STRING #107 @ $3FD80
+
+#W16($39D2F)
+Thief[X]
+
+
+//POINTER #108 @ $39D31 - STRING #108 @ $3FDFA
+
+#W16($39D31)
+Mackily[X]
+
+
+//POINTER #109 @ $39D33 - STRING #109 @ $3FE0A
+
+#W16($39D33)
+Eve[X]
+
+
+//POINTER #110 @ $39D35 - STRING #110 @ $3FE12
+
+#W16($39D35)
+Macbeth[X]
+
+
+//POINTER #111 @ $39D37 - STRING #111 @ $3FDEA
+
+#W16($39D37)
+Anphony[X]
+
+
+//POINTER #112 @ $39D39 - STRING #112 @ $3FDEA
+
+#W16($39D39)
+Anphony[X]
+
+
+//POINTER #113 @ $39D3B - STRING #113 @ $3FDEA
+
+#W16($39D3B)
+Anphony[X]
+
+
+//POINTER #114 @ $39D3D - STRING #114 @ $3FE22
+
+#W16($39D3D)
+Voltz[X]
+
+
+//POINTER #115 @ $39D3F - STRING #115 @ $3FE2E
+
+#W16($39D3F)
+Merc[X]
+
+
+//POINTER #116 @ $39D41 - STRING #116 @ $3FE38
+
+#W16($39D41)
+Clement[X]
+
+
+//POINTER #117 @ $39D43 - STRING #117 @ $3FDFA
+
+#W16($39D43)
+Mackily[X]
+
+
+//POINTER #118 @ $39D45 - STRING #118 @ $3FDFA
+
+#W16($39D45)
+Mackily[X]
+
+
+//POINTER #119 @ $39D47 - STRING #119 @ $3FDFA
+
+#W16($39D47)
+Mackily[X]
+
+
+//POINTER #120 @ $39D49 - STRING #120 @ $3FD60
+
+#W16($39D49)
+Captain[X]
+
+
+//POINTER #121 @ $39D4B - STRING #121 @ $3FDFA
+
+#W16($39D4B)
+Mackily[X]
+
+
+//POINTER #122 @ $39D4D - STRING #122 @ $3FE48
+
+#W16($39D4D)
+Shagall[X]
+
+
+//POINTER #123 @ $39D4F - STRING #123 @ $3FE58
+
+#W16($39D4F)
+Agusty[X]
+
+
+//POINTER #124 @ $39D51 - STRING #124 @ $3FE58
+
+#W16($39D51)
+Agusty[X]
+
+
+//POINTER #125 @ $39D53 - STRING #125 @ $3FD60
+
+#W16($39D53)
+Captain[X]
+
+
+//POINTER #126 @ $39D55 - STRING #126 @ $3FE58
+
+#W16($39D55)
+Agusty[X]
+
+
+//POINTER #127 @ $39D57 - STRING #127 @ $3FD60
+
+#W16($39D57)
+Captain[X]
+
+
+//POINTER #128 @ $39D59 - STRING #128 @ $3FE58
+
+#W16($39D59)
+Agusty[X]
+
+
+//POINTER #129 @ $39D5B - STRING #129 @ $3FE66
+
+#W16($39D5B)
+FurySqd[X]
+
+
+//POINTER #130 @ $39D5D - STRING #130 @ $3FE76
+
+#W16($39D5D)
+Zain[X]
+
+
+//POINTER #131 @ $39D5F - STRING #131 @ $3FE58
+
+#W16($39D5F)
+Agusty[X]
+
+
+//POINTER #132 @ $39D61 - STRING #132 @ $3FE58
+
+#W16($39D61)
+Agusty[X]
+
+
+//POINTER #133 @ $39D63 - STRING #133 @ $3FE58
+
+#W16($39D63)
+Agusty[X]
+
+
+//POINTER #134 @ $39D65 - STRING #134 @ $3FE58
+
+#W16($39D65)
+Agusty[X]
+
+
+//POINTER #135 @ $39D67 - STRING #135 @ $3FE80
+
+#W16($39D67)
+Eva[X]
+
+
+//POINTER #136 @ $39D69 - STRING #136 @ $3FE88
+
+#W16($39D69)
+Alva[X]
+
+
+//POINTER #137 @ $39D6B - STRING #137 @ $3FE92
+
+#W16($39D6B)
+Shacoban[X]
+
+
+//POINTER #138 @ $39D6D - STRING #138 @ $3FEA4
+
+#W16($39D6D)
+Madino[X]
+
+
+//POINTER #139 @ $39D6F - STRING #139 @ $3FEA4
+
+#W16($39D6F)
+Madino[X]
+
+
+//POINTER #140 @ $39D71 - STRING #140 @ $3FEA4
+
+#W16($39D71)
+Madino[X]
+
+
+//POINTER #141 @ $39D73 - STRING #141 @ $3FEA4
+
+#W16($39D73)
+Madino[X]
+
+
+//POINTER #142 @ $39D75 - STRING #142 @ $3FEA4
+
+#W16($39D75)
+Madino[X]
+
+
+//POINTER #143 @ $39D77 - STRING #143 @ $3FD60
+
+#W16($39D77)
+Captain[X]
+
+
+//POINTER #144 @ $39D79 - STRING #144 @ $3FEA4
+
+#W16($39D79)
+Madino[X]
+
+
+//POINTER #145 @ $39D7B - STRING #145 @ $3FD60
+
+#W16($39D7B)
+Captain[X]
+
+
+//POINTER #146 @ $39D7D - STRING #146 @ $3FEA4
+
+#W16($39D7D)
+Madino[X]
+
+
+//POINTER #147 @ $39D7F - STRING #147 @ $3FD60
+
+#W16($39D7F)
+Captain[X]
+
+
+//POINTER #148 @ $39D81 - STRING #148 @ $3FEA4
+
+#W16($39D81)
+Madino[X]
+
+
+//POINTER #149 @ $39D83 - STRING #149 @ $3FD60
+
+#W16($39D83)
+Captain[X]
+
+
+//POINTER #150 @ $39D85 - STRING #150 @ $3FEA4
+
+#W16($39D85)
+Madino[X]
+
+
+//POINTER #151 @ $39D87 - STRING #151 @ $3FD60
+
+#W16($39D87)
+Captain[X]
+
+
+//POINTER #152 @ $39D89 - STRING #152 @ $3FEA4
+
+#W16($39D89)
+Madino[X]
+
+
+//POINTER #153 @ $39D8B - STRING #153 @ $3FD60
+
+#W16($39D8B)
+Captain[X]
+
+
+//POINTER #154 @ $39D8D - STRING #154 @ $3FEA4
+
+#W16($39D8D)
+Madino[X]
+
+
+//POINTER #155 @ $39D8F - STRING #155 @ $3FEB2
+
+#W16($39D8F)
+Pirate[X]
+
+
+//POINTER #156 @ $39D91 - STRING #156 @ $3FD60
+
+#W16($39D91)
+Captain[X]
+
+
+//POINTER #157 @ $39D93 - STRING #157 @ $3FEC0
+
+#W16($39D93)
+Silvail[X]
+
+
+//POINTER #158 @ $39D95 - STRING #158 @ $3FDAC
+
+#W16($39D95)
+Eltosian[X]
+
+
+//POINTER #159 @ $39D97 - STRING #159 @ $3FDBE
+
+#W16($39D97)
+CrossKnt[X]
+
+
+//POINTER #160 @ $39D99 - STRING #160 @ $3FE48
+
+#W16($39D99)
+Shagall[X]
+
+
+//POINTER #161 @ $39D9B - STRING #161 @ $3FEC0
+
+#W16($39D9B)
+Silvail[X]
+
+
+//POINTER #162 @ $39D9D - STRING #162 @ $3FEC0
+
+#W16($39D9D)
+Silvail[X]
+
+
+//POINTER #163 @ $39D9F - STRING #163 @ $3FED0
+
+#W16($39D9F)
+Papilion[X]
+
+
+//POINTER #164 @ $39DA1 - STRING #164 @ $3FEE2
+
+#W16($39DA1)
+Thracia[X]
+
+
+//POINTER #165 @ $39DA3 - STRING #165 @ $3FEB2
+
+#W16($39DA3)
+Pirate[X]
+
+
+//POINTER #166 @ $39DA5 - STRING #166 @ $3FEB2
+
+#W16($39DA5)
+Pirate[X]
+
+
+//POINTER #167 @ $39DA7 - STRING #167 @ $3FEB2
+
+#W16($39DA7)
+Pirate[X]
+
+
+//POINTER #168 @ $39DA9 - STRING #168 @ $3FEB2
+
+#W16($39DA9)
+Pirate[X]
+
+
+//POINTER #169 @ $39DAB - STRING #169 @ $3FEF2
+
+#W16($39DAB)
+Dobarl[X]
+
+
+//POINTER #170 @ $39DAD - STRING #170 @ $3FEB2
+
+#W16($39DAD)
+Pirate[X]
+
+
+//POINTER #171 @ $39DAF - STRING #171 @ $3FF00
+
+#W16($39DAF)
+Pizarl[X]
+
+
+//POINTER #172 @ $39DB1 - STRING #172 @ $3FEB2
+
+#W16($39DB1)
+Pirate[X]
+
+
+//POINTER #173 @ $39DB3 - STRING #173 @ $3FEB2
+
+#W16($39DB3)
+Pirate[X]
+
+
+//POINTER #174 @ $39DB5 - STRING #174 @ $3FEB2
+
+#W16($39DB5)
+Pirate[X]
+
+
+//POINTER #175 @ $39DB7 - STRING #175 @ $3FEB2
+
+#W16($39DB7)
+Pirate[X]
+
+
+//POINTER #176 @ $39DB9 - STRING #176 @ $3FF0E
+
+#W16($39DB9)
+Alvis[X]
+
+
+//POINTER #177 @ $39DBB - STRING #177 @ $3FF1A
+
+#W16($39DBB)
+Langbalt[X]
+
+
+//POINTER #178 @ $39DBD - STRING #178 @ $3FF2C
+
+#W16($39DBD)
+GrauRit[X]
+
+
+//POINTER #179 @ $39DBF - STRING #179 @ $3FF3C
+
+#W16($39DBF)
+Reptor[X]
+
+
+//POINTER #180 @ $39DC1 - STRING #180 @ $3FF4A
+
+#W16($39DC1)
+GelpRit[X]
+
+
+//POINTER #181 @ $39DC3 - STRING #181 @ $3FF5A
+
+#W16($39DC3)
+Mahnya[X]
+
+
+//POINTER #182 @ $39DC5 - STRING #182 @ $3FF68
+
+#W16($39DC5)
+Silesia[X]
+
+
+//POINTER #183 @ $39DC7 - STRING #183 @ $3FF78
+
+#W16($39DC7)
+Maios[X]
+
+
+//POINTER #184 @ $39DC9 - STRING #184 @ $3FF84
+
+#W16($39DC9)
+Thove[X]
+
+
+//POINTER #185 @ $39DCB - STRING #185 @ $3FF84
+
+#W16($39DCB)
+Thove[X]
+
+
+//POINTER #186 @ $39DCD - STRING #186 @ $3FD60
+
+#W16($39DCD)
+Captain[X]
+
+
+//POINTER #187 @ $39DCF - STRING #187 @ $3FF84
+
+#W16($39DCF)
+Thove[X]
+
+
+//POINTER #188 @ $39DD1 - STRING #188 @ $3FF90
+
+#W16($39DD1)
+Cuvuli[X]
+
+
+//POINTER #189 @ $39DD3 - STRING #189 @ $3FF84
+
+#W16($39DD3)
+Thove[X]
+
+
+//POINTER #190 @ $39DD5 - STRING #190 @ $3FD60
+
+#W16($39DD5)
+Captain[X]
+
+
+//POINTER #191 @ $39DD7 - STRING #191 @ $3FF84
+
+#W16($39DD7)
+Thove[X]
+
+
+//POINTER #192 @ $39DD9 - STRING #192 @ $3FF84
+
+#W16($39DD9)
+Thove[X]
+
+
+//POINTER #193 @ $39DDB - STRING #193 @ $3FF9E
+
+#W16($39DDB)
+Deetva[X]
+
+
+//POINTER #194 @ $39DDD - STRING #194 @ $3FFAC
+
+#W16($39DDD)
+DeetSqd[X]
+
+
+//POINTER #195 @ $39DDF - STRING #195 @ $3FEB2
+
+#W16($39DDF)
+Pirate[X]
+
+
+//POINTER #196 @ $39DE1 - STRING #196 @ $3FF68
+
+#W16($39DE1)
+Silesia[X]
+
+
+//POINTER #197 @ $39DE3 - STRING #197 @ $3FFBC
+
+#W16($39DE3)
+Dakar[X]
+
+
+//POINTER #198 @ $39DE5 - STRING #198 @ $3FF5A
+
+#W16($39DE5)
+Mahnya[X]
+
+
+//POINTER #199 @ $39DE7 - STRING #199 @ $3FFC8
+
+#W16($39DE7)
+MahnSqd[X]
+
+
+//POINTER #200 @ $39DE9 - STRING #200 @ $3FFD8
+
+#W16($39DE9)
+Pamela[X]
+
+
+//POINTER #201 @ $39DEB - STRING #201 @ $3FFE6
+
+#W16($39DEB)
+PamSqd[X]
+
+
+//POINTER #202 @ $39DED - STRING #202 @ $3FFF4
+
+#W16($39DED)
+Andre[X]
+
+
+//POINTER #203 @ $39DEF - STRING #203 @ $40000
+
+#W16($39DEF)
+BeigRit[X]
+
+
+//POINTER #204 @ $39DF1 - STRING #204 @ $40010
+
+#W16($39DF1)
+Civilian[X]
+
+
+//POINTER #205 @ $39DF3 - STRING #205 @ $40010
+
+#W16($39DF3)
+Civilian[X]
+
+
+//POINTER #206 @ $39DF5 - STRING #206 @ $40022
+
+#W16($39DF5)
+Donovan[X]
+
+
+//POINTER #207 @ $39DF7 - STRING #207 @ $40032
+
+#W16($39DF7)
+Zaxon[X]
+
+
+//POINTER #208 @ $39DF9 - STRING #208 @ $40032
+
+#W16($39DF9)
+Zaxon[X]
+
+
+//POINTER #209 @ $39DFB - STRING #209 @ $40032
+
+#W16($39DFB)
+Zaxon[X]
+
+
+//POINTER #210 @ $39DFD - STRING #210 @ $40032
+
+#W16($39DFD)
+Zaxon[X]
+
+
+//POINTER #211 @ $39DFF - STRING #211 @ $40032
+
+#W16($39DFF)
+Zaxon[X]
+
+
+//POINTER #212 @ $39E01 - STRING #212 @ $4003E
+
+#W16($39E01)
+Lamia[X]
+
+
+//POINTER #213 @ $39E03 - STRING #213 @ $3FE2E
+
+#W16($39E03)
+Merc[X]
+
+
+//POINTER #214 @ $39E05 - STRING #214 @ $3FE2E
+
+#W16($39E05)
+Merc[X]
+
+
+//POINTER #215 @ $39E07 - STRING #215 @ $3FE2E
+
+#W16($39E07)
+Merc[X]
+
+
+//POINTER #216 @ $39E09 - STRING #216 @ $3FE2E
+
+#W16($39E09)
+Merc[X]
+
+
+//POINTER #217 @ $39E0B - STRING #217 @ $3FE2E
+
+#W16($39E0B)
+Merc[X]
+
+
+//POINTER #218 @ $39E0D - STRING #218 @ $3FF1A
+
+#W16($39E0D)
+Langbalt[X]
+
+
+//POINTER #219 @ $39E0F - STRING #219 @ $4004A
+
+#W16($39E0F)
+Child[X]
+
+
+//POINTER #220 @ $39E11 - STRING #220 @ $40056
+
+#W16($39E11)
+Lubeck[X]
+
+
+//POINTER #221 @ $39E13 - STRING #221 @ $40064
+
+#W16($39E13)
+Slayder[X]
+
+
+//POINTER #222 @ $39E15 - STRING #222 @ $40056
+
+#W16($39E15)
+Lubeck[X]
+
+
+//POINTER #223 @ $39E17 - STRING #223 @ $3FD60
+
+#W16($39E17)
+Captain[X]
+
+
+//POINTER #224 @ $39E19 - STRING #224 @ $40056
+
+#W16($39E19)
+Lubeck[X]
+
+
+//POINTER #225 @ $39E1B - STRING #225 @ $40056
+
+#W16($39E1B)
+Lubeck[X]
+
+
+//POINTER #226 @ $39E1D - STRING #226 @ $3FD80
+
+#W16($39E1D)
+Thief[X]
+
+
+//POINTER #227 @ $39E1F - STRING #227 @ $3FD60
+
+#W16($39E1F)
+Captain[X]
+
+
+//POINTER #228 @ $39E21 - STRING #228 @ $40056
+
+#W16($39E21)
+Lubeck[X]
+
+
+//POINTER #229 @ $39E23 - STRING #229 @ $40056
+
+#W16($39E23)
+Lubeck[X]
+
+
+//POINTER #230 @ $39E25 - STRING #230 @ $40056
+
+#W16($39E25)
+Lubeck[X]
+
+
+//POINTER #231 @ $39E27 - STRING #231 @ $40074
+
+#W16($39E27)
+Vylon[X]
+
+
+//POINTER #232 @ $39E29 - STRING #232 @ $3FFF4
+
+#W16($39E29)
+Andre[X]
+
+
+//POINTER #233 @ $39E2B - STRING #233 @ $40000
+
+#W16($39E2B)
+BeigRit[X]
+
+
+//POINTER #234 @ $39E2D - STRING #234 @ $40080
+
+#W16($39E2D)
+Vaha[X]
+
+
+//POINTER #235 @ $39E2F - STRING #235 @ $4008A
+
+#W16($39E2F)
+Velthom[X]
+
+
+//POINTER #236 @ $39E31 - STRING #236 @ $4009A
+
+#W16($39E31)
+Priest[X]
+
+
+//POINTER #237 @ $39E33 - STRING #237 @ $4008A
+
+#W16($39E33)
+Velthom[X]
+
+
+//POINTER #238 @ $39E35 - STRING #238 @ $400A8
+
+#W16($39E35)
+Trabant[X]
+
+
+//POINTER #239 @ $39E37 - STRING #239 @ $400B8
+
+#W16($39E37)
+Magorn[X]
+
+
+//POINTER #240 @ $39E39 - STRING #240 @ $3FEE2
+
+#W16($39E39)
+Thracia[X]
+
+
+//POINTER #241 @ $39E3B - STRING #241 @ $400C6
+
+#W16($39E3B)
+Lenster[X]
+
+
+//POINTER #242 @ $39E3D - STRING #242 @ $400D6
+
+#W16($39E3D)
+Aida[X]
+
+
+//POINTER #243 @ $39E3F - STRING #243 @ $4008A
+
+#W16($39E3F)
+Velthom[X]
+
+
+//POINTER #244 @ $39E41 - STRING #244 @ $3FF3C
+
+#W16($39E41)
+Reptor[X]
+
+
+//POINTER #245 @ $39E43 - STRING #245 @ $400E0
+
+#W16($39E43)
+Freege[X]
+
+
+//POINTER #246 @ $39E45 - STRING #246 @ $400E0
+
+#W16($39E45)
+Freege[X]
+
+
+//POINTER #247 @ $39E47 - STRING #247 @ $400E0
+
+#W16($39E47)
+Freege[X]
+
+
+//POINTER #248 @ $39E49 - STRING #248 @ $400E0
+
+#W16($39E49)
+Freege[X]
+
+
+//POINTER #249 @ $39E4B - STRING #249 @ $400E0
+
+#W16($39E4B)
+Freege[X]
+
+
+//POINTER #250 @ $39E4D - STRING #250 @ $400E0
+
+#W16($39E4D)
+Freege[X]
+
+
+//POINTER #251 @ $39E4F - STRING #251 @ $400E0
+
+#W16($39E4F)
+Freege[X]
+
+
+//POINTER #252 @ $39E51 - STRING #252 @ $400E0
+
+#W16($39E51)
+Freege[X]
+
+
+//POINTER #253 @ $39E53 - STRING #253 @ $3FD60
+
+#W16($39E53)
+Captain[X]
+
+
+//POINTER #254 @ $39E55 - STRING #254 @ $400EE
+
+#W16($39E55)
+RotRit[X]
+
+
+//POINTER #255 @ $39E57 - STRING #255 @ $3FD60
+
+#W16($39E57)
+Captain[X]
+
+
+//POINTER #256 @ $39E59 - STRING #256 @ $400EE
+
+#W16($39E59)
+RotRit[X]
+
+
+//POINTER #257 @ $39E5B - STRING #257 @ $3FD60
+
+#W16($39E5B)
+Captain[X]
+
+
+//POINTER #258 @ $39E5D - STRING #258 @ $400EE
+
+#W16($39E5D)
+RotRit[X]
+
+
+//POINTER #259 @ $39E5F - STRING #259 @ $3FF0E
+
+#W16($39E5F)
+Alvis[X]
+
+
+//POINTER #260 @ $39E61 - STRING #260 @ $3FD60
+
+#W16($39E61)
+Captain[X]
+
+
+//POINTER #261 @ $39E63 - STRING #261 @ $400EE
+
+#W16($39E63)
+RotRit[X]
+
+
+//POINTER #262 @ $39E65 - STRING #262 @ $400FC
+
+#W16($39E65)
+Harold[X]
+
+
+//POINTER #263 @ $39E67 - STRING #263 @ $4010A
+
+#W16($39E67)
+Ganei[X]
+
+
+//POINTER #264 @ $39E69 - STRING #264 @ $4010A
+
+#W16($39E69)
+Ganei[X]
+
+
+//POINTER #265 @ $39E6B - STRING #265 @ $3FD80
+
+#W16($39E6B)
+Thief[X]
+
+
+//POINTER #266 @ $39E6D - STRING #266 @ $40116
+
+#W16($39E6D)
+Sophara[X]
+
+
+//POINTER #267 @ $39E6F - STRING #267 @ $40126
+
+#W16($39E6F)
+Isaac[X]
+
+
+//POINTER #268 @ $39E71 - STRING #268 @ $40126
+
+#W16($39E71)
+Isaac[X]
+
+
+//POINTER #269 @ $39E73 - STRING #269 @ $40116
+
+#W16($39E73)
+Sophara[X]
+
+
+//POINTER #270 @ $39E75 - STRING #270 @ $40132
+
+#W16($39E75)
+Shumit[X]
+
+
+//POINTER #271 @ $39E77 - STRING #271 @ $40140
+
+#W16($39E77)
+Rivough[X]
+
+
+//POINTER #272 @ $39E79 - STRING #272 @ $40150
+
+#W16($39E79)
+Danan[X]
+
+
+//POINTER #273 @ $39E7B - STRING #273 @ $4010A
+
+#W16($39E7B)
+Ganei[X]
+
+
+//POINTER #274 @ $39E7D - STRING #274 @ $4010A
+
+#W16($39E7D)
+Ganei[X]
+
+
+//POINTER #275 @ $39E7F - STRING #275 @ $4015C
+
+#W16($39E7F)
+Cutozov[X]
+
+
+//POINTER #276 @ $39E81 - STRING #276 @ $4016C
+
+#W16($39E81)
+Yied[X]
+
+
+//POINTER #277 @ $39E83 - STRING #277 @ $4016C
+
+#W16($39E83)
+Yied[X]
+
+
+//POINTER #278 @ $39E85 - STRING #278 @ $3FE2E
+
+#W16($39E85)
+Merc[X]
+
+
+//POINTER #279 @ $39E87 - STRING #279 @ $4016C
+
+#W16($39E87)
+Yied[X]
+
+
+//POINTER #280 @ $39E89 - STRING #280 @ $3FD60
+
+#W16($39E89)
+Captain[X]
+
+
+//POINTER #281 @ $39E8B - STRING #281 @ $40176
+
+#W16($39E8B)
+Alster[X]
+
+
+//POINTER #282 @ $39E8D - STRING #282 @ $40176
+
+#W16($39E8D)
+Alster[X]
+
+
+//POINTER #283 @ $39E8F - STRING #283 @ $3FD80
+
+#W16($39E8F)
+Thief[X]
+
+
+//POINTER #284 @ $39E91 - STRING #284 @ $40184
+
+#W16($39E91)
+Blume[X]
+
+
+//POINTER #285 @ $39E93 - STRING #285 @ $40176
+
+#W16($39E93)
+Alster[X]
+
+
+//POINTER #286 @ $39E95 - STRING #286 @ $40190
+
+#W16($39E95)
+Darna[X]
+
+
+//POINTER #287 @ $39E97 - STRING #287 @ $4019C
+
+#W16($39E97)
+Ishtor[X]
+
+
+//POINTER #288 @ $39E99 - STRING #288 @ $401AA
+
+#W16($39E99)
+Melgen[X]
+
+
+//POINTER #289 @ $39E9B - STRING #289 @ $401B8
+
+#W16($39E9B)
+Liza[X]
+
+
+//POINTER #290 @ $39E9D - STRING #290 @ $401AA
+
+#W16($39E9D)
+Melgen[X]
+
+
+//POINTER #291 @ $39E9F - STRING #291 @ $401AA
+
+#W16($39E9F)
+Melgen[X]
+
+
+//POINTER #292 @ $39EA1 - STRING #292 @ $401AA
+
+#W16($39EA1)
+Melgen[X]
+
+
+//POINTER #293 @ $39EA3 - STRING #293 @ $401AA
+
+#W16($39EA3)
+Melgen[X]
+
+
+//POINTER #294 @ $39EA5 - STRING #294 @ $401AA
+
+#W16($39EA5)
+Melgen[X]
+
+
+//POINTER #295 @ $39EA7 - STRING #295 @ $401AA
+
+#W16($39EA7)
+Melgen[X]
+
+
+//POINTER #296 @ $39EA9 - STRING #296 @ $401C2
+
+#W16($39EA9)
+Jabarro[X]
+
+
+//POINTER #297 @ $39EAB - STRING #297 @ $3FE2E
+
+#W16($39EAB)
+Merc[X]
+
+
+//POINTER #298 @ $39EAD - STRING #298 @ $3FE2E
+
+#W16($39EAD)
+Merc[X]
+
+
+//POINTER #299 @ $39EAF - STRING #299 @ $401D2
+
+#W16($39EAF)
+Bramsel[X]
+
+
+//POINTER #300 @ $39EB1 - STRING #300 @ $40190
+
+#W16($39EB1)
+Darna[X]
+
+
+//POINTER #301 @ $39EB3 - STRING #301 @ $3FD60
+
+#W16($39EB3)
+Captain[X]
+
+
+//POINTER #302 @ $39EB5 - STRING #302 @ $40176
+
+#W16($39EB5)
+Alster[X]
+
+
+//POINTER #303 @ $39EB7 - STRING #303 @ $40176
+
+#W16($39EB7)
+Alster[X]
+
+
+//POINTER #304 @ $39EB9 - STRING #304 @ $401E2
+
+#W16($39EB9)
+Vanpa[X]
+
+
+//POINTER #305 @ $39EBB - STRING #305 @ $401EE
+
+#W16($39EBB)
+Fetora[X]
+
+
+//POINTER #306 @ $39EBD - STRING #306 @ $3A0CD
+
+#W16($39EBD)
+Eliu[X]
+
+
+//POINTER #307 @ $39EBF - STRING #307 @ $3A0D7
+
+#W16($39EBF)
+High[X]
+
+
+//POINTER #308 @ $39EC1 - STRING #308 @ $3A0D7
+
+#W16($39EC1)
+High[X]
+
+
+//POINTER #309 @ $39EC3 - STRING #309 @ $3A0D7
+
+#W16($39EC3)
+High[X]
+
+
+//POINTER #310 @ $39EC5 - STRING #310 @ $3A0E1
+
+#W16($39EC5)
+Muhammed[X]
+
+
+//POINTER #311 @ $39EC7 - STRING #311 @ $3A0F3
+
+#W16($39EC7)
+Conote[X]
+
+
+//POINTER #312 @ $39EC9 - STRING #312 @ $3A0F3
+
+#W16($39EC9)
+Conote[X]
+
+
+//POINTER #313 @ $39ECB - STRING #313 @ $3A0F3
+
+#W16($39ECB)
+Conote[X]
+
+
+//POINTER #314 @ $39ECD - STRING #314 @ $4009A
+
+#W16($39ECD)
+Priest[X]
+
+
+//POINTER #315 @ $39ECF - STRING #315 @ $3A101
+
+#W16($39ECF)
+Ovo[X]
+
+
+//POINTER #316 @ $39ED1 - STRING #316 @ $3A0F3
+
+#W16($39ED1)
+Conote[X]
+
+
+//POINTER #317 @ $39ED3 - STRING #317 @ $3A0F3
+
+#W16($39ED3)
+Conote[X]
+
+
+//POINTER #318 @ $39ED5 - STRING #318 @ $3FD80
+
+#W16($39ED5)
+Thief[X]
+
+
+//POINTER #319 @ $39ED7 - STRING #319 @ $3FD60
+
+#W16($39ED7)
+Captain[X]
+
+
+//POINTER #320 @ $39ED9 - STRING #320 @ $3A0F3
+
+#W16($39ED9)
+Conote[X]
+
+
+//POINTER #321 @ $39EDB - STRING #321 @ $3A109
+
+#W16($39EDB)
+Ishtar[X]
+
+
+//POINTER #322 @ $39EDD - STRING #322 @ $3FD60
+
+#W16($39EDD)
+Captain[X]
+
+
+//POINTER #323 @ $39EDF - STRING #323 @ $3A0F3
+
+#W16($39EDF)
+Conote[X]
+
+
+//POINTER #324 @ $39EE1 - STRING #324 @ $40184
+
+#W16($39EE1)
+Blume[X]
+
+
+//POINTER #325 @ $39EE3 - STRING #325 @ $3A0F3
+
+#W16($39EE3)
+Conote[X]
+
+
+//POINTER #326 @ $39EE5 - STRING #326 @ $40010
+
+#W16($39EE5)
+Civilian[X]
+
+
+//POINTER #327 @ $39EE7 - STRING #327 @ $40010
+
+#W16($39EE7)
+Civilian[X]
+
+
+//POINTER #328 @ $39EE9 - STRING #328 @ $3FD60
+
+#W16($39EE9)
+Captain[X]
+
+
+//POINTER #329 @ $39EEB - STRING #329 @ $3FEE2
+
+#W16($39EEB)
+Thracia[X]
+
+
+//POINTER #330 @ $39EED - STRING #330 @ $3A117
+
+#W16($39EED)
+Coruta[X]
+
+
+//POINTER #331 @ $39EEF - STRING #331 @ $3FEE2
+
+#W16($39EEF)
+Thracia[X]
+
+
+//POINTER #332 @ $39EF1 - STRING #332 @ $3FD60
+
+#W16($39EF1)
+Captain[X]
+
+
+//POINTER #333 @ $39EF3 - STRING #333 @ $3FEE2
+
+#W16($39EF3)
+Thracia[X]
+
+
+//POINTER #334 @ $39EF5 - STRING #334 @ $3FD60
+
+#W16($39EF5)
+Captain[X]
+
+
+//POINTER #335 @ $39EF7 - STRING #335 @ $3FEE2
+
+#W16($39EF7)
+Thracia[X]
+
+
+//POINTER #336 @ $39EF9 - STRING #336 @ $3A125
+
+#W16($39EF9)
+Maikov[X]
+
+
+//POINTER #337 @ $39EFB - STRING #337 @ $401E2
+
+#W16($39EFB)
+Vanpa[X]
+
+
+//POINTER #338 @ $39EFD - STRING #338 @ $401EE
+
+#W16($39EFD)
+Fetora[X]
+
+
+//POINTER #339 @ $39EFF - STRING #339 @ $3A0CD
+
+#W16($39EFF)
+Eliu[X]
+
+
+//POINTER #340 @ $39F01 - STRING #340 @ $3A133
+
+#W16($39F01)
+Kapath[X]
+
+
+//POINTER #341 @ $39F03 - STRING #341 @ $3A133
+
+#W16($39F03)
+Kapath[X]
+
+
+//POINTER #342 @ $39F05 - STRING #342 @ $3A133
+
+#W16($39F05)
+Kapath[X]
+
+
+//POINTER #343 @ $39F07 - STRING #343 @ $3A133
+
+#W16($39F07)
+Kapath[X]
+
+
+//POINTER #344 @ $39F09 - STRING #344 @ $3FEE2
+
+#W16($39F09)
+Thracia[X]
+
+
+//POINTER #345 @ $39F0B - STRING #345 @ $3FEE2
+
+#W16($39F0B)
+Thracia[X]
+
+
+//POINTER #346 @ $39F0D - STRING #346 @ $3FD80
+
+#W16($39F0D)
+Thief[X]
+
+
+//POINTER #347 @ $39F0F - STRING #347 @ $3A141
+
+#W16($39F0F)
+Kanatz[X]
+
+
+//POINTER #348 @ $39F11 - STRING #348 @ $3A14F
+
+#W16($39F11)
+Disler[X]
+
+
+//POINTER #349 @ $39F13 - STRING #349 @ $3A15D
+
+#W16($39F13)
+Grutia[X]
+
+
+//POINTER #350 @ $39F15 - STRING #350 @ $3FE2E
+
+#W16($39F15)
+Merc[X]
+
+
+//POINTER #351 @ $39F17 - STRING #351 @ $3FE2E
+
+#W16($39F17)
+Merc[X]
+
+
+//POINTER #352 @ $39F19 - STRING #352 @ $400A8
+
+#W16($39F19)
+Trabant[X]
+
+
+//POINTER #353 @ $39F1B - STRING #353 @ $3FEE2
+
+#W16($39F1B)
+Thracia[X]
+
+
+//POINTER #354 @ $39F1D - STRING #354 @ $3A16B
+
+#W16($39F1D)
+Judah[X]
+
+
+//POINTER #355 @ $39F1F - STRING #355 @ $3FD60
+
+#W16($39F1F)
+Captain[X]
+
+
+//POINTER #356 @ $39F21 - STRING #356 @ $3A15D
+
+#W16($39F21)
+Grutia[X]
+
+
+//POINTER #357 @ $39F23 - STRING #357 @ $3A177
+
+#W16($39F23)
+Arion[X]
+
+
+//POINTER #358 @ $39F25 - STRING #358 @ $3A183
+
+#W16($39F25)
+Dragon[X]
+
+
+//POINTER #359 @ $39F27 - STRING #359 @ $3A183
+
+#W16($39F27)
+Dragon[X]
+
+
+//POINTER #360 @ $39F29 - STRING #360 @ $3FD60
+
+#W16($39F29)
+Captain[X]
+
+
+//POINTER #361 @ $39F2B - STRING #361 @ $3FEE2
+
+#W16($39F2B)
+Thracia[X]
+
+
+//POINTER #362 @ $39F2D - STRING #362 @ $3FD60
+
+#W16($39F2D)
+Captain[X]
+
+
+//POINTER #363 @ $39F2F - STRING #363 @ $3FEE2
+
+#W16($39F2F)
+Thracia[X]
+
+
+//POINTER #364 @ $39F31 - STRING #364 @ $3FD60
+
+#W16($39F31)
+Captain[X]
+
+
+//POINTER #365 @ $39F33 - STRING #365 @ $3FEE2
+
+#W16($39F33)
+Thracia[X]
+
+
+//POINTER #366 @ $39F35 - STRING #366 @ $3A191
+
+#W16($39F35)
+Musar[X]
+
+
+//POINTER #367 @ $39F37 - STRING #367 @ $3A19D
+
+#W16($39F37)
+Imperial[X]
+
+
+//POINTER #368 @ $39F39 - STRING #368 @ $3A19D
+
+#W16($39F39)
+Imperial[X]
+
+
+//POINTER #369 @ $39F3B - STRING #369 @ $3A19D
+
+#W16($39F3B)
+Imperial[X]
+
+
+//POINTER #370 @ $39F3D - STRING #370 @ $3A19D
+
+#W16($39F3D)
+Imperial[X]
+
+
+//POINTER #371 @ $39F3F - STRING #371 @ $3A1AF
+
+#W16($39F3F)
+Lideel[X]
+
+
+//POINTER #372 @ $39F41 - STRING #372 @ $3A1BD
+
+#W16($39F41)
+LidlSqd[X]
+
+
+//POINTER #373 @ $39F43 - STRING #373 @ $3A1BD
+
+#W16($39F43)
+LidlSqd[X]
+
+
+//POINTER #374 @ $39F45 - STRING #374 @ $3A1BD
+
+#W16($39F45)
+LidlSqd[X]
+
+
+//POINTER #375 @ $39F47 - STRING #375 @ $3A1BD
+
+#W16($39F47)
+LidlSqd[X]
+
+
+//POINTER #376 @ $39F49 - STRING #376 @ $3A1BD
+
+#W16($39F49)
+LidlSqd[X]
+
+
+//POINTER #377 @ $39F4B - STRING #377 @ $3A1CD
+
+#W16($39F4B)
+Morigan[X]
+
+
+//POINTER #378 @ $39F4D - STRING #378 @ $3A1DD
+
+#W16($39F4D)
+Dark[X]
+
+
+//POINTER #379 @ $39F4F - STRING #379 @ $3FEB2
+
+#W16($39F4F)
+Pirate[X]
+
+
+//POINTER #380 @ $39F51 - STRING #380 @ $3A1E7
+
+#W16($39F51)
+Hilda[X]
+
+
+//POINTER #381 @ $39F53 - STRING #381 @ $3A1DD
+
+#W16($39F53)
+Dark[X]
+
+
+//POINTER #382 @ $39F55 - STRING #382 @ $3A1DD
+
+#W16($39F55)
+Dark[X]
+
+
+//POINTER #383 @ $39F57 - STRING #383 @ $3A1DD
+
+#W16($39F57)
+Dark[X]
+
+
+//POINTER #384 @ $39F59 - STRING #384 @ $3FE2E
+
+#W16($39F59)
+Merc[X]
+
+
+//POINTER #385 @ $39F5B - STRING #385 @ $3FE2E
+
+#W16($39F5B)
+Merc[X]
+
+
+//POINTER #386 @ $39F5D - STRING #386 @ $4004A
+
+#W16($39F5D)
+Child[X]
+
+
+//POINTER #387 @ $39F5F - STRING #387 @ $4004A
+
+#W16($39F5F)
+Child[X]
+
+
+//POINTER #388 @ $39F61 - STRING #388 @ $3A1F3
+
+#W16($39F61)
+Zagam[X]
+
+
+//POINTER #389 @ $39F63 - STRING #389 @ $3A1DD
+
+#W16($39F63)
+Dark[X]
+
+
+//POINTER #390 @ $39F65 - STRING #390 @ $3A1DD
+
+#W16($39F65)
+Dark[X]
+
+
+//POINTER #391 @ $39F67 - STRING #391 @ $3A1DD
+
+#W16($39F67)
+Dark[X]
+
+
+//POINTER #392 @ $39F69 - STRING #392 @ $3A1DD
+
+#W16($39F69)
+Dark[X]
+
+
+//POINTER #393 @ $39F6B - STRING #393 @ $3A1DD
+
+#W16($39F6B)
+Dark[X]
+
+
+//POINTER #394 @ $39F6D - STRING #394 @ $3FE2E
+
+#W16($39F6D)
+Merc[X]
+
+
+//POINTER #395 @ $39F6F - STRING #395 @ $3FE2E
+
+#W16($39F6F)
+Merc[X]
+
+
+//POINTER #396 @ $39F71 - STRING #396 @ $3FE2E
+
+#W16($39F71)
+Merc[X]
+
+
+//POINTER #397 @ $39F73 - STRING #397 @ $3A1FF
+
+#W16($39F73)
+Julius[X]
+
+
+//POINTER #398 @ $39F75 - STRING #398 @ $3A109
+
+#W16($39F75)
+Ishtar[X]
+
+
+//POINTER #399 @ $39F77 - STRING #399 @ $3FF0E
+
+#W16($39F77)
+Alvis[X]
+
+
+//POINTER #400 @ $39F79 - STRING #400 @ $400EE
+
+#W16($39F79)
+RotRit[X]
+
+
+//POINTER #401 @ $39F7B - STRING #401 @ $400EE
+
+#W16($39F7B)
+RotRit[X]
+
+
+//POINTER #402 @ $39F7D - STRING #402 @ $400EE
+
+#W16($39F7D)
+RotRit[X]
+
+
+//POINTER #403 @ $39F7F - STRING #403 @ $3A1DD
+
+#W16($39F7F)
+Dark[X]
+
+
+//POINTER #404 @ $39F81 - STRING #404 @ $3A20D
+
+#W16($39F81)
+Palmark[X]
+
+
+//POINTER #405 @ $39F83 - STRING #405 @ $4004A
+
+#W16($39F83)
+Child[X]
+
+
+//POINTER #406 @ $39F85 - STRING #406 @ $4004A
+
+#W16($39F85)
+Child[X]
+
+
+//POINTER #407 @ $39F87 - STRING #407 @ $3FD60
+
+#W16($39F87)
+Captain[X]
+
+
+//POINTER #408 @ $39F89 - STRING #408 @ $400EE
+
+#W16($39F89)
+RotRit[X]
+
+
+//POINTER #409 @ $39F8B - STRING #409 @ $400EE
+
+#W16($39F8B)
+RotRit[X]
+
+
+//POINTER #410 @ $39F8D - STRING #410 @ $3FD60
+
+#W16($39F8D)
+Captain[X]
+
+
+//POINTER #411 @ $39F8F - STRING #411 @ $400EE
+
+#W16($39F8F)
+RotRit[X]
+
+
+//POINTER #412 @ $39F91 - STRING #412 @ $400EE
+
+#W16($39F91)
+RotRit[X]
+
+
+//POINTER #413 @ $39F93 - STRING #413 @ $3FD60
+
+#W16($39F93)
+Captain[X]
+
+
+//POINTER #414 @ $39F95 - STRING #414 @ $400EE
+
+#W16($39F95)
+RotRit[X]
+
+
+//POINTER #415 @ $39F97 - STRING #415 @ $400EE
+
+#W16($39F97)
+RotRit[X]
+
+
+//POINTER #416 @ $39F99 - STRING #416 @ $400EE
+
+#W16($39F99)
+RotRit[X]
+
+
+//POINTER #417 @ $39F9B - STRING #417 @ $3A1DD
+
+#W16($39F9B)
+Dark[X]
+
+
+//POINTER #418 @ $39F9D - STRING #418 @ $3A1DD
+
+#W16($39F9D)
+Dark[X]
+
+
+//POINTER #419 @ $39F9F - STRING #419 @ $3A21D
+
+#W16($39F9F)
+Robert[X]
+
+
+//POINTER #420 @ $39FA1 - STRING #420 @ $3FE2E
+
+#W16($39FA1)
+Merc[X]
+
+
+//POINTER #421 @ $39FA3 - STRING #421 @ $3FE2E
+
+#W16($39FA3)
+Merc[X]
+
+
+//POINTER #422 @ $39FA5 - STRING #422 @ $3FE2E
+
+#W16($39FA5)
+Merc[X]
+
+
+//POINTER #423 @ $39FA7 - STRING #423 @ $3FE2E
+
+#W16($39FA7)
+Merc[X]
+
+
+//POINTER #424 @ $39FA9 - STRING #424 @ $3FE2E
+
+#W16($39FA9)
+Merc[X]
+
+
+//POINTER #425 @ $39FAB - STRING #425 @ $3A22B
+
+#W16($39FAB)
+Boyce[X]
+
+
+//POINTER #426 @ $39FAD - STRING #426 @ $3FE2E
+
+#W16($39FAD)
+Merc[X]
+
+
+//POINTER #427 @ $39FAF - STRING #427 @ $3FE2E
+
+#W16($39FAF)
+Merc[X]
+
+
+//POINTER #428 @ $39FB1 - STRING #428 @ $3A237
+
+#W16($39FB1)
+Rodan[X]
+
+
+//POINTER #429 @ $39FB3 - STRING #429 @ $3A243
+
+#W16($39FB3)
+Edda[X]
+
+
+//POINTER #430 @ $39FB5 - STRING #430 @ $3A243
+
+#W16($39FB5)
+Edda[X]
+
+
+//POINTER #431 @ $39FB7 - STRING #431 @ $3A243
+
+#W16($39FB7)
+Edda[X]
+
+
+//POINTER #432 @ $39FB9 - STRING #432 @ $3A243
+
+#W16($39FB9)
+Edda[X]
+
+
+//POINTER #433 @ $39FBB - STRING #433 @ $3A24D
+
+#W16($39FBB)
+Yupheel[X]
+
+
+//POINTER #434 @ $39FBD - STRING #434 @ $3A1DD
+
+#W16($39FBD)
+Dark[X]
+
+
+//POINTER #435 @ $39FBF - STRING #435 @ $3A1DD
+
+#W16($39FBF)
+Dark[X]
+
+
+//POINTER #436 @ $39FC1 - STRING #436 @ $3A25D
+
+#W16($39FC1)
+Fisher[X]
+
+
+//POINTER #437 @ $39FC3 - STRING #437 @ $3A26B
+
+#W16($39FC3)
+Dozel[X]
+
+
+//POINTER #438 @ $39FC5 - STRING #438 @ $3A26B
+
+#W16($39FC5)
+Dozel[X]
+
+
+//POINTER #439 @ $39FC7 - STRING #439 @ $3A277
+
+#W16($39FC7)
+Brian[X]
+
+
+//POINTER #440 @ $39FC9 - STRING #440 @ $3FF2C
+
+#W16($39FC9)
+GrauRit[X]
+
+
+//POINTER #441 @ $39FCB - STRING #441 @ $3FF2C
+
+#W16($39FCB)
+GrauRit[X]
+
+
+//POINTER #442 @ $39FCD - STRING #442 @ $3A283
+
+#W16($39FCD)
+Dagon[X]
+
+
+//POINTER #443 @ $39FCF - STRING #443 @ $3A28F
+
+#W16($39FCF)
+Scorpio[X]
+
+
+//POINTER #444 @ $39FD1 - STRING #444 @ $40000
+
+#W16($39FD1)
+BeigRit[X]
+
+
+//POINTER #445 @ $39FD3 - STRING #445 @ $40000
+
+#W16($39FD3)
+BeigRit[X]
+
+
+//POINTER #446 @ $39FD5 - STRING #446 @ $3A1E7
+
+#W16($39FD5)
+Hilda[X]
+
+
+//POINTER #447 @ $39FD7 - STRING #447 @ $3A29F
+
+#W16($39FD7)
+GelbRit[X]
+
+
+//POINTER #448 @ $39FD9 - STRING #448 @ $3A29F
+
+#W16($39FD9)
+GelbRit[X]
+
+
+//POINTER #449 @ $39FDB - STRING #449 @ $3A2AF
+
+#W16($39FDB)
+DarkPriest[X]
+
+
+//POINTER #450 @ $39FDD - STRING #450 @ $3A1DD
+
+#W16($39FDD)
+Dark[X]
+
+
+//POINTER #451 @ $39FDF - STRING #451 @ $3A2C5
+
+#W16($39FDF)
+Manfloy[X]
+
+
+//POINTER #452 @ $39FE1 - STRING #452 @ $3A1DD
+
+#W16($39FE1)
+Dark[X]
+
+
+//POINTER #453 @ $39FE3 - STRING #453 @ $3A1FF
+
+#W16($39FE3)
+Julius[X]
+
+
+//POINTER #454 @ $39FE5 - STRING #454 @ $3A2D5
+
+#W16($39FE5)
+Eins[X]
+
+
+//POINTER #455 @ $39FE7 - STRING #455 @ $3A2DF
+
+#W16($39FE7)
+Zwei[X]
+
+
+//POINTER #456 @ $39FE9 - STRING #456 @ $3A2E9
+
+#W16($39FE9)
+Drei[X]
+
+
+//POINTER #457 @ $39FEB - STRING #457 @ $3A2F3
+
+#W16($39FEB)
+Vier[X]
+
+
+//POINTER #458 @ $39FED - STRING #458 @ $3A2FD
+
+#W16($39FED)
+Funf[X]
+
+
+//POINTER #459 @ $39FEF - STRING #459 @ $3A307
+
+#W16($39FEF)
+Sechs[X]
+
+
+//POINTER #460 @ $39FF1 - STRING #460 @ $3A313
+
+#W16($39FF1)
+Sieben[X]
+
+
+//POINTER #461 @ $39FF3 - STRING #461 @ $3A321
+
+#W16($39FF3)
+Acht[X]
+
+
+//POINTER #462 @ $39FF5 - STRING #462 @ $3A32B
+
+#W16($39FF5)
+Neun[X]
+
+
+//POINTER #463 @ $39FF7 - STRING #463 @ $3A335
+
+#W16($39FF7)
+Zehn[X]
+
+
+//POINTER #464 @ $39FF9 - STRING #464 @ $3A33F
+
+#W16($39FF9)
+Elf[X]
+
+
+//POINTER #465 @ $39FFB - STRING #465 @ $3A347
+
+#W16($39FFB)
+Zwolf[X]
+
+
+//POINTER #466 @ $39FFD - STRING #466 @ $3A177
+
+#W16($39FFD)
+Arion[X]
+
+
+//POINTER #467 @ $39FFF - STRING #467 @ $3A183
+
+#W16($39FFF)
+Dragon[X]
+
+
+//POINTER #468 @ $3A001 - STRING #468 @ $3A109
+
+#W16($3A001)
+Ishtar[X]
+
+
+//POINTER #469 @ $3A003 - STRING #469 @ $3A353
+
+#W16($3A003)
+Meng[X]
+
+
+//POINTER #470 @ $3A005 - STRING #470 @ $3A35D
+
+#W16($3A005)
+Maybell[X]
+
+
+//POINTER #471 @ $3A007 - STRING #471 @ $3A36D
+
+#W16($3A007)
+Bleg[X]
+
+
+//POINTER #472 @ $3A009 - STRING #472 @ $3A377
+
+#W16($3A009)
+Barhara[X]
+
+
+//POINTER #473 @ $3A00B - STRING #473 @ $3A377
+
+#W16($3A00B)
+Barhara[X]
+
+
+//POINTER #474 @ $3A00D - STRING #474 @ $3A377
+
+#W16($3A00D)
+Barhara[X]
+
+
+//POINTER #475 @ $3A00F - STRING #475 @ $3A377
+
+#W16($3A00F)
+Barhara[X]
+
+
+//POINTER #476 @ $3A011 - STRING #476 @ $3A387
+
+#W16($3A011)
+Baran[X]
+
+
+//POINTER #477 @ $3A013 - STRING #477 @ $3A393
+
+#W16($3A013)
+Cutozov[X]
+
+
+//POINTER #478 @ $3A015 - STRING #478 @ $3FD80
+
+#W16($3A015)
+Thief[X]
+
+
+//POINTER #479 @ $3A017 - STRING #479 @ $3A3A3
+
+#W16($3A017)
+Gazak[X]
+
+
+//POINTER #480 @ $3A019 - STRING #480 @ $3A3AF
+
+#W16($3A019)
+Clotho[X]
+
+
+//POINTER #481 @ $3A01B - STRING #481 @ $3A3BD
+
+#W16($3A01B)
+Weissman[X]
+
+
+//POINTER #482 @ $3A01D - STRING #482 @ $3A3CF
+
+#W16($3A01D)
+Shark[X]
+
+
+//POINTER #483 @ $3A01F - STRING #483 @ $3A3DB
+
+#W16($3A01F)
+Hood[X]
+
+
+//POINTER #484 @ $3A021 - STRING #484 @ $3A3E5
+
+#W16($3A021)
+Bacchus[X]
+
+
+//POINTER #485 @ $3A023 - STRING #485 @ $3A3F5
+
+#W16($3A023)
+Emmile[X]
+
+
+//POINTER #486 @ $3A025 - STRING #486 @ $3A403
+
+#W16($3A025)
+Darez[X]
+
+
+//POINTER #487 @ $3A027 - STRING #487 @ $3A40F
+
+#W16($3A027)
+Jirou[X]
+
+
+//POINTER #488 @ $3A029 - STRING #488 @ $3A41B
+
+#W16($3A029)
+Mahatma[X]
+
+
+//POINTER #489 @ $3A02B - STRING #489 @ $3A42B
+
+#W16($3A02B)
+Lovin[X]
+
+
+//POINTER #490 @ $3A02D - STRING #490 @ $3A437
+
+#W16($3A02D)
+Bachnun[X]
+
+
+//POINTER #491 @ $3A02F - STRING #491 @ $3A447
+
+#W16($3A02F)
+Milley[X]
+
+
+//POINTER #492 @ $3A031 - STRING #492 @ $3A455
+
+#W16($3A031)
+Hertzog[X]
+
+
+//POINTER #493 @ $3A033 - STRING #493 @ $3A465
+
+#W16($3A033)
+Chekov[X]
+
+
+//POINTER #494 @ $3A035 - STRING #494 @ $3A473
+
+#W16($3A035)
+Keimos[X]
+
+
+//POINTER #495 @ $3A037 - STRING #495 @ $3A481
+
+#W16($3A037)
+Marilyn[X]
+
+
+//POINTER #496 @ $3A039 - STRING #496 @ $3A491
+
+#W16($3A039)
+Taylor[X]
+
+
+//POINTER #497 @ $3A03B - STRING #497 @ $3A49F
+
+#W16($3A03B)
+Ripp[X]
+
+
+//POINTER #498 @ $3A03D - STRING #498 @ $3A4A9
+
+#W16($3A03D)
+Perio[X]
+
+
+//POINTER #499 @ $3A03F - STRING #499 @ $3A4B5
+
+#W16($3A03F)
+Trevic[X]
+
+
+//POINTER #500 @ $3A041 - STRING #500 @ $3A4C3
+
+#W16($3A041)
+Gellar[X]
+
+
+//POINTER #501 @ $3A043 - STRING #501 @ $3A4D1
+
+#W16($3A043)
+Bazan[X]
+
+
+//POINTER #502 @ $3A045 - STRING #502 @ $3A4DD
+
+#W16($3A045)
+Duma[X]
+
+
+//POINTER #503 @ $3A047 - STRING #503 @ $3A4E7
+
+#W16($3A047)
+Keller[X]
+
+
+//POINTER #504 @ $3A049 - STRING #504 @ $3A4F5
+
+#W16($3A049)
+Torton[X]
+
+
+//POINTER #505 @ $3A04B - STRING #505 @ $3A503
+
+#W16($3A04B)
+Mario[X]
+
+
+//POINTER #506 @ $3A04D - STRING #506 @ $3A50F
+
+#W16($3A04D)
+Kemall[X]
+
+
+//POINTER #507 @ $3A04F - STRING #507 @ $3A51D
+
+#W16($3A04F)
+Karedin[X]
+
+
+//POINTER #508 @ $3A051 - STRING #508 @ $3A52D
+
+#W16($3A051)
+Keith[X]
+
+
+//POINTER #509 @ $3A053 - STRING #509 @ $3A539
+
+#W16($3A053)
+Sangor[X]
+
+
+//POINTER #510 @ $3A055 - STRING #510 @ $3A547
+
+#W16($3A055)
+Nikita[X]
+
+
+//POINTER #511 @ $3A057 - STRING #511 @ $3A555
+
+#W16($3A057)
+Nene[X]
+
+
+//POINTER #512 @ $3A059 - STRING #512 @ $3A55F
+
+#W16($3A059)
+Kraff[X]
+
+
+//POINTER #513 @ $3A05B - STRING #513 @ $3A56B
+
+#W16($3A05B)
+Nikias[X]
+
+
+//POINTER #514 @ $3A05D - STRING #514 @ $3A579
+
+#W16($3A05D)
+Atlas[X]
+
+
+//POINTER #515 @ $3A05F - STRING #515 @ $3A585
+
+#W16($3A05F)
+Jackal[X]
+
+
+//POINTER #516 @ $3A061 - STRING #516 @ $3A49F
+
+#W16($3A061)
+Ripp[X]
+
+
+//POINTER #517 @ $3A063 - STRING #517 @ $3A593
+
+#W16($3A063)
+Greias[X]
+
+
+//POINTER #518 @ $3A065 - STRING #518 @ $3A5A1
+
+#W16($3A065)
+Geese[X]
+
+
+//POINTER #519 @ $3A067 - STRING #519 @ $3A5AD
+
+#W16($3A067)
+Lee[X]
+
+
+//POINTER #520 @ $3A069 - STRING #520 @ $3A5B5
+
+#W16($3A069)
+Shisel[X]
+
+
+//POINTER #521 @ $3A06B - STRING #521 @ $3A5C3
+
+#W16($3A06B)
+Hawks[X]
+
+
+//POINTER #522 @ $3A06D - STRING #522 @ $3A5CF
+
+#W16($3A06D)
+Nazar[X]
+
+
+//POINTER #523 @ $3A06F - STRING #523 @ $3FD80
+
+#W16($3A06F)
+Thief[X]
+
+
+//POINTER #524 @ $3A071 - STRING #524 @ $3A5DB
+
+#W16($3A071)
+Tolstoy[X]
+
+
+//POINTER #525 @ $3A073 - STRING #525 @ $3A5EB
+
+#W16($3A073)
+Botman[X]
+
+
+//POINTER #526 @ $3A075 - STRING #526 @ $3A5F9
+
+#W16($3A075)
+Kulyuge[X]
+
+
+//POINTER #527 @ $3A077 - STRING #527 @ $3A609
+
+#W16($3A077)
+Mansten[X]
+
+
+//POINTER #528 @ $3A079 - STRING #528 @ $3A619
+
+#W16($3A079)
+Kashim[X]
+
+
+//POINTER #529 @ $3A07B - STRING #529 @ $3A627
+
+#W16($3A07B)
+Hepner[X]
+
+
+//POINTER #530 @ $3A07D - STRING #530 @ $3A635
+
+#W16($3A07D)
+Randoc[X]
+
+
+//POINTER #531 @ $3A07F - STRING #531 @ $3A643
+
+#W16($3A07F)
+Volf[X]
+
+
+//POINTER #532 @ $3A081 - STRING #532 @ $3A64D
+
+#W16($3A081)
+Duey[X]
+
+
+//POINTER #533 @ $3A083 - STRING #533 @ $3A657
+
+#W16($3A083)
+Fet[X]
+
+
+//POINTER #534 @ $3A085 - STRING #534 @ $3A65F
+
+#W16($3A085)
+Marshack[X]
+
+
+//POINTER #535 @ $3A087 - STRING #535 @ $3A671
+
+#W16($3A087)
+Luis[X]
+
+
+//POINTER #536 @ $3A089 - STRING #536 @ $3A67B
+
+#W16($3A089)
+Heste[X]
+
+
+//POINTER #537 @ $3A08B - STRING #537 @ $3A687
+
+#W16($3A08B)
+Madah[X]
+
+
+//POINTER #538 @ $3A08D - STRING #538 @ $3A693
+
+#W16($3A08D)
+Jismunt[X]
+
+
+//POINTER #539 @ $3A08F - STRING #539 @ $3A6A3
+
+#W16($3A08F)
+Zenon[X]
+
+
+//POINTER #540 @ $3A091 - STRING #540 @ $3A6AF
+
+#W16($3A091)
+Jakson[X]
+
+
+//POINTER #541 @ $3A093 - STRING #541 @ $3A6BD
+
+#W16($3A093)
+Indra[X]
+
+
+//POINTER #542 @ $3A095 - STRING #542 @ $3A6C9
+
+#W16($3A095)
+Niezche[X]
+
+
+//POINTER #543 @ $3A097 - STRING #543 @ $3A6D9
+
+#W16($3A097)
+Apostle[X]
+
+
+//POINTER #544 @ $3A099 - STRING #544 @ $3A6E9
+
+#W16($3A099)
+Millia[X]
+
+
+//POINTER #545 @ $3A09B - STRING #545 @ $3A6F7
+
+#W16($3A09B)
+Siron[X]
+
+
+//POINTER #546 @ $3A09D - STRING #546 @ $3A703
+
+#W16($3A09D)
+Grein[X]
+
+
+//POINTER #547 @ $3A09F - STRING #547 @ $3A70F
+
+#W16($3A09F)
+Slayton[X]
+
+
+//POINTER #548 @ $3A0A1 - STRING #548 @ $3A71F
+
+#W16($3A0A1)
+Torstar[X]
+
+
+//POINTER #549 @ $3A0A3 - STRING #549 @ $3A72F
+
+#W16($3A0A3)
+Kanan[X]
+
+
+//POINTER #550 @ $3A0A5 - STRING #550 @ $3A73B
+
+#W16($3A0A5)
+Hasman[X]
+
+
+//POINTER #551 @ $3A0A7 - STRING #551 @ $3A749
+
+#W16($3A0A7)
+Grantz[X]
+
+
+//POINTER #552 @ $3A0A9 - STRING #552 @ $3A757
+
+#W16($3A0A9)
+Krosloy[X]
+
+
+//POINTER #553 @ $3A0AB - STRING #553 @ $3A767
+
+#W16($3A0AB)
+Rolan[X]
+
+
+//POINTER #554 @ $3A0AD - STRING #554 @ $3A773
+
+#W16($3A0AD)
+Mashgli[X]
+
+
+//POINTER #555 @ $3A0AF - STRING #555 @ $3A783
+
+#W16($3A0AF)
+Riva[X]
+
+
+//POINTER #556 @ $3A0B1 - STRING #556 @ $3A78D
+
+#W16($3A0B1)
+Gloria[X]
+
+
+//POINTER #557 @ $3A0B3 - STRING #557 @ $3A79B
+
+#W16($3A0B3)
+Nothe[X]
+
+
+//POINTER #558 @ $3A0B5 - STRING #558 @ $3A6BD
+
+#W16($3A0B5)
+Indra[X]
+
+
+//POINTER #559 @ $3A0B7 - STRING #559 @ $3A7A7
+
+#W16($3A0B7)
+Dares[X]
+
+
+//POINTER #560 @ $3A0B9 - STRING #560 @ $3A473
+
+#W16($3A0B9)
+Keimos[X]
+
+
+//POINTER #561 @ $3A0BB - STRING #561 @ $3A481
+
+#W16($3A0BB)
+Marilyn[X]
+
+
+//POINTER #562 @ $3A0BD - STRING #562 @ $3A6A3
+
+#W16($3A0BD)
+Zenon[X]
+
+
+//POINTER #563 @ $3A0BF - STRING #563 @ $3A6AF
+
+#W16($3A0BF)
+Jakson[X]
+
+
+//POINTER #564 @ $3A0C1 - STRING #564 @ $3A4F5
+
+#W16($3A0C1)
+Torton[X]
+
+
+//POINTER #565 @ $3A0C3 - STRING #565 @ $3A503
+
+#W16($3A0C3)
+Mario[X]
+
+
+//POINTER #566 @ $3A0C5 - STRING #566 @ $3A72F
+
+#W16($3A0C5)
+Kanan[X]
+
+
+//POINTER #567 @ $3A0C7 - STRING #567 @ $3A579
+
+#W16($3A0C7)
+Atlas[X]
+
+
+//POINTER #568 @ $3A0C9 - STRING #568 @ $3A7B3
+
+#W16($3A0C9)
+Zeus[X]
+
+
+//POINTER #569 @ $3A0CB - STRING #569 @ $3A7BD
+
+#W16($3A0CB)
+Holsety[X]
+

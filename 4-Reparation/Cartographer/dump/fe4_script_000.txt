@@ -1,0 +1,75 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #000 NAME:		Chapter Objectives
+
+//POINTER #0 @ $DD74 - STRING #0 @ $DD98
+
+#W24($DD74)
+Subdue Evans[X]
+
+
+//POINTER #1 @ $DD77 - STRING #1 @ $DDB2
+
+#W24($DD77)
+Subdue Verdane[X]
+
+
+//POINTER #2 @ $DD7A - STRING #2 @ $DDD0
+
+#W24($DD7A)
+Subdue Agusty[X]
+
+
+//POINTER #3 @ $DD7D - STRING #3 @ $DDEC
+
+#W24($DD7D)
+Subdue Orgahil[X]
+
+
+//POINTER #4 @ $DD80 - STRING #4 @ $DE0A
+
+#W24($DD80)
+Subdue Zaxon[X]
+
+
+//POINTER #5 @ $DD83 - STRING #5 @ $DE24
+
+#W24($DD83)
+Subdue Barhara[X]
+
+
+//POINTER #6 @ $DD86 - STRING #6 @ $DE42
+
+#W24($DD86)
+Subdue Rivough[X]
+
+
+//POINTER #7 @ $DD89 - STRING #7 @ $DE60
+
+#W24($DD89)
+Subdue Alster[X]
+
+
+//POINTER #8 @ $DD8C - STRING #8 @ $DE7C
+
+#W24($DD8C)
+Subdue Mease[X]
+
+
+//POINTER #9 @ $DD8F - STRING #9 @ $D862
+
+#W24($DD8F)
+Subdue Thracia[X]
+
+
+//POINTER #10 @ $DD92 - STRING #10 @ $D880
+
+#W24($DD92)
+Subdue Chalphy[X]
+
+
+//POINTER #11 @ $DD95 - STRING #11 @ $DE24
+
+#W24($DD95)
+Subdue Barhara[X]
+
