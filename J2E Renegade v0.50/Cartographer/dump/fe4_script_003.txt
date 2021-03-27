@@ -1,0 +1,159 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #003 NAME:		Terrain Names
+
+//POINTER #0 @ $3857B - STRING #0 @ $385AF
+
+#W16($3857B)
+summit[X]
+
+
+//POINTER #1 @ $3857D - STRING #1 @ $385BD
+
+#W16($3857D)
+forest[X]
+
+
+//POINTER #2 @ $3857F - STRING #2 @ $385CB
+
+#W16($3857F)
+cliff[X]
+
+
+//POINTER #3 @ $38581 - STRING #3 @ $385D7
+
+#W16($38581)
+plain[X]
+
+
+//POINTER #4 @ $38583 - STRING #4 @ $385E3
+
+#W16($38583)
+woods[X]
+
+
+//POINTER #5 @ $38585 - STRING #5 @ $385EF
+
+#W16($38585)
+sea[X]
+
+
+//POINTER #6 @ $38587 - STRING #6 @ $385F7
+
+#W16($38587)
+river[X]
+
+
+//POINTER #7 @ $38589 - STRING #7 @ $38603
+
+#W16($38589)
+mountain[X]
+
+
+//POINTER #8 @ $3858B - STRING #8 @ $38615
+
+#W16($3858B)
+desert[X]
+
+
+//POINTER #9 @ $3858D - STRING #9 @ $38623
+
+#W16($3858D)
+castle[X]
+
+
+//POINTER #10 @ $3858F - STRING #10 @ $38631
+
+#W16($3858F)
+fortress[X]
+
+
+//POINTER #11 @ $38591 - STRING #11 @ $38643
+
+#W16($38591)
+town[X]
+
+
+//POINTER #12 @ $38593 - STRING #12 @ $3864D
+
+#W16($38593)
+castlegate[X]
+
+
+//POINTER #13 @ $38595 - STRING #13 @ $38663
+
+#W16($38595)
+rampart[X]
+
+
+//POINTER #14 @ $38597 - STRING #14 @ $38673
+
+#W16($38597)
+sandybasin[X]
+
+
+//POINTER #15 @ $38599 - STRING #15 @ $38629
+
+#W16($38599)
+tle[X]
+
+
+//POINTER #16 @ $3859B - STRING #16 @ $3862F
+
+#W16($3859B)
+[X]
+
+
+//POINTER #17 @ $3859D - STRING #17 @ $38635
+
+#W16($3859D)
+rtress[X]
+
+
+//POINTER #18 @ $3859F - STRING #18 @ $38641
+
+#W16($3859F)
+[X]
+
+
+//POINTER #19 @ $385A1 - STRING #19 @ $38647
+
+#W16($385A1)
+wn[X]
+
+
+//POINTER #20 @ $385A3 - STRING #20 @ $38651
+
+#W16($385A3)
+stlegate[X]
+
+
+//POINTER #21 @ $385A5 - STRING #21 @ $38659
+
+#W16($385A5)
+gate[X]
+
+
+//POINTER #22 @ $385A7 - STRING #22 @ $38663
+
+#W16($385A7)
+rampart[X]
+
+
+//POINTER #23 @ $385A9 - STRING #23 @ $3866F
+
+#W16($385A9)
+t[X]
+
+
+//POINTER #24 @ $385AB - STRING #24 @ $38679
+
+#W16($385AB)
+dybasin[X]
+
+
+//POINTER #25 @ $385AD - STRING #25 @ $38687
+
+#W16($385AD)
+[X]
+

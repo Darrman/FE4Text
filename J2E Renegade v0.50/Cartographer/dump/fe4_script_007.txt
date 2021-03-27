@@ -1,0 +1,831 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #007 NAME:		Item Names
+
+//POINTER #0 @ $3DE12 - STRING #0 @ $3DF26
+
+#W16($3DE12)
+IronSword[X]
+
+
+//POINTER #1 @ $3DE14 - STRING #1 @ $3DF3A
+
+#W16($3DE14)
+SteelSword[X]
+
+
+//POINTER #2 @ $3DE16 - STRING #2 @ $3DF50
+
+#W16($3DE16)
+SilverSword[X]
+
+
+//POINTER #3 @ $3DE18 - STRING #3 @ $3DF68
+
+#W16($3DE18)
+GreatIronSword[X]
+
+
+//POINTER #4 @ $3DE1A - STRING #4 @ $3DF86
+
+#W16($3DE1A)
+GreatSteelSword[X]
+
+
+//POINTER #5 @ $3DE1C - STRING #5 @ $3DFA6
+
+#W16($3DE1C)
+GreatSilverSword[X]
+
+
+//POINTER #6 @ $3DE1E - STRING #6 @ $3DFC8
+
+#W16($3DE1E)
+PrayerSword[X]
+
+
+//POINTER #7 @ $3DE20 - STRING #7 @ $3DFE0
+
+#W16($3DE20)
+PirateSword[X]
+
+
+//POINTER #8 @ $3DE22 - STRING #8 @ $3DFF8
+
+#W16($3DE22)
+BarrierSword[X]
+
+
+//POINTER #9 @ $3DE24 - STRING #9 @ $3E012
+
+#W16($3DE24)
+BerserkSword[X]
+
+
+//POINTER #10 @ $3DE26 - STRING #10 @ $3E02C
+
+#W16($3DE26)
+HeroesSword[X]
+
+
+//POINTER #11 @ $3DE28 - STRING #11 @ $3E044
+
+#W16($3DE28)
+SilencerSword[X]
+
+
+//POINTER #12 @ $3DE2A - STRING #12 @ $3E060
+
+#W16($3DE2A)
+SleeperSword[X]
+
+
+//POINTER #13 @ $3DE2C - STRING #13 @ $3E07A
+
+#W16($3DE2C)
+NarrowBlade[X]
+
+
+//POINTER #14 @ $3DE2E - STRING #14 @ $3E092
+
+#W16($3DE2E)
+DefenseSword[X]
+
+
+//POINTER #15 @ $3DE30 - STRING #15 @ $3E0AC
+
+#W16($3DE30)
+FlameSword[X]
+
+
+//POINTER #16 @ $3DE32 - STRING #16 @ $3E0C2
+
+#W16($3DE32)
+WorldSword[X]
+
+
+//POINTER #17 @ $3DE34 - STRING #17 @ $3E0D8
+
+#W16($3DE34)
+ThunderSword[X]
+
+
+//POINTER #18 @ $3DE36 - STRING #18 @ $3E0F2
+
+#W16($3DE36)
+WindSword[X]
+
+
+//POINTER #19 @ $3DE38 - STRING #19 @ $3E106
+
+#W16($3DE38)
+LightSword[X]
+
+
+//POINTER #20 @ $3DE3A - STRING #20 @ $3E11C
+
+#W16($3DE3A)
+Mistolteen[X]
+
+
+//POINTER #21 @ $3DE3C - STRING #21 @ $3E132
+
+#W16($3DE3C)
+Tailfing[X]
+
+
+//POINTER #22 @ $3DE3E - STRING #22 @ $3E144
+
+#W16($3DE3E)
+Balmunk[X]
+
+
+//POINTER #23 @ $3DE40 - STRING #23 @ $3E154
+
+#W16($3DE40)
+IronCutter[X]
+
+
+//POINTER #24 @ $3DE42 - STRING #24 @ $3E16A
+
+#W16($3DE42)
+SwallowAftershock[X]
+
+
+//POINTER #25 @ $3DE44 - STRING #25 @ $3E18E
+
+#W16($3DE44)
+BrokenSword[X]
+
+
+//POINTER #26 @ $3DE46 - STRING #26 @ $3E18E
+
+#W16($3DE46)
+BrokenSword[X]
+
+
+//POINTER #27 @ $3DE48 - STRING #27 @ $3E18E
+
+#W16($3DE48)
+BrokenSword[X]
+
+
+//POINTER #28 @ $3DE4A - STRING #28 @ $3E1A6
+
+#W16($3DE4A)
+IronLance[X]
+
+
+//POINTER #29 @ $3DE4C - STRING #29 @ $3E1BA
+
+#W16($3DE4C)
+SteelLance[X]
+
+
+//POINTER #30 @ $3DE4E - STRING #30 @ $3E1D0
+
+#W16($3DE4E)
+SilverLance[X]
+
+
+//POINTER #31 @ $3DE50 - STRING #31 @ $3E1E8
+
+#W16($3DE50)
+HandLance[X]
+
+
+//POINTER #32 @ $3DE52 - STRING #32 @ $3E1FC
+
+#W16($3DE52)
+KnightKiller[X]
+
+
+//POINTER #33 @ $3DE54 - STRING #33 @ $3E216
+
+#W16($3DE54)
+HeroesLance[X]
+
+
+//POINTER #34 @ $3DE56 - STRING #34 @ $3E22E
+
+#W16($3DE56)
+NarrowLance[X]
+
+
+//POINTER #35 @ $3DE58 - STRING #35 @ $3E246
+
+#W16($3DE58)
+Gunguneel[X]
+
+
+//POINTER #36 @ $3DE5A - STRING #36 @ $3E25A
+
+#W16($3DE5A)
+Gayborg[X]
+
+
+//POINTER #37 @ $3DE5C - STRING #37 @ $3E26A
+
+#W16($3DE5C)
+BrokenLance[X]
+
+
+//POINTER #38 @ $3DE5E - STRING #38 @ $3E26A
+
+#W16($3DE5E)
+BrokenLance[X]
+
+
+//POINTER #39 @ $3DE60 - STRING #39 @ $3E26A
+
+#W16($3DE60)
+BrokenLance[X]
+
+
+//POINTER #40 @ $3DE62 - STRING #40 @ $3E282
+
+#W16($3DE62)
+IronAxe[X]
+
+
+//POINTER #41 @ $3DE64 - STRING #41 @ $3E292
+
+#W16($3DE64)
+SteelAxe[X]
+
+
+//POINTER #42 @ $3DE66 - STRING #42 @ $3E2A4
+
+#W16($3DE66)
+SilverAxe[X]
+
+
+//POINTER #43 @ $3DE68 - STRING #43 @ $3E2B8
+
+#W16($3DE68)
+HeroesAxe[X]
+
+
+//POINTER #44 @ $3DE6A - STRING #44 @ $3E2CC
+
+#W16($3DE6A)
+Swanchika[X]
+
+
+//POINTER #45 @ $3DE6C - STRING #45 @ $3E2E0
+
+#W16($3DE6C)
+HandAxe[X]
+
+
+//POINTER #46 @ $3DE6E - STRING #46 @ $3E2F0
+
+#W16($3DE6E)
+BrokenAxe[X]
+
+
+//POINTER #47 @ $3DE70 - STRING #47 @ $3E2F0
+
+#W16($3DE70)
+BrokenAxe[X]
+
+
+//POINTER #48 @ $3DE72 - STRING #48 @ $3E2F0
+
+#W16($3DE72)
+BrokenAxe[X]
+
+
+//POINTER #49 @ $3DE74 - STRING #49 @ $3E304
+
+#W16($3DE74)
+IronBow[X]
+
+
+//POINTER #50 @ $3DE76 - STRING #50 @ $3E314
+
+#W16($3DE76)
+SteelBow[X]
+
+
+//POINTER #51 @ $3DE78 - STRING #51 @ $3E326
+
+#W16($3DE78)
+SilverBow[X]
+
+
+//POINTER #52 @ $3DE7A - STRING #52 @ $3E33A
+
+#W16($3DE7A)
+HeroesBow[X]
+
+
+//POINTER #53 @ $3DE7C - STRING #53 @ $3E34E
+
+#W16($3DE7C)
+KillerBow[X]
+
+
+//POINTER #54 @ $3DE7E - STRING #54 @ $3E362
+
+#W16($3DE7E)
+Ichaival[X]
+
+
+//POINTER #55 @ $3DE80 - STRING #55 @ $3E374
+
+#W16($3DE80)
+BrokenBow[X]
+
+
+//POINTER #56 @ $3DE82 - STRING #56 @ $3E374
+
+#W16($3DE82)
+BrokenBow[X]
+
+
+//POINTER #57 @ $3DE84 - STRING #57 @ $3E374
+
+#W16($3DE84)
+BrokenBow[X]
+
+
+//POINTER #58 @ $3DE86 - STRING #58 @ $3E388
+
+#W16($3DE86)
+LongCrossbow[X]
+
+
+//POINTER #59 @ $3DE88 - STRING #59 @ $3E3A2
+
+#W16($3DE88)
+IronCrossbow[X]
+
+
+//POINTER #60 @ $3DE8A - STRING #60 @ $3E3BC
+
+#W16($3DE8A)
+KillerCrossbow[X]
+
+
+//POINTER #61 @ $3DE8C - STRING #61 @ $3E3DA
+
+#W16($3DE8C)
+GreatCrossbow[X]
+
+
+//POINTER #62 @ $3DE8E - STRING #62 @ $3E3F6
+
+#W16($3DE8E)
+Fire[X]
+
+
+//POINTER #63 @ $3DE90 - STRING #63 @ $3E400
+
+#W16($3DE90)
+Elfire[X]
+
+
+//POINTER #64 @ $3DE92 - STRING #64 @ $3E40E
+
+#W16($3DE92)
+Volganon[X]
+
+
+//POINTER #65 @ $3DE94 - STRING #65 @ $3E420
+
+#W16($3DE94)
+Faraflame[X]
+
+
+//POINTER #66 @ $3DE96 - STRING #66 @ $3E434
+
+#W16($3DE96)
+Metio[X]
+
+
+//POINTER #67 @ $3DE98 - STRING #67 @ $3E440
+
+#W16($3DE98)
+Thunder[X]
+
+
+//POINTER #68 @ $3DE9A - STRING #68 @ $3E450
+
+#W16($3DE9A)
+Elthunder[X]
+
+
+//POINTER #69 @ $3DE9C - STRING #69 @ $3E464
+
+#W16($3DE9C)
+Trone[X]
+
+
+//POINTER #70 @ $3DE9E - STRING #70 @ $3E470
+
+#W16($3DE9E)
+Torhammer[X]
+
+
+//POINTER #71 @ $3DEA0 - STRING #71 @ $3E484
+
+#W16($3DEA0)
+Thunderstorm[X]
+
+
+//POINTER #72 @ $3DEA2 - STRING #72 @ $3E49E
+
+#W16($3DEA2)
+Wind[X]
+
+
+//POINTER #73 @ $3DEA4 - STRING #73 @ $3E4A8
+
+#W16($3DEA4)
+Elwind[X]
+
+
+//POINTER #74 @ $3DEA6 - STRING #74 @ $3E4B6
+
+#W16($3DEA6)
+Tornado[X]
+
+
+//POINTER #75 @ $3DEA8 - STRING #75 @ $3EBA4
+
+#W16($3DEA8)
+<$82><$EA>BYF<$82><$DD> F<$82><$B4><$82><$E8>     BY<$82><$E8>+<$83><$89>b<$83><$75>[X]
+
+
+//POINTER #76 @ $3DEAA - STRING #76 @ $3E4C6
+
+#W16($3DEAA)
+Blizzard[X]
+
+
+//POINTER #77 @ $3DEAC - STRING #77 @ $3E2A4
+
+#W16($3DEAC)
+SilverAxe[X]
+
+
+//POINTER #78 @ $3DEAE - STRING #78 @ $3E2B2
+
+#W16($3DEAE)
+xe[X]
+
+
+//POINTER #79 @ $3DEB0 - STRING #79 @ $3E2BC
+
+#W16($3DEB0)
+roesAxe[X]
+
+
+//POINTER #80 @ $3DEB2 - STRING #80 @ $3E2C4
+
+#W16($3DEB2)
+Axe[X]
+
+
+//POINTER #81 @ $3DEB4 - STRING #81 @ $3E2CC
+
+#W16($3DEB4)
+Swanchika[X]
+
+
+//POINTER #82 @ $3DEB6 - STRING #82 @ $3E2DC
+
+#W16($3DEB6)
+a[X]
+
+
+//POINTER #83 @ $3DEB8 - STRING #83 @ $3E2E8
+
+#W16($3DEB8)
+Axe[X]
+
+
+//POINTER #84 @ $3DEBA - STRING #84 @ $3E2EE
+
+#W16($3DEBA)
+[X]
+
+
+//POINTER #85 @ $3DEBC - STRING #85 @ $3E2FA
+
+#W16($3DEBC)
+nAxe[X]
+
+
+//POINTER #86 @ $3DEBE - STRING #86 @ $3E2FA
+
+#W16($3DEBE)
+nAxe[X]
+
+
+//POINTER #87 @ $3DEC0 - STRING #87 @ $3E2FA
+
+#W16($3DEC0)
+nAxe[X]
+
+
+//POINTER #88 @ $3DEC2 - STRING #88 @ $3E30A
+
+#W16($3DEC2)
+nBow[X]
+
+
+//POINTER #89 @ $3DEC4 - STRING #89 @ $3E316
+
+#W16($3DEC4)
+teelBow[X]
+
+
+//POINTER #90 @ $3DEC6 - STRING #90 @ $3E324
+
+#W16($3DEC6)
+[X]
+
+
+//POINTER #91 @ $3DEC8 - STRING #91 @ $3E332
+
+#W16($3DEC8)
+Bow[X]
+
+
+//POINTER #92 @ $3DECA - STRING #92 @ $3E340
+
+#W16($3DECA)
+oesBow[X]
+
+
+//POINTER #93 @ $3DECC - STRING #93 @ $3E34E
+
+#W16($3DECC)
+KillerBow[X]
+
+
+//POINTER #94 @ $3DECE - STRING #94 @ $3E35C
+
+#W16($3DECE)
+ow[X]
+
+
+//POINTER #95 @ $3DED0 - STRING #95 @ $3E368
+
+#W16($3DED0)
+aival[X]
+
+
+//POINTER #96 @ $3DED2 - STRING #96 @ $3E378
+
+#W16($3DED2)
+okenBow[X]
+
+
+//POINTER #97 @ $3DED4 - STRING #97 @ $3E386
+
+#W16($3DED4)
+[X]
+
+
+//POINTER #98 @ $3DED6 - STRING #98 @ $3E392
+
+#W16($3DED6)
+rossbow[X]
+
+
+//POINTER #99 @ $3DED8 - STRING #99 @ $3E3A2
+
+#W16($3DED8)
+IronCrossbow[X]
+
+
+//POINTER #100 @ $3DEDA - STRING #100 @ $3E3B0
+
+#W16($3DEDA)
+ssbow[X]
+
+
+//POINTER #101 @ $3DEDC - STRING #101 @ $3E3BE
+
+#W16($3DEDC)
+illerCrossbow[X]
+
+
+//POINTER #102 @ $3DEDE - STRING #102 @ $3E3CC
+
+#W16($3DEDE)
+ossbow[X]
+
+
+//POINTER #103 @ $3DEE0 - STRING #103 @ $3E3D8
+
+#W16($3DEE0)
+[X]
+
+
+//POINTER #104 @ $3DEE2 - STRING #104 @ $3E3D8
+
+#W16($3DEE2)
+[X]
+
+
+//POINTER #105 @ $3DEE4 - STRING #105 @ $3E3D8
+
+#W16($3DEE4)
+[X]
+
+
+//POINTER #106 @ $3DEE6 - STRING #106 @ $3E3E4
+
+#W16($3DEE6)
+Crossbow[X]
+
+
+//POINTER #107 @ $3DEE8 - STRING #107 @ $3E3F4
+
+#W16($3DEE8)
+[X]
+
+
+//POINTER #108 @ $3DEEA - STRING #108 @ $3E404
+
+#W16($3DEEA)
+fire[X]
+
+
+//POINTER #109 @ $3DEEC - STRING #109 @ $3E414
+
+#W16($3DEEC)
+ganon[X]
+
+
+//POINTER #110 @ $3DEEE - STRING #110 @ $3E424
+
+#W16($3DEEE)
+raflame[X]
+
+
+//POINTER #111 @ $3DEF0 - STRING #111 @ $3E434
+
+#W16($3DEF0)
+Metio[X]
+
+
+//POINTER #112 @ $3DEF2 - STRING #112 @ $3E444
+
+#W16($3DEF2)
+under[X]
+
+
+//POINTER #113 @ $3DEF4 - STRING #113 @ $3E454
+
+#W16($3DEF4)
+thunder[X]
+
+
+//POINTER #114 @ $3DEF6 - STRING #114 @ $3E462
+
+#W16($3DEF6)
+[X]
+
+
+//POINTER #115 @ $3DEF8 - STRING #115 @ $3E472
+
+#W16($3DEF8)
+orhammer[X]
+
+
+//POINTER #116 @ $3DEFA - STRING #116 @ $3E482
+
+#W16($3DEFA)
+[X]
+
+
+//POINTER #117 @ $3DEFC - STRING #117 @ $3E492
+
+#W16($3DEFC)
+storm[X]
+
+
+//POINTER #118 @ $3DEFE - STRING #118 @ $3E4A0
+
+#W16($3DEFE)
+ind[X]
+
+
+//POINTER #119 @ $3DF00 - STRING #119 @ $3E4B0
+
+#W16($3DF00)
+nd[X]
+
+
+//POINTER #120 @ $3DF02 - STRING #120 @ $3E4BE
+
+#W16($3DF02)
+ado[X]
+
+
+//POINTER #121 @ $3DF04 - STRING #121 @ $3E4CC
+
+#W16($3DF04)
+zzard[X]
+
+
+//POINTER #122 @ $3DF06 - STRING #122 @ $3E066
+
+#W16($3DF06)
+eperSword[X]
+
+
+//POINTER #123 @ $3DF08 - STRING #123 @ $3E0E4
+
+#W16($3DF08)
+rSword[X]
+
+
+//POINTER #124 @ $3DF0A - STRING #124 @ $3E198
+
+#W16($3DF0A)
+nSword[X]
+
+
+//POINTER #125 @ $3DF0C - STRING #125 @ $3E2FA
+
+#W16($3DF0C)
+nAxe[X]
+
+
+//POINTER #126 @ $3DF0E - STRING #126 @ $3E2FA
+
+#W16($3DF0E)
+nAxe[X]
+
+
+//POINTER #127 @ $3DF10 - STRING #127 @ $3E2FA
+
+#W16($3DF10)
+nAxe[X]
+
+
+//POINTER #128 @ $3DF12 - STRING #128 @ $3E2FA
+
+#W16($3DF12)
+nAxe[X]
+
+
+//POINTER #129 @ $3DF14 - STRING #129 @ $3E2FA
+
+#W16($3DF14)
+nAxe[X]
+
+
+//POINTER #130 @ $3DF16 - STRING #130 @ $3E2FA
+
+#W16($3DF16)
+nAxe[X]
+
+
+//POINTER #131 @ $3DF18 - STRING #131 @ $3E2FA
+
+#W16($3DF18)
+nAxe[X]
+
+
+//POINTER #132 @ $3DF1A - STRING #132 @ $3E2FA
+
+#W16($3DF1A)
+nAxe[X]
+
+
+//POINTER #133 @ $3DF1C - STRING #133 @ $3E2FA
+
+#W16($3DF1C)
+nAxe[X]
+
+
+//POINTER #134 @ $3DF1E - STRING #134 @ $3E2FA
+
+#W16($3DF1E)
+nAxe[X]
+
+
+//POINTER #135 @ $3DF20 - STRING #135 @ $3E2FA
+
+#W16($3DF20)
+nAxe[X]
+
+
+//POINTER #136 @ $3DF22 - STRING #136 @ $3E3D8
+
+#W16($3DF22)
+[X]
+
+
+//POINTER #137 @ $3DF24 - STRING #137 @ $3E4DA
+
+#W16($3DF24)
+k-h<$83><$8C><$83><$62>t[X]
+
