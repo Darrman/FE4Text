@@ -1,0 +1,279 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #009 NAME:		Castle Names
+
+//POINTER #0 @ $3F717 - STRING #0 @ $3F773
+
+#W16($3F717)
+Madino[X]
+
+
+//POINTER #1 @ $3F719 - STRING #1 @ $3F781
+
+#W16($3F719)
+Silvail[X]
+
+
+//POINTER #2 @ $3F71B - STRING #2 @ $3F791
+
+#W16($3F71B)
+Anphony[X]
+
+
+//POINTER #3 @ $3F71D - STRING #3 @ $3F7A1
+
+#W16($3F71D)
+Agusty[X]
+
+
+//POINTER #4 @ $3F71F - STRING #4 @ $3F7AF
+
+#W16($3F71F)
+Heirhein[X]
+
+
+//POINTER #5 @ $3F721 - STRING #5 @ $3F7C1
+
+#W16($3F721)
+Mackily[X]
+
+
+//POINTER #6 @ $3F723 - STRING #6 @ $3F7D1
+
+#W16($3F723)
+Nodion[X]
+
+
+//POINTER #7 @ $3F725 - STRING #7 @ $3F7DF
+
+#W16($3F725)
+Velthomer[X]
+
+
+//POINTER #8 @ $3F727 - STRING #8 @ $3F7F3
+
+#W16($3F727)
+Freege[X]
+
+
+//POINTER #9 @ $3F729 - STRING #9 @ $3F801
+
+#W16($3F729)
+Barhara[X]
+
+
+//POINTER #10 @ $3F72B - STRING #10 @ $3F811
+
+#W16($3F72B)
+Dozel[X]
+
+
+//POINTER #11 @ $3F72D - STRING #11 @ $3F81D
+
+#W16($3F72D)
+Edda[X]
+
+
+//POINTER #12 @ $3F72F - STRING #12 @ $3F827
+
+#W16($3F72F)
+Chalphy[X]
+
+
+//POINTER #13 @ $3F731 - STRING #13 @ $3F837
+
+#W16($3F731)
+Jungby[X]
+
+
+//POINTER #14 @ $3F733 - STRING #14 @ $3F845
+
+#W16($3F733)
+Lenster[X]
+
+
+//POINTER #15 @ $3F735 - STRING #15 @ $3F855
+
+#W16($3F735)
+Conote[X]
+
+
+//POINTER #16 @ $3F737 - STRING #16 @ $3F863
+
+#W16($3F737)
+Manster[X]
+
+
+//POINTER #17 @ $3F739 - STRING #17 @ $3F873
+
+#W16($3F739)
+Melgen[X]
+
+
+//POINTER #18 @ $3F73B - STRING #18 @ $3F881
+
+#W16($3F73B)
+Alster[X]
+
+
+//POINTER #19 @ $3F73D - STRING #19 @ $3F88F
+
+#W16($3F73D)
+Orgahil[X]
+
+
+//POINTER #20 @ $3F73F - STRING #20 @ $3F89F
+
+#W16($3F73F)
+Thove[X]
+
+
+//POINTER #21 @ $3F741 - STRING #21 @ $3F8AB
+
+#W16($3F741)
+Sailane[X]
+
+
+//POINTER #22 @ $3F743 - STRING #22 @ $3F8BB
+
+#W16($3F743)
+Zaxon[X]
+
+
+//POINTER #23 @ $3F745 - STRING #23 @ $3F8C7
+
+#W16($3F745)
+Silesia[X]
+
+
+//POINTER #24 @ $3F747 - STRING #24 @ $3F8D7
+
+#W16($3F747)
+Lubeck[X]
+
+
+//POINTER #25 @ $3F749 - STRING #25 @ $3F8E5
+
+#W16($3F749)
+Tilnanogue[X]
+
+
+//POINTER #26 @ $3F74B - STRING #26 @ $3F8FB
+
+#W16($3F74B)
+Ganeishire[X]
+
+
+//POINTER #27 @ $3F74D - STRING #27 @ $3F911
+
+#W16($3F74D)
+Sophara[X]
+
+
+//POINTER #28 @ $3F74F - STRING #28 @ $3F921
+
+#W16($3F74F)
+Isaac[X]
+
+
+//POINTER #29 @ $3F751 - STRING #29 @ $3F92D
+
+#W16($3F751)
+Rivough[X]
+
+
+//POINTER #30 @ $3F753 - STRING #30 @ $3F93D
+
+#W16($3F753)
+Phinora[X]
+
+
+//POINTER #31 @ $3F755 - STRING #31 @ $3F94D
+
+#W16($3F755)
+Yied[X]
+
+
+//POINTER #32 @ $3F757 - STRING #32 @ $3F957
+
+#W16($3F757)
+Darna[X]
+
+
+//POINTER #33 @ $3F759 - STRING #33 @ $3F963
+
+#W16($3F759)
+Verdane[X]
+
+
+//POINTER #34 @ $3F75B - STRING #34 @ $3F973
+
+#W16($3F75B)
+Evans[X]
+
+
+//POINTER #35 @ $3F75D - STRING #35 @ $3F97F
+
+#W16($3F75D)
+Genoa[X]
+
+
+//POINTER #36 @ $3F75F - STRING #36 @ $3F98B
+
+#W16($3F75F)
+Marpha[X]
+
+
+//POINTER #37 @ $3F761 - STRING #37 @ $3F999
+
+#W16($3F761)
+Miletos[X]
+
+
+//POINTER #38 @ $3F763 - STRING #38 @ $3F9A9
+
+#W16($3F763)
+Peruluke[X]
+
+
+//POINTER #39 @ $3F765 - STRING #39 @ $3F9A7
+
+#W16($3F765)
+[X]
+
+
+//POINTER #40 @ $3F767 - STRING #40 @ $3FAAA
+
+#W16($3F767)
+l[X]
+
+
+//POINTER #41 @ $3F769 - STRING #41 @ $3FAB6
+
+#W16($3F769)
+ka[X]
+
+
+//POINTER #42 @ $3F76B - STRING #42 @ $3FAC2
+
+#W16($3F76B)
+ude[X]
+
+
+//POINTER #43 @ $3F76D - STRING #43 @ $3FAD2
+
+#W16($3F76D)
+ulf[X]
+
+
+//POINTER #44 @ $3F76F - STRING #44 @ $3FAE2
+
+#W16($3F76F)
+Deu[X]
+
+
+//POINTER #45 @ $3F771 - STRING #45 @ $3FAF2
+
+#W16($3F771)
+ora[X]
+

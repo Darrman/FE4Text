@@ -1,0 +1,159 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #003 NAME:		Terrain Names
+
+//POINTER #0 @ $3857B - STRING #0 @ $385AF
+
+#W16($3857B)
+Summit[X]
+
+
+//POINTER #1 @ $3857D - STRING #1 @ $385BD
+
+#W16($3857D)
+Forest[X]
+
+
+//POINTER #2 @ $3857F - STRING #2 @ $385CB
+
+#W16($3857F)
+Cliff[X]
+
+
+//POINTER #3 @ $38581 - STRING #3 @ $385D7
+
+#W16($38581)
+Plains[X]
+
+
+//POINTER #4 @ $38583 - STRING #4 @ $385E5
+
+#W16($38583)
+Woods[X]
+
+
+//POINTER #5 @ $38585 - STRING #5 @ $385F1
+
+#W16($38585)
+Sea[X]
+
+
+//POINTER #6 @ $38587 - STRING #6 @ $385F9
+
+#W16($38587)
+River[X]
+
+
+//POINTER #7 @ $38589 - STRING #7 @ $38605
+
+#W16($38589)
+Mt[X]
+
+
+//POINTER #8 @ $3858B - STRING #8 @ $3860B
+
+#W16($3858B)
+Desert[X]
+
+
+//POINTER #9 @ $3858D - STRING #9 @ $38619
+
+#W16($3858D)
+Castle[X]
+
+
+//POINTER #10 @ $3858F - STRING #10 @ $38627
+
+#W16($3858F)
+Fort[X]
+
+
+//POINTER #11 @ $38591 - STRING #11 @ $38631
+
+#W16($38591)
+Town[X]
+
+
+//POINTER #12 @ $38593 - STRING #12 @ $38619
+
+#W16($38593)
+Castle[X]
+
+
+//POINTER #13 @ $38595 - STRING #13 @ $3863B
+
+#W16($38595)
+Rampart[X]
+
+
+//POINTER #14 @ $38597 - STRING #14 @ $3864B
+
+#W16($38597)
+Sand[X]
+
+
+//POINTER #15 @ $38599 - STRING #15 @ $38655
+
+#W16($38599)
+Bridge[X]
+
+
+//POINTER #16 @ $3859B - STRING #16 @ $38663
+
+#W16($3859B)
+Church[X]
+
+
+//POINTER #17 @ $3859D - STRING #17 @ $38619
+
+#W16($3859D)
+Castle[X]
+
+
+//POINTER #18 @ $3859F - STRING #18 @ $38671
+
+#W16($3859F)
+Village[X]
+
+
+//POINTER #19 @ $385A1 - STRING #19 @ $38681
+
+#W16($385A1)
+Ruins[X]
+
+
+//POINTER #20 @ $385A3 - STRING #20 @ $3FB6C
+
+#W16($385A3)
+lice[X]
+
+
+//POINTER #21 @ $385A5 - STRING #21 @ $3867F
+
+#W16($385A5)
+[X]
+
+
+//POINTER #22 @ $385A7 - STRING #22 @ $3FB7C
+
+#W16($385A7)
+nan[X]
+
+
+//POINTER #23 @ $385A9 - STRING #23 @ $3FB8A
+
+#W16($385A9)
+dlevan[X]
+
+
+//POINTER #24 @ $385AB - STRING #24 @ $3FB98
+
+#W16($385AB)
+Asaello[X]
+
+
+//POINTER #25 @ $385AD - STRING #25 @ $3FBA8
+
+#W16($385AD)
+Leaf[X]
+

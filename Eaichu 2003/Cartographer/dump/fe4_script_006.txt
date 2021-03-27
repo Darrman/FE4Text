@@ -1,0 +1,333 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #006 NAME:		Army Names
+
+//POINTER #0 @ $3DAE8 - STRING #0 @ $3DB56
+
+#W16($3DAE8)
+Madino[X]
+
+
+//POINTER #1 @ $3DAEA - STRING #1 @ $3DB64
+
+#W16($3DAEA)
+Silvail[X]
+
+
+//POINTER #2 @ $3DAEC - STRING #2 @ $3DB74
+
+#W16($3DAEC)
+Anphony[X]
+
+
+//POINTER #3 @ $3DAEE - STRING #3 @ $3DB84
+
+#W16($3DAEE)
+Agusty[X]
+
+
+//POINTER #4 @ $3DAF0 - STRING #4 @ $3DB92
+
+#W16($3DAF0)
+Heirhein[X]
+
+
+//POINTER #5 @ $3DAF2 - STRING #5 @ $3DBA4
+
+#W16($3DAF2)
+Mackily[X]
+
+
+//POINTER #6 @ $3DAF4 - STRING #6 @ $3DBB4
+
+#W16($3DAF4)
+Nodion[X]
+
+
+//POINTER #7 @ $3DAF6 - STRING #7 @ $3DBC2
+
+#W16($3DAF6)
+Velthomer[X]
+
+
+//POINTER #8 @ $3DAF8 - STRING #8 @ $3DBD6
+
+#W16($3DAF8)
+Freege[X]
+
+
+//POINTER #9 @ $3DAFA - STRING #9 @ $3DBE4
+
+#W16($3DAFA)
+Barhara[X]
+
+
+//POINTER #10 @ $3DAFC - STRING #10 @ $3DBF4
+
+#W16($3DAFC)
+Dozel[X]
+
+
+//POINTER #11 @ $3DAFE - STRING #11 @ $3DC00
+
+#W16($3DAFE)
+Edda[X]
+
+
+//POINTER #12 @ $3DB00 - STRING #12 @ $3DC0A
+
+#W16($3DB00)
+Chalphy[X]
+
+
+//POINTER #13 @ $3DB02 - STRING #13 @ $3DC1A
+
+#W16($3DB02)
+Jungby[X]
+
+
+//POINTER #14 @ $3DB04 - STRING #14 @ $3DC28
+
+#W16($3DB04)
+Lenster[X]
+
+
+//POINTER #15 @ $3DB06 - STRING #15 @ $3DC38
+
+#W16($3DB06)
+Conote[X]
+
+
+//POINTER #16 @ $3DB08 - STRING #16 @ $3DC46
+
+#W16($3DB08)
+Manster[X]
+
+
+//POINTER #17 @ $3DB0A - STRING #17 @ $3DC56
+
+#W16($3DB0A)
+Melgen[X]
+
+
+//POINTER #18 @ $3DB0C - STRING #18 @ $3DC64
+
+#W16($3DB0C)
+Alster[X]
+
+
+//POINTER #19 @ $3DB0E - STRING #19 @ $3DC72
+
+#W16($3DB0E)
+Orgahil[X]
+
+
+//POINTER #20 @ $3DB10 - STRING #20 @ $3DC82
+
+#W16($3DB10)
+Thove[X]
+
+
+//POINTER #21 @ $3DB12 - STRING #21 @ $3DC8E
+
+#W16($3DB12)
+Sailane[X]
+
+
+//POINTER #22 @ $3DB14 - STRING #22 @ $3DC9E
+
+#W16($3DB14)
+Zaxon[X]
+
+
+//POINTER #23 @ $3DB16 - STRING #23 @ $3DCAA
+
+#W16($3DB16)
+Silesia[X]
+
+
+//POINTER #24 @ $3DB18 - STRING #24 @ $3DCBA
+
+#W16($3DB18)
+Lubeck[X]
+
+
+//POINTER #25 @ $3DB1A - STRING #25 @ $3DCC8
+
+#W16($3DB1A)
+Tilnanogue[X]
+
+
+//POINTER #26 @ $3DB1C - STRING #26 @ $3DCDE
+
+#W16($3DB1C)
+Ganeishire[X]
+
+
+//POINTER #27 @ $3DB1E - STRING #27 @ $3DCF4
+
+#W16($3DB1E)
+Sophara[X]
+
+
+//POINTER #28 @ $3DB20 - STRING #28 @ $3DD04
+
+#W16($3DB20)
+Isaac[X]
+
+
+//POINTER #29 @ $3DB22 - STRING #29 @ $3DD10
+
+#W16($3DB22)
+Rivough[X]
+
+
+//POINTER #30 @ $3DB24 - STRING #30 @ $3DD20
+
+#W16($3DB24)
+Phinora[X]
+
+
+//POINTER #31 @ $3DB26 - STRING #31 @ $3DD30
+
+#W16($3DB26)
+Yied[X]
+
+
+//POINTER #32 @ $3DB28 - STRING #32 @ $3DD3A
+
+#W16($3DB28)
+Darna[X]
+
+
+//POINTER #33 @ $3DB2A - STRING #33 @ $3DD46
+
+#W16($3DB2A)
+Verdane[X]
+
+
+//POINTER #34 @ $3DB2C - STRING #34 @ $3DD56
+
+#W16($3DB2C)
+Evans[X]
+
+
+//POINTER #35 @ $3DB2E - STRING #35 @ $3DD62
+
+#W16($3DB2E)
+Genoa[X]
+
+
+//POINTER #36 @ $3DB30 - STRING #36 @ $3DD6E
+
+#W16($3DB30)
+Marpha[X]
+
+
+//POINTER #37 @ $3DB32 - STRING #37 @ $3DD7C
+
+#W16($3DB32)
+Miletos[X]
+
+
+//POINTER #38 @ $3DB34 - STRING #38 @ $3DD8C
+
+#W16($3DB34)
+Peruluke[X]
+
+
+//POINTER #39 @ $3DB36 - STRING #39 @ $3DD9E
+
+#W16($3DB36)
+Chronos[X]
+
+
+//POINTER #40 @ $3DB38 - STRING #40 @ $3DDAE
+
+#W16($3DB38)
+Rados[X]
+
+
+//POINTER #41 @ $3DB3A - STRING #41 @ $3DDBA
+
+#W16($3DB3A)
+Mease[X]
+
+
+//POINTER #42 @ $3DB3C - STRING #42 @ $3DDC6
+
+#W16($3DB3C)
+Kapathogia[X]
+
+
+//POINTER #43 @ $3DB3E - STRING #43 @ $3DDDC
+
+#W16($3DB3E)
+Luthecia[X]
+
+
+//POINTER #44 @ $3DB40 - STRING #44 @ $3DDEE
+
+#W16($3DB40)
+Thracia[X]
+
+
+//POINTER #45 @ $3DB42 - STRING #45 @ $3DDFE
+
+#W16($3DB42)
+Grutia[X]
+
+
+//POINTER #46 @ $3DB44 - STRING #46 @ $3F9D0
+
+#W16($3DB44)
+Velthomer[X]
+
+
+//POINTER #47 @ $3DB46 - STRING #47 @ $3F9E4
+
+#W16($3DB46)
+Freege[X]
+
+
+//POINTER #48 @ $3DB48 - STRING #48 @ $3F9F2
+
+#W16($3DB48)
+Barhara[X]
+
+
+//POINTER #49 @ $3DB4A - STRING #49 @ $3DBF4
+
+#W16($3DB4A)
+Dozel[X]
+
+
+//POINTER #50 @ $3DB4C - STRING #50 @ $3DC00
+
+#W16($3DB4C)
+Edda[X]
+
+
+//POINTER #51 @ $3DB4E - STRING #51 @ $3DC0A
+
+#W16($3DB4E)
+Chalphy[X]
+
+
+//POINTER #52 @ $3DB50 - STRING #52 @ $3DC1A
+
+#W16($3DB50)
+Jungby[X]
+
+
+//POINTER #53 @ $3DB52 - STRING #53 @ $3FA02
+
+#W16($3DB52)
+Te[X]
+
+
+//POINTER #54 @ $3DB54 - STRING #54 @ $3FA20
+
+#W16($3DB54)
+Celice[X]
+

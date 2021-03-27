@@ -1,0 +1,435 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #004 NAME:		Class Names
+
+//POINTER #0 @ $38CB3 - STRING #0 @ $38D43
+
+#W16($38CB3)
+SocialKn[X]
+
+
+//POINTER #1 @ $38CB5 - STRING #1 @ $38D55
+
+#W16($38CB5)
+SpearKn[X]
+
+
+//POINTER #2 @ $38CB7 - STRING #2 @ $38D65
+
+#W16($38CB7)
+ArchKn[X]
+
+
+//POINTER #3 @ $38CB9 - STRING #3 @ $38D73
+
+#W16($38CB9)
+AxeKn[X]
+
+
+//POINTER #4 @ $38CBB - STRING #4 @ $38D7F
+
+#W16($38CBB)
+FreeLncr[X]
+
+
+//POINTER #5 @ $38CBD - STRING #5 @ $38D91
+
+#W16($38CBD)
+Trubador[X]
+
+
+//POINTER #6 @ $38CBF - STRING #6 @ $38DA3
+
+#W16($38CBF)
+Lord[X]
+
+
+//POINTER #7 @ $38CC1 - STRING #7 @ $38DAD
+
+#W16($38CC1)
+Duke[X]
+
+
+//POINTER #8 @ $38CC3 - STRING #8 @ $38DB7
+
+#W16($38CC3)
+Master[X]
+
+
+//POINTER #9 @ $38CC5 - STRING #9 @ $38DC5
+
+#W16($38CC5)
+Paladin[X]
+
+
+//POINTER #10 @ $38CC7 - STRING #10 @ $38DD5
+
+#W16($38CC7)
+Paladin[X]
+
+
+//POINTER #11 @ $38CC9 - STRING #11 @ $38DE5
+
+#W16($38CC9)
+BowKn[X]
+
+
+//POINTER #12 @ $38CCB - STRING #12 @ $38DF1
+
+#W16($38CCB)
+ForestKn[X]
+
+
+//POINTER #13 @ $38CCD - STRING #13 @ $38E03
+
+#W16($38CCD)
+MageKn[X]
+
+
+//POINTER #14 @ $38CCF - STRING #14 @ $38E11
+
+#W16($38CCF)
+GreatKn[X]
+
+
+//POINTER #15 @ $38CD1 - STRING #15 @ $38E21
+
+#W16($38CD1)
+PegRider[X]
+
+
+//POINTER #16 @ $38CD3 - STRING #16 @ $38E33
+
+#W16($38CD3)
+PegKnight[X]
+
+
+//POINTER #17 @ $38CD5 - STRING #17 @ $38E47
+
+#W16($38CD5)
+FalconKn[X]
+
+
+//POINTER #18 @ $38CD7 - STRING #18 @ $38E59
+
+#W16($38CD7)
+DragonRd[X]
+
+
+//POINTER #19 @ $38CD9 - STRING #19 @ $38E6B
+
+#W16($38CD9)
+DragonKn[X]
+
+
+//POINTER #20 @ $38CDB - STRING #20 @ $38E7D
+
+#W16($38CDB)
+DrgMastr[X]
+
+
+//POINTER #21 @ $38CDD - STRING #21 @ $38E8F
+
+#W16($38CDD)
+BowMan[X]
+
+
+//POINTER #22 @ $38CDF - STRING #22 @ $38E9D
+
+#W16($38CDF)
+SwdFight[X]
+
+
+//POINTER #23 @ $38CE1 - STRING #23 @ $38EAF
+
+#W16($38CE1)
+SwdMastr[X]
+
+
+//POINTER #24 @ $38CE3 - STRING #24 @ $38EC1
+
+#W16($38CE3)
+Sniper[X]
+
+
+//POINTER #25 @ $38CE5 - STRING #25 @ $38ECF
+
+#W16($38CE5)
+Forest[X]
+
+
+//POINTER #26 @ $38CE7 - STRING #26 @ $38EDD
+
+#W16($38CE7)
+General[X]
+
+
+//POINTER #27 @ $38CE9 - STRING #27 @ $38EED
+
+#W16($38CE9)
+Emperor[X]
+
+
+//POINTER #28 @ $38CEB - STRING #28 @ $38EFD
+
+#W16($38CEB)
+Baron[X]
+
+
+//POINTER #29 @ $38CED - STRING #29 @ $38F09
+
+#W16($38CED)
+Soldier[X]
+
+
+//POINTER #30 @ $38CEF - STRING #30 @ $38F19
+
+#W16($38CEF)
+SprSoldr[X]
+
+
+//POINTER #31 @ $38CF1 - STRING #31 @ $38F2B
+
+#W16($38CF1)
+AxeSoldr[X]
+
+
+//POINTER #32 @ $38CF3 - STRING #32 @ $38F3D
+
+#W16($38CF3)
+Archer[X]
+
+
+//POINTER #33 @ $38CF5 - STRING #33 @ $38F4B
+
+#W16($38CF5)
+SwdSoldr[X]
+
+
+//POINTER #34 @ $38CF7 - STRING #34 @ $38F5D
+
+#W16($38CF7)
+Armor[X]
+
+
+//POINTER #35 @ $38CF9 - STRING #35 @ $38F69
+
+#W16($38CF9)
+AxeArmor[X]
+
+
+//POINTER #36 @ $38CFB - STRING #36 @ $38F7B
+
+#W16($38CFB)
+BowArmor[X]
+
+
+//POINTER #37 @ $38CFD - STRING #37 @ $38F8D
+
+#W16($38CFD)
+SwdArmor[X]
+
+
+//POINTER #38 @ $38CFF - STRING #38 @ $38F9F
+
+#W16($38CFF)
+Beastman[X]
+
+
+//POINTER #39 @ $38D01 - STRING #39 @ $38FB1
+
+#W16($38D01)
+AxeFight[X]
+
+
+//POINTER #40 @ $38D03 - STRING #40 @ $38FC3
+
+#W16($38D03)
+MtnThief[X]
+
+
+//POINTER #41 @ $38D05 - STRING #41 @ $38FD5
+
+#W16($38D05)
+Warrior[X]
+
+
+//POINTER #42 @ $38D07 - STRING #42 @ $38FE5
+
+#W16($38D07)
+Hunter[X]
+
+
+//POINTER #43 @ $38D09 - STRING #43 @ $38FF3
+
+#W16($38D09)
+Pirate[X]
+
+
+//POINTER #44 @ $38D0B - STRING #44 @ $39001
+
+#W16($38D0B)
+JrLord[X]
+
+
+//POINTER #45 @ $38D0D - STRING #45 @ $3900F
+
+#W16($38D0D)
+MagFight[X]
+
+
+//POINTER #46 @ $38D0F - STRING #46 @ $39021
+
+#W16($38D0F)
+Prince[X]
+
+
+//POINTER #47 @ $38D11 - STRING #47 @ $3902F
+
+#W16($38D11)
+Princess[X]
+
+
+//POINTER #48 @ $38D13 - STRING #48 @ $3900F
+
+#W16($38D13)
+MagFight[X]
+
+
+//POINTER #49 @ $38D15 - STRING #49 @ $39041
+
+#W16($38D15)
+Queen[X]
+
+
+//POINTER #50 @ $38D17 - STRING #50 @ $3904D
+
+#W16($38D17)
+Dancer[X]
+
+
+//POINTER #51 @ $38D19 - STRING #51 @ $3905B
+
+#W16($38D19)
+Priest[X]
+
+
+//POINTER #52 @ $38D1B - STRING #52 @ $39069
+
+#W16($38D1B)
+Mage[X]
+
+
+//POINTER #53 @ $38D1D - STRING #53 @ $39073
+
+#W16($38D1D)
+FireMage[X]
+
+
+//POINTER #54 @ $38D1F - STRING #54 @ $39085
+
+#W16($38D1F)
+BoltMage[X]
+
+
+//POINTER #55 @ $38D21 - STRING #55 @ $39097
+
+#W16($38D21)
+WindMage[X]
+
+
+//POINTER #56 @ $38D23 - STRING #56 @ $390A9
+
+#W16($38D23)
+HighPrst[X]
+
+
+//POINTER #57 @ $38D25 - STRING #57 @ $390BB
+
+#W16($38D25)
+Bishop[X]
+
+
+//POINTER #58 @ $38D27 - STRING #58 @ $390C9
+
+#W16($38D27)
+Sage[X]
+
+
+//POINTER #59 @ $38D29 - STRING #59 @ $390D3
+
+#W16($38D29)
+Bard[X]
+
+
+//POINTER #60 @ $38D2B - STRING #60 @ $390DD
+
+#W16($38D2B)
+Shaman[X]
+
+
+//POINTER #61 @ $38D2D - STRING #61 @ $390EB
+
+#W16($38D2D)
+DarkMage[X]
+
+
+//POINTER #62 @ $38D2F - STRING #62 @ $390FD
+
+#W16($38D2F)
+DkBishop[X]
+
+
+//POINTER #63 @ $38D31 - STRING #63 @ $38FC9
+
+#W16($38D31)
+Thief[X]
+
+
+//POINTER #64 @ $38D33 - STRING #64 @ $3910F
+
+#W16($38D33)
+ThfFight[X]
+
+
+//POINTER #65 @ $38D35 - STRING #65 @ $39121
+
+#W16($38D35)
+Civilian[X]
+
+
+//POINTER #66 @ $38D37 - STRING #66 @ $39121
+
+#W16($38D37)
+Civilian[X]
+
+
+//POINTER #67 @ $38D39 - STRING #67 @ $3FB00
+
+#W16($38D39)
+rin[X]
+
+
+//POINTER #68 @ $38D3B - STRING #68 @ $3FB12
+
+#W16($38D3B)
+sis[X]
+
+
+//POINTER #69 @ $38D3D - STRING #69 @ $3FB24
+
+#W16($38D3D)
+Fury[X]
+
+
+//POINTER #70 @ $38D3F - STRING #70 @ $3FB36
+
+#W16($38D3F)
+yu[X]
+
+
+//POINTER #71 @ $38D41 - STRING #71 @ $3FB4A
+
+#W16($38D41)
+Edin[X]
+

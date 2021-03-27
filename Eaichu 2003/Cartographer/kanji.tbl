@@ -1,0 +1,31 @@
+@Kanji
+#Break this up to Kanji1 to Kanji6 if I ever dump them. For now, just merge them.
+#Control codes and nothing else.
+/01=[X]\n\n
+02=[N]
+03=[Clear]
+04=[Scroll]
+05=[TargetWin]
+06=[TargetTop]
+07=[TargetBottom]
+08=[A]
+!09=<[Kana]>,<@Kana>:0
+!0A=<[Kanji1]>,<@Kanji>:0
+!0B=<[Kanji2]>,<@Kanji>:0
+!0C=<[Kanji3]>,<@Kanji>:0
+!0D=<[Kanji4]>,<@Kanji>:0
+!0E=<[Kanji5]>,<@Kanji>:0
+!0F=<[Kanji6]>,<@Kanji>:0
+0012=[SetSpeed]
+0013=[ChangeMusic]
+0014=[TextSFX]
+0017=[AClear]
+001D=[Wait]
+0027=[Item]
+0028=[Class]
+002A=[Pointer]
+002C=[Name?]
+003D=[OpenBox]
+003E=[CloseBox]
+003F=[LoadFace]
+0040=[ClearFace]

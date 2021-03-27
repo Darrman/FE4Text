@@ -1,0 +1,147 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #010 NAME:		Menu Commands
+
+//POINTER #0 @ $5E4AF - STRING #0 @ $5EF0E
+
+#W16($5E4AF)
+<$98><$DF><$85><$01><$01> Return[X]
+
+
+//POINTER #1 @ $5E4B1 - STRING #1 @ $5EF23
+
+#W16($5E4B1)
+<$04><$E0><$85><$01><$01> Return[X]
+
+
+//POINTER #2 @ $5E4B3 - STRING #2 @ $5EF38
+
+#W16($5E4B3)
+<$FD><$DF><$85><$01><$01> Anime[X]
+
+
+//POINTER #3 @ $5E4B5 - STRING #3 @ $5EF4B
+
+#W16($5E4B5)
+<$DE><$DF><$85><$01><$01> Equip[X]
+
+
+//POINTER #4 @ $5E4B7 - STRING #4 @ $5EF5E
+
+#W16($5E4B7)
+<$A6><$DF><$85><$01><$01> Dismount[X]
+
+
+//POINTER #5 @ $5E4B9 - STRING #5 @ $5EF77
+
+#W16($5E4B9)
+<$B4><$DF><$85><$01><$01> Mount[X]
+
+
+//POINTER #6 @ $5E4BB - STRING #6 @ $5EF8A
+
+#W16($5E4BB)
+<$50><$E0><$85><$01><$01> Give[X]
+
+
+//POINTER #7 @ $5E4BD - STRING #7 @ $5EF9B
+
+#W16($5E4BD)
+<$30><$E0><$85><$01><$01> Give[X]
+
+
+//POINTER #8 @ $5E4BF - STRING #8 @ $5EFAC
+
+#W16($5E4BF)
+<$FB><$DE><$85><$01><$01> Belong[X]
+
+
+//POINTER #9 @ $5E4C1 - STRING #9 @ $5EFC1
+
+#W16($5E4C1)
+<$D6><$DE><$85><$01><$01> Staff[X]
+
+
+//POINTER #10 @ $5E4C3 - STRING #10 @ $5EFD4
+
+#W16($5E4C3)
+<$43><$DE><$85><$01><$01> Stay[X]
+
+
+//POINTER #11 @ $5E4C5 - STRING #11 @ $5EFE5
+
+#W16($5E4C5)
+<$C2><$DF><$85><$01><$01> Talk[X]
+
+
+//POINTER #12 @ $5E4C7 - STRING #12 @ $5EFF6
+
+#W16($5E4C7)
+<$8A><$DF><$85><$01><$01> Depart[X]
+
+
+//POINTER #13 @ $5E4C9 - STRING #13 @ $5F00B
+
+#W16($5E4C9)
+<$7D><$DF><$85><$01><$01> Equip[X]
+
+
+//POINTER #14 @ $5E4CB - STRING #14 @ $5F01E
+
+#W16($5E4CB)
+<$61><$DF><$85><$01><$01> Village[X]
+
+
+//POINTER #15 @ $5E4CD - STRING #15 @ $5F035
+
+#W16($5E4CD)
+<$3F><$DF><$85><$01><$01> Town[X]
+
+
+//POINTER #16 @ $5E4CF - STRING #16 @ $5F046
+
+#W16($5E4CF)
+<$6F><$DF><$85><$01><$01> Subdue[X]
+
+
+//POINTER #17 @ $5E4D1 - STRING #17 @ $5F05B
+
+#W16($5E4D1)
+<$20><$DF><$85><$01><$01> Enter[X]
+
+
+//POINTER #18 @ $5E4D3 - STRING #18 @ $5F06E
+
+#W16($5E4D3)
+<$AB><$DE><$85><$01><$01> Dance[X]
+
+
+//POINTER #19 @ $5E4D5 - STRING #19 @ $5EFC1
+
+#W16($5E4D5)
+<$D6><$DE><$85><$01><$01> Staff[X]
+
+
+//POINTER #20 @ $5E4D7 - STRING #20 @ $5F081
+
+#W16($5E4D7)
+<$57><$DE><$85><$01><$01> Attack[X]
+
+
+//POINTER #21 @ $5E4D9 - STRING #21 @ $5F096
+
+#W16($5E4D9)
+<$7C><$DE><$85><$01><$01> Charge[X]
+
+
+//POINTER #22 @ $5E4DB - STRING #22 @ $5F0AB
+
+#W16($5E4DB)
+<$12><$E0><$85><$01><$01> Help[X]
+
+
+//POINTER #23 @ $5E4DD - STRING #23 @ $5EFE5
+
+#W16($5E4DD)
+<$C2><$DF><$85><$01><$01> Talk[X]
+
