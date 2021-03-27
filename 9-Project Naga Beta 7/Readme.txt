@@ -1,0 +1,1 @@
+Considering the nature of the menu text in Project Naga, it can't be dumped into a text file. It's all pre-rendered.
