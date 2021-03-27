@@ -1,0 +1,693 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #008 NAME:		Item Descriptions
+
+//POINTER #0 @ $3E4E8 - STRING #0 @ $3E5FC
+
+#W16($3E4E8)
+ [X]
+
+//POINTER #1 @ $3E4EA - STRING #1 @ $3E5FC
+
+#W16($3E4EA)
+ [X]
+
+//POINTER #2 @ $3E4EC - STRING #2 @ $3E5FC
+
+#W16($3E4EC)
+ [X]
+
+//POINTER #3 @ $3E4EE - STRING #3 @ $3E5FC
+
+#W16($3E4EE)
+ [X]
+
+//POINTER #4 @ $3E4F0 - STRING #4 @ $3E5FC
+
+#W16($3E4F0)
+ [X]
+
+//POINTER #5 @ $3E4F2 - STRING #5 @ $3E5FC
+
+#W16($3E4F2)
+ [X]
+
+//POINTER #6 @ $3E4F4 - STRING #6 @ $3E600
+
+#W16($3E4F4)
+じょせいせんよう[X]
+
+//POINTER #7 @ $3E4F6 - STRING #7 @ $3E612
+
+#W16($3E4F6)
+ゴールドをぬすむ[X]
+
+//POINTER #8 @ $3E4F8 - STRING #8 @ $3E630
+
+#W16($3E4F8)
+まほうしゅび＋７[X]
+
+//POINTER #9 @ $3E4FA - STRING #9 @ $3E654
+
+#W16($3E4FA)
+こんらんさせる[X]
+
+//POINTER #10 @ $3E4FC - STRING #10 @ $3E664
+
+#W16($3E4FC)
+２回こうげき[X]
+
+//POINTER #11 @ $3E4FE - STRING #11 @ $3E672
+
+#W16($3E4FE)
+ちんもくさせる[X]
+
+//POINTER #12 @ $3E500 - STRING #12 @ $3E682
+
+#W16($3E500)
+ねむらせる[X]
+
+//POINTER #13 @ $3E502 - STRING #13 @ $3E5FC
+
+#W16($3E502)
+ [X]
+
+//POINTER #14 @ $3E504 - STRING #14 @ $3E642
+
+#W16($3E504)
+しゅびりょく＋７[X]
+
+//POINTER #15 @ $3E506 - STRING #15 @ $3E68E
+
+#W16($3E506)
+＋エルファイアー[X]
+
+//POINTER #16 @ $3E508 - STRING #16 @ $3E6A0
+
+#W16($3E508)
+ＨＰをすいとる[X]
+
+//POINTER #17 @ $3E50A - STRING #17 @ $3E6B0
+
+#W16($3E50A)
+＋エルサンダー[X]
+
+//POINTER #18 @ $3E50C - STRING #18 @ $3E6C0
+
+#W16($3E50C)
+＋エルウインド[X]
+
+//POINTER #19 @ $3E50E - STRING #19 @ $3E6D0
+
+#W16($3E50E)
+＋ライトニング[X]
+
+//POINTER #20 @ $3E510 - STRING #20 @ $3E6E0
+
+#W16($3E510)
+ ひっさつ[X]
+
+//POINTER #21 @ $3E512 - STRING #21 @ $3E6EC
+
+#W16($3E512)
+ いのり[X]
+
+//POINTER #22 @ $3E514 - STRING #22 @ $3E6F6
+
+#W16($3E514)
+せんりょくアップ[X]
+
+//POINTER #23 @ $3E516 - STRING #23 @ $3E736
+
+#W16($3E516)
+アーマー系に特効[X]
+
+//POINTER #24 @ $3E518 - STRING #24 @ $3E758
+
+#W16($3E518)
+ひこう系に特効[X]
+
+//POINTER #25 @ $3E51A - STRING #25 @ $3E5FC
+
+#W16($3E51A)
+ [X]
+
+//POINTER #26 @ $3E51C - STRING #26 @ $3E5FC
+
+#W16($3E51C)
+ [X]
+
+//POINTER #27 @ $3E51E - STRING #27 @ $3E5FC
+
+#W16($3E51E)
+ [X]
+
+//POINTER #28 @ $3E520 - STRING #28 @ $3E5FC
+
+#W16($3E520)
+ [X]
+
+//POINTER #29 @ $3E522 - STRING #29 @ $3E5FC
+
+#W16($3E522)
+ [X]
+
+//POINTER #30 @ $3E524 - STRING #30 @ $3E5FC
+
+#W16($3E524)
+ [X]
+
+//POINTER #31 @ $3E526 - STRING #31 @ $3E5FC
+
+#W16($3E526)
+ [X]
+
+//POINTER #32 @ $3E528 - STRING #32 @ $3E748
+
+#W16($3E528)
+ナイト系に特効[X]
+
+//POINTER #33 @ $3E52A - STRING #33 @ $3E664
+
+#W16($3E52A)
+２回こうげき[X]
+
+//POINTER #34 @ $3E52C - STRING #34 @ $3E5FC
+
+#W16($3E52C)
+ [X]
+
+//POINTER #35 @ $3E52E - STRING #35 @ $3E6F6
+
+#W16($3E52E)
+せんりょくアップ[X]
+
+//POINTER #36 @ $3E530 - STRING #36 @ $3E6F6
+
+#W16($3E530)
+せんりょくアップ[X]
+
+//POINTER #37 @ $3E532 - STRING #37 @ $3E5FC
+
+#W16($3E532)
+ [X]
+
+//POINTER #38 @ $3E534 - STRING #38 @ $3E5FC
+
+#W16($3E534)
+ [X]
+
+//POINTER #39 @ $3E536 - STRING #39 @ $3E5FC
+
+#W16($3E536)
+ [X]
+
+//POINTER #40 @ $3E538 - STRING #40 @ $3E5FC
+
+#W16($3E538)
+ [X]
+
+//POINTER #41 @ $3E53A - STRING #41 @ $3E5FC
+
+#W16($3E53A)
+ [X]
+
+//POINTER #42 @ $3E53C - STRING #42 @ $3E5FC
+
+#W16($3E53C)
+ [X]
+
+//POINTER #43 @ $3E53E - STRING #43 @ $3E664
+
+#W16($3E53E)
+２回こうげき[X]
+
+//POINTER #44 @ $3E540 - STRING #44 @ $3E6F6
+
+#W16($3E540)
+せんりょくアップ[X]
+
+//POINTER #45 @ $3E542 - STRING #45 @ $3E5FC
+
+#W16($3E542)
+ [X]
+
+//POINTER #46 @ $3E544 - STRING #46 @ $3E5FC
+
+#W16($3E544)
+ [X]
+
+//POINTER #47 @ $3E546 - STRING #47 @ $3E5FC
+
+#W16($3E546)
+ [X]
+
+//POINTER #48 @ $3E548 - STRING #48 @ $3E5FC
+
+#W16($3E548)
+ [X]
+
+//POINTER #49 @ $3E54A - STRING #49 @ $3E758
+
+#W16($3E54A)
+ひこう系に特効[X]
+
+//POINTER #50 @ $3E54C - STRING #50 @ $3E758
+
+#W16($3E54C)
+ひこう系に特効[X]
+
+//POINTER #51 @ $3E54E - STRING #51 @ $3E758
+
+#W16($3E54E)
+ひこう系に特効[X]
+
+//POINTER #52 @ $3E550 - STRING #52 @ $3E664
+
+#W16($3E550)
+２回こうげき[X]
+
+//POINTER #53 @ $3E552 - STRING #53 @ $3E624
+
+#W16($3E552)
+ ひっさつ[X]
+
+//POINTER #54 @ $3E554 - STRING #54 @ $3E708
+
+#W16($3E554)
+ ライブ[X]
+
+//POINTER #55 @ $3E556 - STRING #55 @ $3E758
+
+#W16($3E556)
+ひこう系に特効[X]
+
+//POINTER #56 @ $3E558 - STRING #56 @ $3E758
+
+#W16($3E558)
+ひこう系に特効[X]
+
+//POINTER #57 @ $3E55A - STRING #57 @ $3E758
+
+#W16($3E55A)
+ひこう系に特効[X]
+
+//POINTER #58 @ $3E55C - STRING #58 @ $3E758
+
+#W16($3E55C)
+ひこう系に特効[X]
+
+//POINTER #59 @ $3E55E - STRING #59 @ $3E758
+
+#W16($3E55E)
+ひこう系に特効[X]
+
+//POINTER #60 @ $3E560 - STRING #60 @ $3E758
+
+#W16($3E560)
+ひこう系に特効[X]
+
+//POINTER #61 @ $3E562 - STRING #61 @ $3E758
+
+#W16($3E562)
+ひこう系に特効[X]
+
+//POINTER #62 @ $3E564 - STRING #62 @ $3E5FC
+
+#W16($3E564)
+ [X]
+
+//POINTER #63 @ $3E566 - STRING #63 @ $3E5FC
+
+#W16($3E566)
+ [X]
+
+//POINTER #64 @ $3E568 - STRING #64 @ $3E5FC
+
+#W16($3E568)
+ [X]
+
+//POINTER #65 @ $3E56A - STRING #65 @ $3E6F6
+
+#W16($3E56A)
+せんりょくアップ[X]
+
+//POINTER #66 @ $3E56C - STRING #66 @ $3E5FC
+
+#W16($3E56C)
+ [X]
+
+//POINTER #67 @ $3E56E - STRING #67 @ $3E5FC
+
+#W16($3E56E)
+ [X]
+
+//POINTER #68 @ $3E570 - STRING #68 @ $3E5FC
+
+#W16($3E570)
+ [X]
+
+//POINTER #69 @ $3E572 - STRING #69 @ $3E5FC
+
+#W16($3E572)
+ [X]
+
+//POINTER #70 @ $3E574 - STRING #70 @ $3E6F6
+
+#W16($3E574)
+せんりょくアップ[X]
+
+//POINTER #71 @ $3E576 - STRING #71 @ $3E5FC
+
+#W16($3E576)
+ [X]
+
+//POINTER #72 @ $3E578 - STRING #72 @ $3E5FC
+
+#W16($3E578)
+ [X]
+
+//POINTER #73 @ $3E57A - STRING #73 @ $3E5FC
+
+#W16($3E57A)
+ [X]
+
+//POINTER #74 @ $3E57C - STRING #74 @ $3E5FC
+
+#W16($3E57C)
+ [X]
+
+//POINTER #75 @ $3E57E - STRING #75 @ $3E6F6
+
+#W16($3E57E)
+せんりょくアップ[X]
+
+//POINTER #76 @ $3E580 - STRING #76 @ $3E5FC
+
+#W16($3E580)
+ [X]
+
+//POINTER #77 @ $3E582 - STRING #77 @ $3E5FC
+
+#W16($3E582)
+ [X]
+
+//POINTER #78 @ $3E584 - STRING #78 @ $3E77A
+
+#W16($3E584)
+ＨＰをすいとる[X]
+
+//POINTER #79 @ $3E586 - STRING #79 @ $3E5FC
+
+#W16($3E586)
+ [X]
+
+//POINTER #80 @ $3E588 - STRING #80 @ $3E724
+
+#W16($3E588)
+ロプトウスむこう[X]
+
+//POINTER #81 @ $3E58A - STRING #81 @ $3E5FC
+
+#W16($3E58A)
+ [X]
+
+//POINTER #82 @ $3E58C - STRING #82 @ $3E5FC
+
+#W16($3E58C)
+ [X]
+
+//POINTER #83 @ $3E58E - STRING #83 @ $3E768
+
+#W16($3E58E)
+ＨＰを１にさげる[X]
+
+//POINTER #84 @ $3E590 - STRING #84 @ $3E712
+
+#W16($3E590)
+こうげきはんげん[X]
+
+//POINTER #85 @ $3E592 - STRING #85 @ $3E5FC
+
+#W16($3E592)
+ [X]
+
+//POINTER #86 @ $3E594 - STRING #86 @ $3E5FC
+
+#W16($3E594)
+ [X]
+
+//POINTER #87 @ $3E596 - STRING #87 @ $3E5FC
+
+#W16($3E596)
+ [X]
+
+//POINTER #88 @ $3E598 - STRING #88 @ $3E78A
+
+#W16($3E598)
+ＨＰを回ふくする[X]
+
+//POINTER #89 @ $3E59A - STRING #89 @ $3E79C
+
+#W16($3E59A)
+ＨＰをおおく  回ふくする[X]
+
+//POINTER #90 @ $3E59C - STRING #90 @ $3E7B8
+
+#W16($3E59C)
+ＨＰをかんぜんに回ふくする[X]
+
+//POINTER #91 @ $3E59E - STRING #91 @ $3E7D4
+
+#W16($3E59E)
+１０マスないの みかたひとりに ライブをかける[X]
+
+//POINTER #92 @ $3E5A0 - STRING #92 @ $3E804
+
+#W16($3E5A0)
+１０マスないの みかたぜんいんにライブをかける[X]
+
+//POINTER #93 @ $3E5A2 - STRING #93 @ $3E834
+
+#W16($3E5A2)
+みかたひとりを ほん城へもどす[X]
+
+//POINTER #94 @ $3E5A4 - STRING #94 @ $3E854
+
+#W16($3E5A4)
+みかたひとりを じぐんのどれかの城にワープさせる[X]
+
+//POINTER #95 @ $3E5A6 - STRING #95 @ $3E886
+
+#W16($3E5A6)
+１０マスないの みかたひとりを そばにひきよせる[X]
+
+//POINTER #96 @ $3E5A8 - STRING #96 @ $3E8B8
+
+#W16($3E5A8)
+１０マスないの みかたひとりの じょうたいを  せいじょうにする[X]
+
+//POINTER #97 @ $3E5AA - STRING #97 @ $3E8B8
+
+#W16($3E5AA)
+１０マスないの みかたひとりの じょうたいを  せいじょうにする[X]
+
+//POINTER #98 @ $3E5AC - STRING #98 @ $3E8FA
+
+#W16($3E5AC)
+しんでしまった みかたひとりを よみがえらせる ほん城でつかえる[X]
+
+//POINTER #99 @ $3E5AE - STRING #99 @ $3E93C
+
+#W16($3E5AE)
+１０マスないの てきひとりの  まほうをすうターンつかえなくする[X]
+
+//POINTER #100 @ $3E5B0 - STRING #100 @ $3E97E
+
+#W16($3E5B0)
+１０マスないの てきひとりを  すうターンうごけなくする[X]
+
+//POINTER #101 @ $3E5B2 - STRING #101 @ $3E9B8
+
+#W16($3E5B2)
+１０マスないの てきひとりを  すうターンこんらんさせる[X]
+
+//POINTER #102 @ $3E5B4 - STRING #102 @ $3E9F2
+
+#W16($3E5B4)
+てきからゴールドをぬすむ[X]
+
+//POINTER #103 @ $3E5B6 - STRING #103 @ $3E5FC
+
+#W16($3E5B6)
+ [X]
+
+//POINTER #104 @ $3E5B8 - STRING #104 @ $3E5FC
+
+#W16($3E5B8)
+ [X]
+
+//POINTER #105 @ $3E5BA - STRING #105 @ $3E5FC
+
+#W16($3E5BA)
+ [X]
+
+//POINTER #106 @ $3E5BC - STRING #106 @ $3EA0C
+
+#W16($3E5BC)
+まいターンＨＰが回ふくする[X]
+
+//POINTER #107 @ $3E5BE - STRING #107 @ $3EA28
+
+#W16($3E5BE)
+けいけんちを  ２ばいもらえる[X]
+
+//POINTER #108 @ $3E5C0 - STRING #108 @ $3EA48
+
+#W16($3E5C0)
+てきからゴールドをぬすむ[X]
+
+//POINTER #109 @ $3E5C2 - STRING #109 @ $3EA62
+
+#W16($3E5C2)
+ピンチになると かいひりつが  あがる[X]
+
+//POINTER #110 @ $3E5C4 - STRING #110 @ $3EA8A
+
+#W16($3E5C4)
+あいてよりも  みがるならば  さいこうげき[X]
+
+//POINTER #111 @ $3E5C6 - STRING #111 @ $3EAB8
+
+#W16($3E5C6)
+まいターンＨＰがぜん回ふくする[X]
+
+//POINTER #112 @ $3E5C8 - STRING #112 @ $3EAD8
+
+#W16($3E5C8)
+かいものやしゅうりのねだんがはんぶんになる[X]
+
+//POINTER #113 @ $3E5CA - STRING #113 @ $3EB04
+
+#W16($3E5CA)
+せんとうごにさいいどうできる[X]
+
+//POINTER #114 @ $3E5CC - STRING #114 @ $3EB22
+
+#W16($3E5CC)
+ほん城にもどれる[X]
+
+//POINTER #115 @ $3E5CE - STRING #115 @ $3EB34
+
+#W16($3E5CE)
+すばやさ＋５[X]
+
+//POINTER #116 @ $3E5D0 - STRING #116 @ $3EB42
+
+#W16($3E5D0)
+まりょく＋５[X]
+
+//POINTER #117 @ $3E5D2 - STRING #117 @ $3EB50
+
+#W16($3E5D2)
+ちから＋５[X]
+
+//POINTER #118 @ $3E5D4 - STRING #118 @ $3EB5C
+
+#W16($3E5D4)
+しゅびりょく＋５[X]
+
+//POINTER #119 @ $3E5D6 - STRING #119 @ $3EB6E
+
+#W16($3E5D6)
+まほうぼうぎょ ＋５[X]
+
+//POINTER #120 @ $3E5D8 - STRING #120 @ $3EB84
+
+#W16($3E5D8)
+いどうりょく＋３[X]
+
+//POINTER #121 @ $3E5DA - STRING #121 @ $3EB96
+
+#W16($3E5DA)
+わざ＋５[X]
+
+//POINTER #122 @ $3E5DC - STRING #122 @ $3E5FC
+
+#W16($3E5DC)
+ [X]
+
+//POINTER #123 @ $3E5DE - STRING #123 @ $3E5FC
+
+#W16($3E5DE)
+ [X]
+
+//POINTER #124 @ $3E5E0 - STRING #124 @ $3E5FC
+
+#W16($3E5E0)
+ [X]
+
+//POINTER #125 @ $3E5E2 - STRING #125 @ $3E5FC
+
+#W16($3E5E2)
+ [X]
+
+//POINTER #126 @ $3E5E4 - STRING #126 @ $3E5FC
+
+#W16($3E5E4)
+ [X]
+
+//POINTER #127 @ $3E5E6 - STRING #127 @ $3E5FC
+
+#W16($3E5E6)
+ [X]
+
+//POINTER #128 @ $3E5E8 - STRING #128 @ $3E5FC
+
+#W16($3E5E8)
+ [X]
+
+//POINTER #129 @ $3E5EA - STRING #129 @ $3E5FC
+
+#W16($3E5EA)
+ [X]
+
+//POINTER #130 @ $3E5EC - STRING #130 @ $3E5FC
+
+#W16($3E5EC)
+ [X]
+
+//POINTER #131 @ $3E5EE - STRING #131 @ $3E5FC
+
+#W16($3E5EE)
+ [X]
+
+//POINTER #132 @ $3E5F0 - STRING #132 @ $3E5FC
+
+#W16($3E5F0)
+ [X]
+
+//POINTER #133 @ $3E5F2 - STRING #133 @ $3E5FC
+
+#W16($3E5F2)
+ [X]
+
+//POINTER #134 @ $3E5F4 - STRING #134 @ $3E5FC
+
+#W16($3E5F4)
+ [X]
+
+//POINTER #135 @ $3E5F6 - STRING #135 @ $3E5FC
+
+#W16($3E5F6)
+ [X]
+
+//POINTER #136 @ $3E5F8 - STRING #136 @ $3E5FC
+
+#W16($3E5F8)
+ [X]
+
+//POINTER #137 @ $3E5FA - STRING #137 @ $3EBA0
+
+#W16($3E5FA)
+せいれいのかみ かざり     いのり＋ライブ[X]

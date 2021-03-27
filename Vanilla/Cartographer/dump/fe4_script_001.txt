@@ -1,0 +1,93 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #001 NAME:		Skill Menu Names
+
+//POINTER #0 @ $D729 - STRING #0 @ $D862
+
+#W16($D729)
+おおたて   せんとう[X]
+
+//POINTER #1 @ $D73A - STRING #1 @ $D87A
+
+#W16($D73A)
+いかり    せんとう[X]
+
+//POINTER #2 @ $D74B - STRING #2 @ $D892
+
+#W16($D74B)
+ついげき   せんとう[X]
+
+//POINTER #3 @ $D75C - STRING #3 @ $D8AA
+
+#W16($D75C)
+れんぞく   せんとう[X]
+
+//POINTER #4 @ $D76D - STRING #4 @ $D8C2
+
+#W16($D76D)
+ぬすむ    せんとう[X]
+
+//POINTER #5 @ $D77E - STRING #5 @ $D8DA
+
+#W16($D77E)
+おどる    いっぱん[X]
+
+//POINTER #6 @ $D78F - STRING #6 @ $D8F2
+
+#W16($D78F)
+カリスマ   いっぱん[X]
+
+//POINTER #7 @ $D7A0 - STRING #7 @ $D90A
+
+#W16($D7A0)
+みきり    せんとう[X]
+
+//POINTER #8 @ $D7B1 - STRING #8 @ $D922
+
+#W16($D7B1)
+いのり    いっぱん[X]
+
+//POINTER #9 @ $D7C2 - STRING #9 @ $D93A
+
+#W16($D7C2)
+ひっさつ   せんとう[X]
+
+//POINTER #10 @ $D7D3 - STRING #10 @ $D952
+
+#W16($D7D3)
+まちぶせ   せんとう[X]
+
+//POINTER #11 @ $D7E4 - STRING #11 @ $D96A
+
+#W16($D7E4)
+とつげき   せんとう[X]
+
+//POINTER #12 @ $D7F5 - STRING #12 @ $D982
+
+#W16($D7F5)
+りゅうせい剣 とくしゅ剣[X]
+
+//POINTER #13 @ $D806 - STRING #13 @ $D99C
+
+#W16($D806)
+げっこう剣  とくしゅ剣[X]
+
+//POINTER #14 @ $D817 - STRING #14 @ $D9B6
+
+#W16($D817)
+たいよう剣  とくしゅ剣[X]
+
+//POINTER #15 @ $D828 - STRING #15 @ $D9D0
+
+#W16($D828)
+ライブ    いっぱん[X]
+
+//POINTER #16 @ $D839 - STRING #16 @ $D9E8
+
+#W16($D839)
+エリート   いっぱん[X]
+
+//POINTER #17 @ $D84A - STRING #17 @ $DA00
+
+#W16($D84A)
+ねぎり    いっぱん[X]

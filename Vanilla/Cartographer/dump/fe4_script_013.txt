@@ -1,0 +1,123 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #013 NAME:		Option Choices
+
+//POINTER #0 @ $9F380 - STRING #0 @ $9FAA3
+
+#W24($9F380)
+ＯＮ  [X]
+
+//POINTER #1 @ $9F383 - STRING #1 @ $9FAAD
+
+#W24($9F383)
+ＯＦＦ [X]
+
+//POINTER #2 @ $9F386 - STRING #2 @ $9FA8F
+
+#W24($9F386)
+１[X]
+
+//POINTER #3 @ $9F389 - STRING #3 @ $9FA93
+
+#W24($9F389)
+２[X]
+
+//POINTER #4 @ $9F38C - STRING #4 @ $9FA97
+
+#W24($9F38C)
+３[X]
+
+//POINTER #5 @ $9F38F - STRING #5 @ $9FA9B
+
+#W24($9F38F)
+４[X]
+
+//POINTER #6 @ $9F392 - STRING #6 @ $9FA9F
+
+#W24($9F392)
+５[X]
+
+//POINTER #7 @ $9F395 - STRING #7 @ $9F3D0
+
+#W24($9F395)
+リアル[X]
+
+//POINTER #8 @ $9F398 - STRING #8 @ $9F3C8
+
+#W24($9F398)
+はやい[X]
+
+//POINTER #9 @ $9F39B - STRING #9 @ $9F3D8
+
+#W24($9F39B)
+ステレオ[X]
+
+//POINTER #10 @ $9F39E - STRING #10 @ $9F3E2
+
+#W24($9F39E)
+モノラル[X]
+
+//POINTER #11 @ $9F3A1 - STRING #11 @ $9FAAD
+
+#W24($9F3A1)
+ＯＦＦ [X]
+
+//POINTER #12 @ $9F3A4 - STRING #12 @ $9FAAD
+
+#W24($9F3A4)
+ＯＦＦ [X]
+
+//POINTER #13 @ $9F3A7 - STRING #13 @ $9F40A
+
+#W24($9F3A7)
+セーブ１[X]
+
+//POINTER #14 @ $9F3AA - STRING #14 @ $9F414
+
+#W24($9F3AA)
+セーブ２[X]
+
+//POINTER #15 @ $9F3AD - STRING #15 @ $9F41E
+
+#W24($9F3AD)
+セーブ３[X]
+
+//POINTER #16 @ $9F3B0 - STRING #16 @ $9F428
+
+#W24($9F3B0)
+セーブ４[X]
+
+//POINTER #17 @ $9F3B3 - STRING #17 @ $9F3EC
+
+#W24($9F3B3)
+リアル [X]
+
+//POINTER #18 @ $9F3B6 - STRING #18 @ $9F3F6
+
+#W24($9F3B6)
+マップ [X]
+
+//POINTER #19 @ $9F3B9 - STRING #19 @ $9F400
+
+#W24($9F3B9)
+こ<$95><$94>つ [X]
+
+//POINTER #20 @ $9F3BC - STRING #20 @ $9F43C
+
+#W24($9F3BC)
+ふつう [X]
+
+//POINTER #21 @ $9F3BF - STRING #21 @ $9F432
+
+#W24($9F3BF)
+かしこい[X]
+
+//POINTER #22 @ $9F3C2 - STRING #22 @ $9FAA3
+
+#W24($9F3C2)
+ＯＮ  [X]
+
+//POINTER #23 @ $9F3C5 - STRING #23 @ $9FAAD
+
+#W24($9F3C5)
+ＯＦＦ [X]

@@ -1,0 +1,278 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #006 NAME:		Army Names
+
+//POINTER #0 @ $3DAE8 - STRING #0 @ $3DB56
+
+#W16($3DAE8)
+マディノ軍[X]
+
+//POINTER #1 @ $3DAEA - STRING #1 @ $3DB62
+
+#W16($3DAEA)
+シルベール軍[X]
+
+//POINTER #2 @ $3DAEC - STRING #2 @ $3DB70
+
+#W16($3DAEC)
+アンフォニー軍[X]
+
+//POINTER #3 @ $3DAEE - STRING #3 @ $3DB80
+
+#W16($3DAEE)
+アグスティ軍[X]
+
+//POINTER #4 @ $3DAF0 - STRING #4 @ $3DB8E
+
+#W16($3DAF0)
+ハイライン軍[X]
+
+//POINTER #5 @ $3DAF2 - STRING #5 @ $3DB9C
+
+#W16($3DAF2)
+マッキリー軍[X]
+
+//POINTER #6 @ $3DAF4 - STRING #6 @ $3DBAA
+
+#W16($3DAF4)
+ノディオン軍[X]
+
+//POINTER #7 @ $3DAF6 - STRING #7 @ $3DBB8
+
+#W16($3DAF6)
+ヴェルトマー軍[X]
+
+//POINTER #8 @ $3DAF8 - STRING #8 @ $3DBC8
+
+#W16($3DAF8)
+フリージ軍[X]
+
+//POINTER #9 @ $3DAFA - STRING #9 @ $3DBD4
+
+#W16($3DAFA)
+バーハラ軍[X]
+
+//POINTER #10 @ $3DAFC - STRING #10 @ $3DBE0
+
+#W16($3DAFC)
+ドズル軍[X]
+
+//POINTER #11 @ $3DAFE - STRING #11 @ $3DBEA
+
+#W16($3DAFE)
+エッダ軍[X]
+
+//POINTER #12 @ $3DB00 - STRING #12 @ $3DBF4
+
+#W16($3DB00)
+シアルフィ軍[X]
+
+//POINTER #13 @ $3DB02 - STRING #13 @ $3DC02
+
+#W16($3DB02)
+ユングヴィ軍[X]
+
+//POINTER #14 @ $3DB04 - STRING #14 @ $3DC10
+
+#W16($3DB04)
+レンスター軍[X]
+
+//POINTER #15 @ $3DB06 - STRING #15 @ $3DC1E
+
+#W16($3DB06)
+コノート軍[X]
+
+//POINTER #16 @ $3DB08 - STRING #16 @ $3DC2A
+
+#W16($3DB08)
+マンスター軍[X]
+
+//POINTER #17 @ $3DB0A - STRING #17 @ $3DC38
+
+#W16($3DB0A)
+メルゲン軍[X]
+
+//POINTER #18 @ $3DB0C - STRING #18 @ $3DC44
+
+#W16($3DB0C)
+アルスター軍[X]
+
+//POINTER #19 @ $3DB0E - STRING #19 @ $3DC52
+
+#W16($3DB0E)
+オーガヒル軍[X]
+
+//POINTER #20 @ $3DB10 - STRING #20 @ $3DC60
+
+#W16($3DB10)
+トーヴェ軍[X]
+
+//POINTER #21 @ $3DB12 - STRING #21 @ $3DC6C
+
+#W16($3DB12)
+セイレーン軍[X]
+
+//POINTER #22 @ $3DB14 - STRING #22 @ $3DC7A
+
+#W16($3DB14)
+ザクソン軍[X]
+
+//POINTER #23 @ $3DB16 - STRING #23 @ $3DC86
+
+#W16($3DB16)
+シレジア軍[X]
+
+//POINTER #24 @ $3DB18 - STRING #24 @ $3DC92
+
+#W16($3DB18)
+リューベック軍[X]
+
+//POINTER #25 @ $3DB1A - STRING #25 @ $3DCA2
+
+#W16($3DB1A)
+ティルナノグ軍[X]
+
+//POINTER #26 @ $3DB1C - STRING #26 @ $3DCB2
+
+#W16($3DB1C)
+ガネーシャ軍[X]
+
+//POINTER #27 @ $3DB1E - STRING #27 @ $3DCC0
+
+#W16($3DB1E)
+ソファラ軍[X]
+
+//POINTER #28 @ $3DB20 - STRING #28 @ $3DCCC
+
+#W16($3DB20)
+イザーク軍[X]
+
+//POINTER #29 @ $3DB22 - STRING #29 @ $3DCD8
+
+#W16($3DB22)
+リボー軍[X]
+
+//POINTER #30 @ $3DB24 - STRING #30 @ $3DCE2
+
+#W16($3DB24)
+フィノーラ軍[X]
+
+//POINTER #31 @ $3DB26 - STRING #31 @ $3DCF0
+
+#W16($3DB26)
+イード軍[X]
+
+//POINTER #32 @ $3DB28 - STRING #32 @ $3DCFA
+
+#W16($3DB28)
+ダーナ軍[X]
+
+//POINTER #33 @ $3DB2A - STRING #33 @ $3DD04
+
+#W16($3DB2A)
+ヴェルダン軍[X]
+
+//POINTER #34 @ $3DB2C - STRING #34 @ $3DD12
+
+#W16($3DB2C)
+エバンス軍[X]
+
+//POINTER #35 @ $3DB2E - STRING #35 @ $3DD1E
+
+#W16($3DB2E)
+ジェノア軍[X]
+
+//POINTER #36 @ $3DB30 - STRING #36 @ $3DD2A
+
+#W16($3DB30)
+マーファ軍[X]
+
+//POINTER #37 @ $3DB32 - STRING #37 @ $3DD36
+
+#W16($3DB32)
+ミレトス軍[X]
+
+//POINTER #38 @ $3DB34 - STRING #38 @ $3DD42
+
+#W16($3DB34)
+ペルルーク軍[X]
+
+//POINTER #39 @ $3DB36 - STRING #39 @ $3DD50
+
+#W16($3DB36)
+クロノス軍[X]
+
+//POINTER #40 @ $3DB38 - STRING #40 @ $3DD5C
+
+#W16($3DB38)
+ラドス軍[X]
+
+//POINTER #41 @ $3DB3A - STRING #41 @ $3DD66
+
+#W16($3DB3A)
+ミーズ軍[X]
+
+//POINTER #42 @ $3DB3C - STRING #42 @ $3DD70
+
+#W16($3DB3C)
+カパトギア軍[X]
+
+//POINTER #43 @ $3DB3E - STRING #43 @ $3DD7E
+
+#W16($3DB3E)
+ルテキア軍[X]
+
+//POINTER #44 @ $3DB40 - STRING #44 @ $3DD8A
+
+#W16($3DB40)
+トラキア軍[X]
+
+//POINTER #45 @ $3DB42 - STRING #45 @ $3DD96
+
+#W16($3DB42)
+グルティア軍[X]
+
+//POINTER #46 @ $3DB44 - STRING #46 @ $3DDA4
+
+#W16($3DB44)
+ヴェルトマー軍[X]
+
+//POINTER #47 @ $3DB46 - STRING #47 @ $3DDB4
+
+#W16($3DB46)
+フリージ軍[X]
+
+//POINTER #48 @ $3DB48 - STRING #48 @ $3DDC0
+
+#W16($3DB48)
+バーハラ軍[X]
+
+//POINTER #49 @ $3DB4A - STRING #49 @ $3DDCC
+
+#W16($3DB4A)
+ドズル軍[X]
+
+//POINTER #50 @ $3DB4C - STRING #50 @ $3DDD6
+
+#W16($3DB4C)
+エッダ軍[X]
+
+//POINTER #51 @ $3DB4E - STRING #51 @ $3DDE0
+
+#W16($3DB4E)
+シアルフィ軍[X]
+
+//POINTER #52 @ $3DB50 - STRING #52 @ $3DDEE
+
+#W16($3DB50)
+ユングヴィ軍[X]
+
+//POINTER #53 @ $3DB52 - STRING #53 @ $3DDFC
+
+#W16($3DB52)
+シグルド軍[X]
+
+//POINTER #54 @ $3DB54 - STRING #54 @ $3DE08
+
+#W16($3DB54)
+セリス軍[X]

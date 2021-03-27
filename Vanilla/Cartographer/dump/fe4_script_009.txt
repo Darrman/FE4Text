@@ -1,0 +1,233 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #009 NAME:		Castle Names
+
+//POINTER #0 @ $3F717 - STRING #0 @ $3F773
+
+#W16($3F717)
+マディノ城[X]
+
+//POINTER #1 @ $3F719 - STRING #1 @ $3F77F
+
+#W16($3F719)
+シルベール城[X]
+
+//POINTER #2 @ $3F71B - STRING #2 @ $3F78D
+
+#W16($3F71B)
+アンフォニー城[X]
+
+//POINTER #3 @ $3F71D - STRING #3 @ $3F79D
+
+#W16($3F71D)
+アグスティ城[X]
+
+//POINTER #4 @ $3F71F - STRING #4 @ $3F7AB
+
+#W16($3F71F)
+ハイライン城[X]
+
+//POINTER #5 @ $3F721 - STRING #5 @ $3F7B9
+
+#W16($3F721)
+マッキリー城[X]
+
+//POINTER #6 @ $3F723 - STRING #6 @ $3F7C7
+
+#W16($3F723)
+ノディオン城[X]
+
+//POINTER #7 @ $3F725 - STRING #7 @ $3F7D5
+
+#W16($3F725)
+ヴェルトマー城[X]
+
+//POINTER #8 @ $3F727 - STRING #8 @ $3F7E5
+
+#W16($3F727)
+フリージ城[X]
+
+//POINTER #9 @ $3F729 - STRING #9 @ $3F7F1
+
+#W16($3F729)
+バーハラ城[X]
+
+//POINTER #10 @ $3F72B - STRING #10 @ $3F7FD
+
+#W16($3F72B)
+ドズル城[X]
+
+//POINTER #11 @ $3F72D - STRING #11 @ $3F807
+
+#W16($3F72D)
+エッダ城[X]
+
+//POINTER #12 @ $3F72F - STRING #12 @ $3F811
+
+#W16($3F72F)
+シアルフィ城[X]
+
+//POINTER #13 @ $3F731 - STRING #13 @ $3F81F
+
+#W16($3F731)
+ユングヴィ城[X]
+
+//POINTER #14 @ $3F733 - STRING #14 @ $3F82D
+
+#W16($3F733)
+レンスター城[X]
+
+//POINTER #15 @ $3F735 - STRING #15 @ $3F83B
+
+#W16($3F735)
+コノート城[X]
+
+//POINTER #16 @ $3F737 - STRING #16 @ $3F847
+
+#W16($3F737)
+マンスター城[X]
+
+//POINTER #17 @ $3F739 - STRING #17 @ $3F855
+
+#W16($3F739)
+メルゲン城[X]
+
+//POINTER #18 @ $3F73B - STRING #18 @ $3F861
+
+#W16($3F73B)
+アルスター城[X]
+
+//POINTER #19 @ $3F73D - STRING #19 @ $3F86F
+
+#W16($3F73D)
+オーガヒル城[X]
+
+//POINTER #20 @ $3F73F - STRING #20 @ $3F87D
+
+#W16($3F73F)
+トーヴェ城[X]
+
+//POINTER #21 @ $3F741 - STRING #21 @ $3F889
+
+#W16($3F741)
+セイレーン城[X]
+
+//POINTER #22 @ $3F743 - STRING #22 @ $3F897
+
+#W16($3F743)
+ザクソン城[X]
+
+//POINTER #23 @ $3F745 - STRING #23 @ $3F8A3
+
+#W16($3F745)
+シレジア城[X]
+
+//POINTER #24 @ $3F747 - STRING #24 @ $3F8AF
+
+#W16($3F747)
+リューベック城[X]
+
+//POINTER #25 @ $3F749 - STRING #25 @ $3F8BF
+
+#W16($3F749)
+ティルナノグ城[X]
+
+//POINTER #26 @ $3F74B - STRING #26 @ $3F8CF
+
+#W16($3F74B)
+ガネーシャ城[X]
+
+//POINTER #27 @ $3F74D - STRING #27 @ $3F8DD
+
+#W16($3F74D)
+ソファラ城[X]
+
+//POINTER #28 @ $3F74F - STRING #28 @ $3F8E9
+
+#W16($3F74F)
+イザーク城[X]
+
+//POINTER #29 @ $3F751 - STRING #29 @ $3F8F5
+
+#W16($3F751)
+リボー城[X]
+
+//POINTER #30 @ $3F753 - STRING #30 @ $3F8FF
+
+#W16($3F753)
+フィノーラ城[X]
+
+//POINTER #31 @ $3F755 - STRING #31 @ $3F90D
+
+#W16($3F755)
+イード城[X]
+
+//POINTER #32 @ $3F757 - STRING #32 @ $3F917
+
+#W16($3F757)
+ダーナ城[X]
+
+//POINTER #33 @ $3F759 - STRING #33 @ $3F921
+
+#W16($3F759)
+ヴェルダン城[X]
+
+//POINTER #34 @ $3F75B - STRING #34 @ $3F92F
+
+#W16($3F75B)
+エバンス城[X]
+
+//POINTER #35 @ $3F75D - STRING #35 @ $3F93B
+
+#W16($3F75D)
+ジェノア城[X]
+
+//POINTER #36 @ $3F75F - STRING #36 @ $3F947
+
+#W16($3F75F)
+マーファ城[X]
+
+//POINTER #37 @ $3F761 - STRING #37 @ $3F953
+
+#W16($3F761)
+ミレトス城[X]
+
+//POINTER #38 @ $3F763 - STRING #38 @ $3F95F
+
+#W16($3F763)
+ペルルーク城[X]
+
+//POINTER #39 @ $3F765 - STRING #39 @ $3F96D
+
+#W16($3F765)
+クロノス城[X]
+
+//POINTER #40 @ $3F767 - STRING #40 @ $3F979
+
+#W16($3F767)
+ラドス城[X]
+
+//POINTER #41 @ $3F769 - STRING #41 @ $3F983
+
+#W16($3F769)
+ミーズ城[X]
+
+//POINTER #42 @ $3F76B - STRING #42 @ $3F98D
+
+#W16($3F76B)
+カパトギア城[X]
+
+//POINTER #43 @ $3F76D - STRING #43 @ $3F99B
+
+#W16($3F76D)
+ルテキア城[X]
+
+//POINTER #44 @ $3F76F - STRING #44 @ $3F9A7
+
+#W16($3F76F)
+トラキア城[X]
+
+//POINTER #45 @ $3F771 - STRING #45 @ $3F9B3
+
+#W16($3F771)
+グルティア城[X]

@@ -1,0 +1,363 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #004 NAME:		Class Names
+
+//POINTER #0 @ $38CB3 - STRING #0 @ $38D43
+
+#W16($38CB3)
+ソシアルナイト[X]
+
+//POINTER #1 @ $38CB5 - STRING #1 @ $38D53
+
+#W16($38CB5)
+ランスナイト[X]
+
+//POINTER #2 @ $38CB7 - STRING #2 @ $38D61
+
+#W16($38CB7)
+アーチナイト[X]
+
+//POINTER #3 @ $38CB9 - STRING #3 @ $38D6F
+
+#W16($38CB9)
+アクスナイト[X]
+
+//POINTER #4 @ $38CBB - STRING #4 @ $38D7D
+
+#W16($38CBB)
+フリーナイト[X]
+
+//POINTER #5 @ $38CBD - STRING #5 @ $38D8B
+
+#W16($38CBD)
+トルバドール[X]
+
+//POINTER #6 @ $38CBF - STRING #6 @ $38D99
+
+#W16($38CBF)
+ロードナイト[X]
+
+//POINTER #7 @ $38CC1 - STRING #7 @ $38DA7
+
+#W16($38CC1)
+デュークナイト[X]
+
+//POINTER #8 @ $38CC3 - STRING #8 @ $38DB7
+
+#W16($38CC3)
+マスターナイト[X]
+
+//POINTER #9 @ $38CC5 - STRING #9 @ $38DC7
+
+#W16($38CC5)
+パラディン[X]
+
+//POINTER #10 @ $38CC7 - STRING #10 @ $38DC7
+
+#W16($38CC7)
+パラディン[X]
+
+//POINTER #11 @ $38CC9 - STRING #11 @ $38DD3
+
+#W16($38CC9)
+ボウナイト[X]
+
+//POINTER #12 @ $38CCB - STRING #12 @ $38DDF
+
+#W16($38CCB)
+フォレストナイト[X]
+
+//POINTER #13 @ $38CCD - STRING #13 @ $38DF1
+
+#W16($38CCD)
+マージナイト[X]
+
+//POINTER #14 @ $38CCF - STRING #14 @ $38DFF
+
+#W16($38CCF)
+グレートナイト[X]
+
+//POINTER #15 @ $38CD1 - STRING #15 @ $38E0F
+
+#W16($38CD1)
+ペガサスライダー[X]
+
+//POINTER #16 @ $38CD3 - STRING #16 @ $38E21
+
+#W16($38CD3)
+ペガサスナイト[X]
+
+//POINTER #17 @ $38CD5 - STRING #17 @ $38E31
+
+#W16($38CD5)
+ファルコンナイト[X]
+
+//POINTER #18 @ $38CD7 - STRING #18 @ $38E43
+
+#W16($38CD7)
+ドラゴンライダー[X]
+
+//POINTER #19 @ $38CD9 - STRING #19 @ $38E55
+
+#W16($38CD9)
+ドラゴンナイト[X]
+
+//POINTER #20 @ $38CDB - STRING #20 @ $38E65
+
+#W16($38CDB)
+ドラゴンマスター[X]
+
+//POINTER #21 @ $38CDD - STRING #21 @ $38E77
+
+#W16($38CDD)
+ボウファイター[X]
+
+//POINTER #22 @ $38CDF - STRING #22 @ $38E87
+
+#W16($38CDF)
+ソードファイター[X]
+
+//POINTER #23 @ $38CE1 - STRING #23 @ $38E99
+
+#W16($38CE1)
+ソードマスター[X]
+
+//POINTER #24 @ $38CE3 - STRING #24 @ $38EA9
+
+#W16($38CE3)
+スナイパー[X]
+
+//POINTER #25 @ $38CE5 - STRING #25 @ $38EB5
+
+#W16($38CE5)
+フォーレスト[X]
+
+//POINTER #26 @ $38CE7 - STRING #26 @ $38EC3
+
+#W16($38CE7)
+ジェネラル[X]
+
+//POINTER #27 @ $38CE9 - STRING #27 @ $38ECF
+
+#W16($38CE9)
+エンペラー[X]
+
+//POINTER #28 @ $38CEB - STRING #28 @ $38EDB
+
+#W16($38CEB)
+バロン[X]
+
+//POINTER #29 @ $38CED - STRING #29 @ $38EE3
+
+#W16($38CED)
+ソルジャー[X]
+
+//POINTER #30 @ $38CEF - STRING #30 @ $38EEF
+
+#W16($38CEF)
+スピアソルジャー[X]
+
+//POINTER #31 @ $38CF1 - STRING #31 @ $38F01
+
+#W16($38CF1)
+アクスソルジャー[X]
+
+//POINTER #32 @ $38CF3 - STRING #32 @ $38F13
+
+#W16($38CF3)
+アーチャー[X]
+
+//POINTER #33 @ $38CF5 - STRING #33 @ $38F1F
+
+#W16($38CF5)
+ソードソルジャー[X]
+
+//POINTER #34 @ $38CF7 - STRING #34 @ $38F31
+
+#W16($38CF7)
+アーマー[X]
+
+//POINTER #35 @ $38CF9 - STRING #35 @ $38F3B
+
+#W16($38CF9)
+アクスアーマー[X]
+
+//POINTER #36 @ $38CFB - STRING #36 @ $38F4B
+
+#W16($38CFB)
+ボウアーマー[X]
+
+//POINTER #37 @ $38CFD - STRING #37 @ $38F59
+
+#W16($38CFD)
+ソードアーマー[X]
+
+//POINTER #38 @ $38CFF - STRING #38 @ $38F69
+
+#W16($38CFF)
+バーバリアン[X]
+
+//POINTER #39 @ $38D01 - STRING #39 @ $38F77
+
+#W16($38D01)
+アクスファイター[X]
+
+//POINTER #40 @ $38D03 - STRING #40 @ $38F89
+
+#W16($38D03)
+マウンテンシーフ[X]
+
+//POINTER #41 @ $38D05 - STRING #41 @ $38F9B
+
+#W16($38D05)
+ウォーリア[X]
+
+//POINTER #42 @ $38D07 - STRING #42 @ $38FA7
+
+#W16($38D07)
+ハンター[X]
+
+//POINTER #43 @ $38D09 - STRING #43 @ $38FB1
+
+#W16($38D09)
+パイレーツ[X]
+
+//POINTER #44 @ $38D0B - STRING #44 @ $38FBD
+
+#W16($38D0B)
+ジュニアロード[X]
+
+//POINTER #45 @ $38D0D - STRING #45 @ $38FCD
+
+#W16($38D0D)
+マージファイター[X]
+
+//POINTER #46 @ $38D0F - STRING #46 @ $38FDF
+
+#W16($38D0F)
+プリンス[X]
+
+//POINTER #47 @ $38D11 - STRING #47 @ $38FE9
+
+#W16($38D11)
+プリンセス[X]
+
+//POINTER #48 @ $38D13 - STRING #48 @ $38FF5
+
+#W16($38D13)
+マージファイター[X]
+
+//POINTER #49 @ $38D15 - STRING #49 @ $39007
+
+#W16($38D15)
+クイーン[X]
+
+//POINTER #50 @ $38D17 - STRING #50 @ $39011
+
+#W16($38D17)
+ダンサー[X]
+
+//POINTER #51 @ $38D19 - STRING #51 @ $3901B
+
+#W16($38D19)
+プリースト[X]
+
+//POINTER #52 @ $38D1B - STRING #52 @ $39027
+
+#W16($38D1B)
+マージ[X]
+
+//POINTER #53 @ $38D1D - STRING #53 @ $3902F
+
+#W16($38D1D)
+ファイアマージ[X]
+
+//POINTER #54 @ $38D1F - STRING #54 @ $3903F
+
+#W16($38D1F)
+サンダーマージ[X]
+
+//POINTER #55 @ $38D21 - STRING #55 @ $3904F
+
+#W16($38D21)
+ウインドマージ[X]
+
+//POINTER #56 @ $38D23 - STRING #56 @ $3905F
+
+#W16($38D23)
+ハイプリースト[X]
+
+//POINTER #57 @ $38D25 - STRING #57 @ $3906F
+
+#W16($38D25)
+ビショップ[X]
+
+//POINTER #58 @ $38D27 - STRING #58 @ $3907B
+
+#W16($38D27)
+セイジ[X]
+
+//POINTER #59 @ $38D29 - STRING #59 @ $39083
+
+#W16($38D29)
+バード[X]
+
+//POINTER #60 @ $38D2B - STRING #60 @ $3908B
+
+#W16($38D2B)
+シャーマン[X]
+
+//POINTER #61 @ $38D2D - STRING #61 @ $39097
+
+#W16($38D2D)
+ダークマージ[X]
+
+//POINTER #62 @ $38D2F - STRING #62 @ $390A5
+
+#W16($38D2F)
+ダークビショップ[X]
+
+//POINTER #63 @ $38D31 - STRING #63 @ $390B7
+
+#W16($38D31)
+シーフ[X]
+
+//POINTER #64 @ $38D33 - STRING #64 @ $390BF
+
+#W16($38D33)
+シーフファイター[X]
+
+//POINTER #65 @ $38D35 - STRING #65 @ $390D1
+
+#W16($38D35)
+シビリアン[X]
+
+//POINTER #66 @ $38D37 - STRING #66 @ $390DD
+
+#W16($38D37)
+シビリアン[X]
+
+//POINTER #67 @ $38D39 - STRING #67 @ $390E9
+
+#W16($38D39)
+ロングアーチ[X]
+
+//POINTER #68 @ $38D3B - STRING #68 @ $390F7
+
+#W16($38D3B)
+アイアンアーチ[X]
+
+//POINTER #69 @ $38D3D - STRING #69 @ $39107
+
+#W16($38D3D)
+キラーアーチ[X]
+
+//POINTER #70 @ $38D3F - STRING #70 @ $39115
+
+#W16($38D3F)
+グレートアーチ[X]
+
+//POINTER #71 @ $38D41 - STRING #71 @ $39125
+
+#W16($38D41)
+ダークプリンス[X]
