@@ -1,0 +1,278 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #006 NAME:		Army Names
+
+//POINTER #0 @ $3DAE8 - STRING #0 @ $3DB56
+
+#W16($3DAE8)
+ＭＡＤＩＮＯ[X]
+
+//POINTER #1 @ $3DAEA - STRING #1 @ $3DB64
+
+#W16($3DAEA)
+ＳＩＬＶＡＩＬ[X]
+
+//POINTER #2 @ $3DAEC - STRING #2 @ $3DB74
+
+#W16($3DAEC)
+ＡＮＰＨＯＮＹ[X]
+
+//POINTER #3 @ $3DAEE - STRING #3 @ $3DB84
+
+#W16($3DAEE)
+ＡＧＵＳＴＹ[X]
+
+//POINTER #4 @ $3DAF0 - STRING #4 @ $3DB92
+
+#W16($3DAF0)
+ＨＥＩＲＨＥＩ[X]
+
+//POINTER #5 @ $3DAF2 - STRING #5 @ $3DBA2
+
+#W16($3DAF2)
+ＭＡＣＫＩＬＹ[X]
+
+//POINTER #6 @ $3DAF4 - STRING #6 @ $3DBB2
+
+#W16($3DAF4)
+ＮＯＤＩＯＮ[X]
+
+//POINTER #7 @ $3DAF6 - STRING #7 @ $3DBC0
+
+#W16($3DAF6)
+ＶＥＬＴＨＯＭ[X]
+
+//POINTER #8 @ $3DAF8 - STRING #8 @ $3DBD0
+
+#W16($3DAF8)
+ＦＲＥＥＧＥ[X]
+
+//POINTER #9 @ $3DAFA - STRING #9 @ $3DBDE
+
+#W16($3DAFA)
+ＢＡＲＨＡＲＡ[X]
+
+//POINTER #10 @ $3DAFC - STRING #10 @ $3DBEE
+
+#W16($3DAFC)
+ＤＯＺＵＬ[X]
+
+//POINTER #11 @ $3DAFE - STRING #11 @ $3DBFA
+
+#W16($3DAFE)
+ＥＤＤＡ[X]
+
+//POINTER #12 @ $3DB00 - STRING #12 @ $3DC04
+
+#W16($3DB00)
+ＣＨＡＬＰＨＹ[X]
+
+//POINTER #13 @ $3DB02 - STRING #13 @ $3DC14
+
+#W16($3DB02)
+ＪＵＮＧＶＹ[X]
+
+//POINTER #14 @ $3DB04 - STRING #14 @ $3DC22
+
+#W16($3DB04)
+ＬＥＮＳＴＥＲ[X]
+
+//POINTER #15 @ $3DB06 - STRING #15 @ $3DC32
+
+#W16($3DB06)
+ＣＯＮＯＴＥ[X]
+
+//POINTER #16 @ $3DB08 - STRING #16 @ $3DC40
+
+#W16($3DB08)
+ＭＡＮＳＴＥＲ[X]
+
+//POINTER #17 @ $3DB0A - STRING #17 @ $3DC50
+
+#W16($3DB0A)
+ＭＥＬＧＥＮ[X]
+
+//POINTER #18 @ $3DB0C - STRING #18 @ $3DC5E
+
+#W16($3DB0C)
+ＡＬＳＴＥＲ[X]
+
+//POINTER #19 @ $3DB0E - STRING #19 @ $3DC6C
+
+#W16($3DB0E)
+ＯＲＧＡＨＩＬ[X]
+
+//POINTER #20 @ $3DB10 - STRING #20 @ $3DC7C
+
+#W16($3DB10)
+ＴＨＯＶＥ[X]
+
+//POINTER #21 @ $3DB12 - STRING #21 @ $3DC88
+
+#W16($3DB12)
+ＳＡＬＬＡＮＥ[X]
+
+//POINTER #22 @ $3DB14 - STRING #22 @ $3DC98
+
+#W16($3DB14)
+ＺＡＸＯＮ[X]
+
+//POINTER #23 @ $3DB16 - STRING #23 @ $3DCA4
+
+#W16($3DB16)
+ＳＩＬＥＳＩＡ[X]
+
+//POINTER #24 @ $3DB18 - STRING #24 @ $3DCB4
+
+#W16($3DB18)
+ＬＵＢＥＣＫ[X]
+
+//POINTER #25 @ $3DB1A - STRING #25 @ $3DCC2
+
+#W16($3DB1A)
+ＴＩＬＮＡＮＯ[X]
+
+//POINTER #26 @ $3DB1C - STRING #26 @ $3DCD2
+
+#W16($3DB1C)
+ＧＡＮＥＩＳＨ[X]
+
+//POINTER #27 @ $3DB1E - STRING #27 @ $3DCE2
+
+#W16($3DB1E)
+ＳＯＰＨＡＲＡ[X]
+
+//POINTER #28 @ $3DB20 - STRING #28 @ $3DCF2
+
+#W16($3DB20)
+ＩＳＡＡＣ[X]
+
+//POINTER #29 @ $3DB22 - STRING #29 @ $3DCFE
+
+#W16($3DB22)
+ＲＩＶＯＵＧＨ[X]
+
+//POINTER #30 @ $3DB24 - STRING #30 @ $3DD0E
+
+#W16($3DB24)
+ＰＨＩＮＯＲＡ[X]
+
+//POINTER #31 @ $3DB26 - STRING #31 @ $3DD1E
+
+#W16($3DB26)
+ＹＩＥＤ[X]
+
+//POINTER #32 @ $3DB28 - STRING #32 @ $3DD28
+
+#W16($3DB28)
+ＤＡＲＮＡ[X]
+
+//POINTER #33 @ $3DB2A - STRING #33 @ $3DD34
+
+#W16($3DB2A)
+ＶＥＲＤＡＮＥ[X]
+
+//POINTER #34 @ $3DB2C - STRING #34 @ $3DD44
+
+#W16($3DB2C)
+ＥＶＡＮＳ[X]
+
+//POINTER #35 @ $3DB2E - STRING #35 @ $3DD50
+
+#W16($3DB2E)
+ＧＥＮＯＡ[X]
+
+//POINTER #36 @ $3DB30 - STRING #36 @ $3DD5C
+
+#W16($3DB30)
+ＭＡＲＰＨＡ[X]
+
+//POINTER #37 @ $3DB32 - STRING #37 @ $3DD6A
+
+#W16($3DB32)
+ＭＩＬＥＴＯＳ[X]
+
+//POINTER #38 @ $3DB34 - STRING #38 @ $3DD7A
+
+#W16($3DB34)
+ＰＥＲＵＬＵＫ[X]
+
+//POINTER #39 @ $3DB36 - STRING #39 @ $3DD8A
+
+#W16($3DB36)
+ＣＨＲＯＮＯＳ[X]
+
+//POINTER #40 @ $3DB38 - STRING #40 @ $3DD9A
+
+#W16($3DB38)
+ＲＡＤＯＳ[X]
+
+//POINTER #41 @ $3DB3A - STRING #41 @ $3DDA6
+
+#W16($3DB3A)
+ＭＥＡＳＥ[X]
+
+//POINTER #42 @ $3DB3C - STRING #42 @ $3DDB2
+
+#W16($3DB3C)
+ＫＡＰＡＴＨＯ[X]
+
+//POINTER #43 @ $3DB3E - STRING #43 @ $3DDC2
+
+#W16($3DB3E)
+ＬＵＴＨＥＣＩ[X]
+
+//POINTER #44 @ $3DB40 - STRING #44 @ $3DDD2
+
+#W16($3DB40)
+ＴＨＲＡＣＩＡ[X]
+
+//POINTER #45 @ $3DB42 - STRING #45 @ $3DDE2
+
+#W16($3DB42)
+ＧＲＵＴＩＡ[X]
+
+//POINTER #46 @ $3DB44 - STRING #46 @ $3DBC0
+
+#W16($3DB44)
+ＶＥＬＴＨＯＭ[X]
+
+//POINTER #47 @ $3DB46 - STRING #47 @ $3DBD0
+
+#W16($3DB46)
+ＦＲＥＥＧＥ[X]
+
+//POINTER #48 @ $3DB48 - STRING #48 @ $3DBDE
+
+#W16($3DB48)
+ＢＡＲＨＡＲＡ[X]
+
+//POINTER #49 @ $3DB4A - STRING #49 @ $3DBEE
+
+#W16($3DB4A)
+ＤＯＺＵＬ[X]
+
+//POINTER #50 @ $3DB4C - STRING #50 @ $3DBFA
+
+#W16($3DB4C)
+ＥＤＤＡ[X]
+
+//POINTER #51 @ $3DB4E - STRING #51 @ $3DC04
+
+#W16($3DB4E)
+ＣＨＡＬＰＨＹ[X]
+
+//POINTER #52 @ $3DB50 - STRING #52 @ $3DC14
+
+#W16($3DB50)
+ＪＵＮＧＶＹ[X]
+
+//POINTER #53 @ $3DB52 - STRING #53 @ $3DDF0
+
+#W16($3DB52)
+ＳＩＧＵＬＤ[X]
+
+//POINTER #54 @ $3DB54 - STRING #54 @ $3DDFE
+
+#W16($3DB54)
+ＳＥＲＩＳＵ[X]

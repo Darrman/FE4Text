@@ -1,0 +1,693 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #007 NAME:		Item Names
+
+//POINTER #0 @ $3DE12 - STRING #0 @ $3DF26
+
+#W16($3DE12)
+ＴＥＫＫＥＮ[X]
+
+//POINTER #1 @ $3DE14 - STRING #1 @ $3DF34
+
+#W16($3DE14)
+ＨＡＧＡＮＥ[X]
+
+//POINTER #2 @ $3DE16 - STRING #2 @ $3DF42
+
+#W16($3DE16)
+ＧＩＮＫＥＮ[X]
+
+//POINTER #3 @ $3DE18 - STRING #3 @ $3DF50
+
+#W16($3DE18)
+Ｄ ＴＥＫＫＥＮ[X]
+
+//POINTER #4 @ $3DE1A - STRING #4 @ $3DF62
+
+#W16($3DE1A)
+Ｄ ＨＡＧＡＮＥ[X]
+
+//POINTER #5 @ $3DE1C - STRING #5 @ $3DF74
+
+#W16($3DE1C)
+Ｄ ＧＩＮＫＥＮ[X]
+
+//POINTER #6 @ $3DE1E - STRING #6 @ $3DF86
+
+#W16($3DE1E)
+ＩＮＯＲＩ[X]
+
+//POINTER #7 @ $3DE20 - STRING #7 @ $3DF92
+
+#W16($3DE20)
+ＴＯＵＺＯＫＵ[X]
+
+//POINTER #8 @ $3DE22 - STRING #8 @ $3DFA2
+
+#W16($3DE22)
+ＢＡＲＲＩＥＲ[X]
+
+//POINTER #9 @ $3DE24 - STRING #9 @ $3DFB2
+
+#W16($3DE24)
+ＢＥＲＳＥＲＫ[X]
+
+//POINTER #10 @ $3DE26 - STRING #10 @ $3DFC2
+
+#W16($3DE26)
+ＹＵＵＳＨＡ[X]
+
+//POINTER #11 @ $3DE28 - STRING #11 @ $3DFD0
+
+#W16($3DE28)
+ＳＩＬＥＮＣＥ[X]
+
+//POINTER #12 @ $3DE2A - STRING #12 @ $3DFE0
+
+#W16($3DE2A)
+ＳＬＥＥＰ[X]
+
+//POINTER #13 @ $3DE2C - STRING #13 @ $3DFEC
+
+#W16($3DE2C)
+ＨＯＳＯＭＩ[X]
+
+//POINTER #14 @ $3DE2E - STRING #14 @ $3DFFA
+
+#W16($3DE2E)
+ＭＡＭＯＲＩ[X]
+
+//POINTER #15 @ $3DE30 - STRING #15 @ $3E008
+
+#W16($3DE30)
+ＦＬＡＭＥ[X]
+
+//POINTER #16 @ $3DE32 - STRING #16 @ $3E014
+
+#W16($3DE32)
+ＤＡＩＣＨＩ[X]
+
+//POINTER #17 @ $3DE34 - STRING #17 @ $3E022
+
+#W16($3DE34)
+ＩＫＡＤＵＣＨＩ[X]
+
+//POINTER #18 @ $3DE36 - STRING #18 @ $3E034
+
+#W16($3DE36)
+ＫＡＺＥ[X]
+
+//POINTER #19 @ $3DE38 - STRING #19 @ $3E03E
+
+#W16($3DE38)
+ＨＩＫＡＲＩ[X]
+
+//POINTER #20 @ $3DE3A - STRING #20 @ $3E04C
+
+#W16($3DE3A)
+ＭＩＳＴＯＴＩＮ[X]
+
+//POINTER #21 @ $3DE3C - STRING #21 @ $3E05E
+
+#W16($3DE3C)
+ＴＹＬＦＩＮＧ[X]
+
+//POINTER #22 @ $3DE3E - STRING #22 @ $3E06E
+
+#W16($3DE3E)
+ＢＡＬＭＵＮＫ[X]
+
+//POINTER #23 @ $3DE40 - STRING #23 @ $3E07E
+
+#W16($3DE40)
+ＺＡＮＴＥＴＳＵ[X]
+
+//POINTER #24 @ $3DE42 - STRING #24 @ $3E090
+
+#W16($3DE42)
+ＴＳＵＢＡＭＥ[X]
+
+//POINTER #25 @ $3DE44 - STRING #25 @ $3E0A0
+
+#W16($3DE44)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #26 @ $3DE46 - STRING #26 @ $3E0A0
+
+#W16($3DE46)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #27 @ $3DE48 - STRING #27 @ $3E0A0
+
+#W16($3DE48)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #28 @ $3DE4A - STRING #28 @ $3E0B0
+
+#W16($3DE4A)
+ＴＥＳＳＯＵ[X]
+
+//POINTER #29 @ $3DE4C - STRING #29 @ $3DF34
+
+#W16($3DE4C)
+ＨＡＧＡＮＥ[X]
+
+//POINTER #30 @ $3DE4E - STRING #30 @ $3E0BE
+
+#W16($3DE4E)
+ＧＩＮＳＯＵ[X]
+
+//POINTER #31 @ $3DE50 - STRING #31 @ $3E0CC
+
+#W16($3DE50)
+ＴＥＹＡＲＩ[X]
+
+//POINTER #32 @ $3DE52 - STRING #32 @ $3E0DA
+
+#W16($3DE52)
+ＳＡＫＫＩ[X]
+
+//POINTER #33 @ $3DE54 - STRING #33 @ $3DFC2
+
+#W16($3DE54)
+ＹＵＵＳＨＡ[X]
+
+//POINTER #34 @ $3DE56 - STRING #34 @ $3DFEC
+
+#W16($3DE56)
+ＨＯＳＯＭＩ[X]
+
+//POINTER #35 @ $3DE58 - STRING #35 @ $3E0E6
+
+#W16($3DE58)
+ＧＵＮＧＮＩＲ[X]
+
+//POINTER #36 @ $3DE5A - STRING #36 @ $3E0F6
+
+#W16($3DE5A)
+ＧＡＥＢＯＲＧ[X]
+
+//POINTER #37 @ $3DE5C - STRING #37 @ $3E0A0
+
+#W16($3DE5C)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #38 @ $3DE5E - STRING #38 @ $3E0A0
+
+#W16($3DE5E)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #39 @ $3DE60 - STRING #39 @ $3E0A0
+
+#W16($3DE60)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #40 @ $3DE62 - STRING #40 @ $3E106
+
+#W16($3DE62)
+ＴＥＰＰＵ[X]
+
+//POINTER #41 @ $3DE64 - STRING #41 @ $3DF34
+
+#W16($3DE64)
+ＨＡＧＡＮＥ[X]
+
+//POINTER #42 @ $3DE66 - STRING #42 @ $3E112
+
+#W16($3DE66)
+ＧＩＮＦＵ[X]
+
+//POINTER #43 @ $3DE68 - STRING #43 @ $3DFC2
+
+#W16($3DE68)
+ＹＵＵＳＨＡ[X]
+
+//POINTER #44 @ $3DE6A - STRING #44 @ $3E11E
+
+#W16($3DE6A)
+ＳＷＡＮＣＨＩＫＡ[X]
+
+//POINTER #45 @ $3DE6C - STRING #45 @ $3E132
+
+#W16($3DE6C)
+ＴＥＯＮＯ[X]
+
+//POINTER #46 @ $3DE6E - STRING #46 @ $3E0A0
+
+#W16($3DE6E)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #47 @ $3DE70 - STRING #47 @ $3E0A0
+
+#W16($3DE70)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #48 @ $3DE72 - STRING #48 @ $3E0A0
+
+#W16($3DE72)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #49 @ $3DE74 - STRING #49 @ $3E13E
+
+#W16($3DE74)
+ＴＥＫＫＹＵＵ[X]
+
+//POINTER #50 @ $3DE76 - STRING #50 @ $3DF34
+
+#W16($3DE76)
+ＨＡＧＡＮＥ[X]
+
+//POINTER #51 @ $3DE78 - STRING #51 @ $3E14E
+
+#W16($3DE78)
+ＧＩＮＫＹＵＵ[X]
+
+//POINTER #52 @ $3DE7A - STRING #52 @ $3DFC2
+
+#W16($3DE7A)
+ＹＵＵＳＨＡ[X]
+
+//POINTER #53 @ $3DE7C - STRING #53 @ $3E15E
+
+#W16($3DE7C)
+ＨＩＳＳＡＴＳＵ[X]
+
+//POINTER #54 @ $3DE7E - STRING #54 @ $3E170
+
+#W16($3DE7E)
+ＩＴＩＩＶＡＬ[X]
+
+//POINTER #55 @ $3DE80 - STRING #55 @ $3E0A0
+
+#W16($3DE80)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #56 @ $3DE82 - STRING #56 @ $3E0A0
+
+#W16($3DE82)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #57 @ $3DE84 - STRING #57 @ $3E0A0
+
+#W16($3DE84)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #58 @ $3DE86 - STRING #58 @ $3E180
+
+#W16($3DE86)
+ＬＯＮＧＡＲＣＨ[X]
+
+//POINTER #59 @ $3DE88 - STRING #59 @ $3E192
+
+#W16($3DE88)
+ＩＲＯＮＡＲＣＨ[X]
+
+//POINTER #60 @ $3DE8A - STRING #60 @ $3E15E
+
+#W16($3DE8A)
+ＨＩＳＳＡＴＳＵ[X]
+
+//POINTER #61 @ $3DE8C - STRING #61 @ $3E1A4
+
+#W16($3DE8C)
+ＧＲＥＡＴ[X]
+
+//POINTER #62 @ $3DE8E - STRING #62 @ $3E1B0
+
+#W16($3DE8E)
+ＦＩＲＥ[X]
+
+//POINTER #63 @ $3DE90 - STRING #63 @ $3E1BA
+
+#W16($3DE90)
+ＥＬＦＩＲＥ[X]
+
+//POINTER #64 @ $3DE92 - STRING #64 @ $3E1C8
+
+#W16($3DE92)
+ＶＯＬＫＡＮＯ[X]
+
+//POINTER #65 @ $3DE94 - STRING #65 @ $3E1D8
+
+#W16($3DE94)
+ＦＡＬＡ[X]
+
+//POINTER #66 @ $3DE96 - STRING #66 @ $3E1E2
+
+#W16($3DE96)
+ＭＥＴＥＯＲ[X]
+
+//POINTER #67 @ $3DE98 - STRING #67 @ $3E1F0
+
+#W16($3DE98)
+ＴＨＵＮＤＥＲ[X]
+
+//POINTER #68 @ $3DE9A - STRING #68 @ $3E200
+
+#W16($3DE9A)
+ＩＫＡＤＵＣＨＩ[X]
+
+//POINTER #69 @ $3DE9C - STRING #69 @ $3E212
+
+#W16($3DE9C)
+ＤＥＮＧＥＫＩ[X]
+
+//POINTER #70 @ $3DE9E - STRING #70 @ $3E222
+
+#W16($3DE9E)
+ＴＨＯＲＨＡＭＭＥＲ[X]
+
+//POINTER #71 @ $3DEA0 - STRING #71 @ $3E238
+
+#W16($3DEA0)
+ＲＡＩＪＩＮ[X]
+
+//POINTER #72 @ $3DEA2 - STRING #72 @ $3E246
+
+#W16($3DEA2)
+ＷＩＮＤ[X]
+
+//POINTER #73 @ $3DEA4 - STRING #73 @ $3E250
+
+#W16($3DEA4)
+ＥＬＷＩＮＤ[X]
+
+//POINTER #74 @ $3DEA6 - STRING #74 @ $3E25E
+
+#W16($3DEA6)
+ＴＯＲＮＡＲＤＯ[X]
+
+//POINTER #75 @ $3DEA8 - STRING #75 @ $3E270
+
+#W16($3DEA8)
+ＰＨＯＬＳＥＴＹ[X]
+
+//POINTER #76 @ $3DEAA - STRING #76 @ $3E282
+
+#W16($3DEAA)
+ＢＬＩＺＺＡＲＤ[X]
+
+//POINTER #77 @ $3DEAC - STRING #77 @ $3E294
+
+#W16($3DEAC)
+ＨＩＫＡＲＩ[X]
+
+//POINTER #78 @ $3DEAE - STRING #78 @ $3E2A2
+
+#W16($3DEAE)
+ＲＩＺＡＩＡ[X]
+
+//POINTER #79 @ $3DEB0 - STRING #79 @ $3E2B0
+
+#W16($3DEB0)
+ＡＵＲＡ[X]
+
+//POINTER #80 @ $3DEB2 - STRING #80 @ $3E2BA
+
+#W16($3DEB2)
+ＮＡＲＧＡ[X]
+
+//POINTER #81 @ $3DEB4 - STRING #81 @ $3E2C6
+
+#W16($3DEB4)
+ＡＮＫＯＫＵ[X]
+
+//POINTER #82 @ $3DEB6 - STRING #82 @ $3E2D4
+
+#W16($3DEB6)
+ＦＥＮＲＩＬ[X]
+
+//POINTER #83 @ $3DEB8 - STRING #83 @ $3E2E2
+
+#W16($3DEB8)
+ＨＥＬＬ[X]
+
+//POINTER #84 @ $3DEBA - STRING #84 @ $3E2EC
+
+#W16($3DEBA)
+ＬＯＰＵＴＯＵＳＵ[X]
+
+//POINTER #85 @ $3DEBC - STRING #85 @ $3E0A0
+
+#W16($3DEBC)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #86 @ $3DEBE - STRING #86 @ $3E0A0
+
+#W16($3DEBE)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #87 @ $3DEC0 - STRING #87 @ $3E0A0
+
+#W16($3DEC0)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #88 @ $3DEC2 - STRING #88 @ $3E300
+
+#W16($3DEC2)
+ＬＩＶＥ[X]
+
+//POINTER #89 @ $3DEC4 - STRING #89 @ $3E30A
+
+#W16($3DEC4)
+ＲＥＬＩＶＥ[X]
+
+//POINTER #90 @ $3DEC6 - STRING #90 @ $3E318
+
+#W16($3DEC6)
+ＲＥＣＯＶＥＲ[X]
+
+//POINTER #91 @ $3DEC8 - STRING #91 @ $3E328
+
+#W16($3DEC8)
+ＲＥＢＬＯＷ[X]
+
+//POINTER #92 @ $3DECA - STRING #92 @ $3E336
+
+#W16($3DECA)
+ＲＥＳＥＲＶＥ[X]
+
+//POINTER #93 @ $3DECC - STRING #93 @ $3E346
+
+#W16($3DECC)
+ＲＥＴＵＲＮ[X]
+
+//POINTER #94 @ $3DECE - STRING #94 @ $3E354
+
+#W16($3DECE)
+ＷＡＲＰ[X]
+
+//POINTER #95 @ $3DED0 - STRING #95 @ $3E35E
+
+#W16($3DED0)
+ＲＥＳＣＵＥ[X]
+
+//POINTER #96 @ $3DED2 - STRING #96 @ $3E36C
+
+#W16($3DED2)
+ＣＨＡＲＭ[X]
+
+//POINTER #97 @ $3DED4 - STRING #97 @ $3E378
+
+#W16($3DED4)
+ＲＥＳＴ[X]
+
+//POINTER #98 @ $3DED6 - STRING #98 @ $3E382
+
+#W16($3DED6)
+ＶＡＬＫＹＲＩＥ[X]
+
+//POINTER #99 @ $3DED8 - STRING #99 @ $3E394
+
+#W16($3DED8)
+ＳＩＬＥＮＣＥ[X]
+
+//POINTER #100 @ $3DEDA - STRING #100 @ $3E3A4
+
+#W16($3DEDA)
+ＳＬＥＥＰ[X]
+
+//POINTER #101 @ $3DEDC - STRING #101 @ $3E3B0
+
+#W16($3DEDC)
+ＢＥＲＳＥＲＫ[X]
+
+//POINTER #102 @ $3DEDE - STRING #102 @ $3DF92
+
+#W16($3DEDE)
+ＴＯＵＺＯＫＵ[X]
+
+//POINTER #103 @ $3DEE0 - STRING #103 @ $3E0A0
+
+#W16($3DEE0)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #104 @ $3DEE2 - STRING #104 @ $3E0A0
+
+#W16($3DEE2)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #105 @ $3DEE4 - STRING #105 @ $3E0A0
+
+#W16($3DEE4)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #106 @ $3DEE6 - STRING #106 @ $3E3C0
+
+#W16($3DEE6)
+ＬＩＶＥ ＲＩＮＧ[X]
+
+//POINTER #107 @ $3DEE8 - STRING #107 @ $3E3D4
+
+#W16($3DEE8)
+ＥＬＩＴＥ[X]
+
+//POINTER #108 @ $3DEEA - STRING #108 @ $3DF92
+
+#W16($3DEEA)
+ＴＯＵＺＯＫＵ[X]
+
+//POINTER #109 @ $3DEEC - STRING #109 @ $3DF86
+
+#W16($3DEEC)
+ＩＮＯＲＩ[X]
+
+//POINTER #110 @ $3DEEE - STRING #110 @ $3E3E0
+
+#W16($3DEEE)
+ＴＳＵＩＧＥＫＩ[X]
+
+//POINTER #111 @ $3DEF0 - STRING #111 @ $3E318
+
+#W16($3DEF0)
+ＲＥＣＯＶＥＲ[X]
+
+//POINTER #112 @ $3DEF2 - STRING #112 @ $3E3F2
+
+#W16($3DEF2)
+ＮＥＧＩＲＩ[X]
+
+//POINTER #113 @ $3DEF4 - STRING #113 @ $3E400
+
+#W16($3DEF4)
+ＫＮＴ ＲＩＮＧ[X]
+
+//POINTER #114 @ $3DEF6 - STRING #114 @ $3E346
+
+#W16($3DEF6)
+ＲＥＴＵＲＮ[X]
+
+//POINTER #115 @ $3DEF8 - STRING #115 @ $3E412
+
+#W16($3DEF8)
+ＳＰＥＥＤ ＲＩＮＧ[X]
+
+//POINTER #116 @ $3DEFA - STRING #116 @ $3E428
+
+#W16($3DEFA)
+ＭＡＧＩＣ ＲＩＮＧ[X]
+
+//POINTER #117 @ $3DEFC - STRING #117 @ $3E43E
+
+#W16($3DEFC)
+ＰＯＷＥＲ ＲＩＮＧ[X]
+
+//POINTER #118 @ $3DEFE - STRING #118 @ $3E454
+
+#W16($3DEFE)
+ＳＨＩＥＬＤＲＩＮＧ[X]
+
+//POINTER #119 @ $3DF00 - STRING #119 @ $3DFA2
+
+#W16($3DF00)
+ＢＡＲＲＩＥＲ[X]
+
+//POINTER #120 @ $3DF02 - STRING #120 @ $3E46A
+
+#W16($3DF02)
+ＬＥＧ ＲＩＮＧ[X]
+
+//POINTER #121 @ $3DF04 - STRING #121 @ $3E47C
+
+#W16($3DF04)
+ＳＫＩＬＬ ＲＩＮＧ[X]
+
+//POINTER #122 @ $3DF06 - STRING #122 @ $3E0A0
+
+#W16($3DF06)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #123 @ $3DF08 - STRING #123 @ $3E0A0
+
+#W16($3DF08)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #124 @ $3DF0A - STRING #124 @ $3E0A0
+
+#W16($3DF0A)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #125 @ $3DF0C - STRING #125 @ $3E0A0
+
+#W16($3DF0C)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #126 @ $3DF0E - STRING #126 @ $3E0A0
+
+#W16($3DF0E)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #127 @ $3DF10 - STRING #127 @ $3E0A0
+
+#W16($3DF10)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #128 @ $3DF12 - STRING #128 @ $3E0A0
+
+#W16($3DF12)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #129 @ $3DF14 - STRING #129 @ $3E0A0
+
+#W16($3DF14)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #130 @ $3DF16 - STRING #130 @ $3E0A0
+
+#W16($3DF16)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #131 @ $3DF18 - STRING #131 @ $3E0A0
+
+#W16($3DF18)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #132 @ $3DF1A - STRING #132 @ $3E0A0
+
+#W16($3DF1A)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #133 @ $3DF1C - STRING #133 @ $3E0A0
+
+#W16($3DF1C)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #134 @ $3DF1E - STRING #134 @ $3E0A0
+
+#W16($3DF1E)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #135 @ $3DF20 - STRING #135 @ $3E0A0
+
+#W16($3DF20)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #136 @ $3DF22 - STRING #136 @ $3E0A0
+
+#W16($3DF22)
+ＢＲＯＯＫＥＮ[X]
+
+//POINTER #137 @ $3DF24 - STRING #137 @ $3E492
+
+#W16($3DF24)
+ＣＩＲＣＬＥＴ[X]

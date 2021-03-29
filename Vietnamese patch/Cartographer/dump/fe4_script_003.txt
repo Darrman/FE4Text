@@ -1,0 +1,133 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #003 NAME:		Terrain Names
+
+//POINTER #0 @ $3857B - STRING #0 @ $385AF
+
+#W16($3857B)
+ＭＯＵＮＴＮ[X]
+
+//POINTER #1 @ $3857D - STRING #1 @ $385BD
+
+#W16($3857D)
+ＦＯＲＥＳＴ[X]
+
+//POINTER #2 @ $3857F - STRING #2 @ $385CB
+
+#W16($3857F)
+ＣＬＩＦＦ[X]
+
+//POINTER #3 @ $38581 - STRING #3 @ $385D7
+
+#W16($38581)
+ＰＬＡＩＮＳ[X]
+
+//POINTER #4 @ $38583 - STRING #4 @ $385BD
+
+#W16($38583)
+ＦＯＲＥＳＴ[X]
+
+//POINTER #5 @ $38585 - STRING #5 @ $385E5
+
+#W16($38585)
+ＳＥＡ[X]
+
+//POINTER #6 @ $38587 - STRING #6 @ $385ED
+
+#W16($38587)
+ＲＩＶＥＲ[X]
+
+//POINTER #7 @ $38589 - STRING #7 @ $385AF
+
+#W16($38589)
+ＭＯＵＮＴＮ[X]
+
+//POINTER #8 @ $3858B - STRING #8 @ $385F9
+
+#W16($3858B)
+ＤＥＳＥＲＴ[X]
+
+//POINTER #9 @ $3858D - STRING #9 @ $3866B
+
+#W16($3858D)
+ＣＡＳＴＬＥ[X]
+
+//POINTER #10 @ $3858F - STRING #10 @ $385FB
+
+#W16($3858F)
+ＥＳＥＲＴ[X]
+
+//POINTER #11 @ $38591 - STRING #11 @ $38603
+
+#W16($38591)
+Ｔ[X]
+
+//POINTER #12 @ $38593 - STRING #12 @ $38607
+
+#W16($38593)
+ＷＡＬＬ[X]
+
+//POINTER #13 @ $38595 - STRING #13 @ $38607
+
+#W16($38595)
+ＷＡＬＬ[X]
+
+//POINTER #14 @ $38597 - STRING #14 @ $38611
+
+#W16($38597)
+ＳＡＮＤ[X]
+
+//POINTER #15 @ $38599 - STRING #15 @ $3861B
+
+#W16($38599)
+ＢＲＩＤＧＥ[X]
+
+//POINTER #16 @ $3859B - STRING #16 @ $3862F
+
+#W16($3859B)
+ＬＡＧＥ[X]
+
+//POINTER #17 @ $3859D - STRING #17 @ $38607
+
+#W16($3859D)
+ＷＡＬＬ[X]
+
+//POINTER #18 @ $3859F - STRING #18 @ $38629
+
+#W16($3859F)
+ＶＩＬＬＡＧＥ[X]
+
+//POINTER #19 @ $385A1 - STRING #19 @ $38639
+
+#W16($385A1)
+ＷＡＳＴＥＤ[X]
+
+//POINTER #20 @ $385A3 - STRING #20 @ $38651
+
+#W16($385A3)
+Ｈ[X]
+
+//POINTER #21 @ $385A5 - STRING #21 @ $38639
+
+#W16($385A5)
+ＷＡＳＴＥＤ[X]
+
+//POINTER #22 @ $385A7 - STRING #22 @ $38647
+
+#W16($385A7)
+ＣＨＵＲＣＨ[X]
+
+//POINTER #23 @ $385A9 - STRING #23 @ $3866F
+
+#W16($385A9)
+ＳＴＬＥ[X]
+
+//POINTER #24 @ $385AB - STRING #24 @ $38655
+
+#W16($385AB)
+ＢＬＡＧＩ[X]
+
+//POINTER #25 @ $385AD - STRING #25 @ $38661
+
+#W16($385AD)
+ＰＡＴＨ[X]

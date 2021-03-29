@@ -1,0 +1,123 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #010 NAME:		Menu Commands
+
+//POINTER #0 @ $5E4AF - STRING #0 @ $5EC68
+
+#W16($5E4AF)
+<$98><$DF><$85><$01><$01> ＢＡＣＫ[X]
+
+//POINTER #1 @ $5E4B1 - STRING #1 @ $5E270
+
+#W16($5E4B1)
+<$04><$E0><$85><$01><$01> ＢＡＣＫ[X]
+
+//POINTER #2 @ $5E4B3 - STRING #2 @ $5E281
+
+#W16($5E4B3)
+<$FD><$DF><$85><$01><$01> ＡＮＩＭＥ[X]
+
+//POINTER #3 @ $5E4B5 - STRING #3 @ $5E294
+
+#W16($5E4B5)
+<$DE><$DF><$85><$01><$01> ＩＴＥＭ[X]
+
+//POINTER #4 @ $5E4B7 - STRING #4 @ $5E2A5
+
+#W16($5E4B7)
+<$A6><$DF><$85><$01><$01> ＦＯＯＴ[X]
+
+//POINTER #5 @ $5E4B9 - STRING #5 @ $5E2B6
+
+#W16($5E4B9)
+<$B4><$DF><$85><$01><$01> ＨＯＲＳＥ[X]
+
+//POINTER #6 @ $5E4BB - STRING #6 @ $5E2C9
+
+#W16($5E4BB)
+<$30><$E0><$85><$01><$01> ＧＩＶＥ[X]
+
+//POINTER #7 @ $5E4BD - STRING #7 @ $5E2C9
+
+#W16($5E4BD)
+<$30><$E0><$85><$01><$01> ＧＩＶＥ[X]
+
+//POINTER #8 @ $5E4BF - STRING #8 @ $5E2DA
+
+#W16($5E4BF)
+<$FB><$DE><$85><$01><$01> [X]
+
+//POINTER #9 @ $5E4C1 - STRING #9 @ $5E2E3
+
+#W16($5E4C1)
+<$D6><$DE><$85><$01><$01> ＭＡＧＩＣ[X]
+
+//POINTER #10 @ $5E4C3 - STRING #10 @ $5E2F6
+
+#W16($5E4C3)
+<$43><$DE><$85><$01><$01> ＷＡＩＴ[X]
+
+//POINTER #11 @ $5E4C5 - STRING #11 @ $5E307
+
+#W16($5E4C5)
+<$C2><$DF><$85><$01><$01> ＴＡＬＫ[X]
+
+//POINTER #12 @ $5E4C7 - STRING #12 @ $5E318
+
+#W16($5E4C7)
+<$8A><$DF><$85><$01><$01> ＢＡＴＴＬＥ[X]
+
+//POINTER #13 @ $5E4C9 - STRING #13 @ $5E32D
+
+#W16($5E4C9)
+<$7D><$DF><$85><$01><$01> ＤＥＦＥＮＤ[X]
+
+//POINTER #14 @ $5E4CB - STRING #14 @ $5E342
+
+#W16($5E4CB)
+<$61><$DF><$85><$01><$01> ＭＵＲＡ[X]
+
+//POINTER #15 @ $5E4CD - STRING #15 @ $5E353
+
+#W16($5E4CD)
+<$3F><$DF><$85><$01><$01> [X]
+
+//POINTER #16 @ $5E4CF - STRING #16 @ $5E35C
+
+#W16($5E4CF)
+<$6F><$DF><$85><$01><$01> ＳＥＩＺＥ[X]
+
+//POINTER #17 @ $5E4D1 - STRING #17 @ $5E36F
+
+#W16($5E4D1)
+<$20><$DF><$85><$01><$01> ＥＮＴＥＲ[X]
+
+//POINTER #18 @ $5E4D3 - STRING #18 @ $5E382
+
+#W16($5E4D3)
+<$AB><$DE><$85><$01><$01> ＤＡＮＣＥ[X]
+
+//POINTER #19 @ $5E4D5 - STRING #19 @ $5E2E3
+
+#W16($5E4D5)
+<$D6><$DE><$85><$01><$01> ＭＡＧＩＣ[X]
+
+//POINTER #20 @ $5E4D7 - STRING #20 @ $5E395
+
+#W16($5E4D7)
+<$57><$DE><$85><$01><$01> ＡＴＣＫ[X]
+
+//POINTER #21 @ $5E4D9 - STRING #21 @ $5E3A6
+
+#W16($5E4D9)
+<$7C><$DE><$85><$01><$01> ＲＵＳＨ[X]
+
+//POINTER #22 @ $5E4DB - STRING #22 @ $5E3B7
+
+#W16($5E4DB)
+<$12><$E0><$85><$01><$01> ＨＥＬＰ[X]
+
+//POINTER #23 @ $5E4DD - STRING #23 @ $5E307
+
+#W16($5E4DD)
+<$C2><$DF><$85><$01><$01> ＴＡＬＫ[X]

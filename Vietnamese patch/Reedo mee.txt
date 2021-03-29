@@ -1,0 +1,15 @@
+This is my second translation for the Fire Emblem series.
+This translation is fully playable and has some features as described below.
+
+Unrar the file, you get 2 ips file. 
+
+1. FE4 Origin.ips  is the patch for fully Vietnamese translated. Beside the text displayed in the game changed to Vietnamesem, there's nothing else changed in comparison with the original Japanese version.
+
+2. FE4 Hidden class.ips is the patch which is fully translated to Vietnamese, pluse some twisting hack: you can choose your desired class when Class change. This means a character (including Siguld) has 3 variable class to choose. Also, there're several 'new' class such as Shinobi, Rappa.... But these class are hidden and you'll have to pull them out yourself. Plus, the parameter now is not limited to 30. This mean, your character can growth Strength, Skill... to 40, 50 or above, depend on how far he/she can grow.
+
+
+Use Win Ips or Luna Ips to apply the patch to the original (unchanged) Japanese version of Fire Emblem 4 (with 200 bytes header).
+
+Visit my Youtube channel for sample videos:
+
+http://www.youtube.com/playlist?list=PL8EA2D87D36BE7C0F

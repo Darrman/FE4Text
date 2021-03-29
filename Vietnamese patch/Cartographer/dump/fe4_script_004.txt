@@ -1,0 +1,363 @@
+//GAME NAME:		Fire Emblem: Genealogy of the Holy War
+
+//BLOCK #004 NAME:		Class Names
+
+//POINTER #0 @ $38CB3 - STRING #0 @ $38D43
+
+#W16($38CB3)
+ＳＯＣＩＡＬ ＫＮＴ[X]
+
+//POINTER #1 @ $38CB5 - STRING #1 @ $38D59
+
+#W16($38CB5)
+ＬＡＮＣＥ[X]
+
+//POINTER #2 @ $38CB7 - STRING #2 @ $38D65
+
+#W16($38CB7)
+ＫＩＢＡＫＹＵ[X]
+
+//POINTER #3 @ $38CB9 - STRING #3 @ $38D75
+
+#W16($38CB9)
+ＡＸＥ ＫＮＴ[X]
+
+//POINTER #4 @ $38CBB - STRING #4 @ $38D85
+
+#W16($38CBB)
+ＦＲＥＥ[X]
+
+//POINTER #5 @ $38CBD - STRING #5 @ $38D8F
+
+#W16($38CBD)
+ＴＲＯＢＡＤＯＲ[X]
+
+//POINTER #6 @ $38CBF - STRING #6 @ $38DA1
+
+#W16($38CBF)
+ＬＯＲＤ ＫＮＴ[X]
+
+//POINTER #7 @ $38CC1 - STRING #7 @ $38DB3
+
+#W16($38CC1)
+ＤＵＫＥ ＫＮＴ[X]
+
+//POINTER #8 @ $38CC3 - STRING #8 @ $38DC5
+
+#W16($38CC3)
+ＭＡＳＴＥＲ ＫＮＴ[X]
+
+//POINTER #9 @ $38CC5 - STRING #9 @ $38DDB
+
+#W16($38CC5)
+ＰＡＬＡＤＩＮ[X]
+
+//POINTER #10 @ $38CC7 - STRING #10 @ $38DDB
+
+#W16($38CC7)
+ＰＡＬＡＤＩＮ[X]
+
+//POINTER #11 @ $38CC9 - STRING #11 @ $38DEB
+
+#W16($38CC9)
+ＢＯＷ ＫＮＴ[X]
+
+//POINTER #12 @ $38CCB - STRING #12 @ $38DFB
+
+#W16($38CCB)
+ＦＯＲＲＥＳＴ[X]
+
+//POINTER #13 @ $38CCD - STRING #13 @ $38E0B
+
+#W16($38CCD)
+ＭＡＧＥ ＫＮＴ[X]
+
+//POINTER #14 @ $38CCF - STRING #14 @ $38E1D
+
+#W16($38CCF)
+ＧＲＥＡＴ ＫＮＴ[X]
+
+//POINTER #15 @ $38CD1 - STRING #15 @ $38E31
+
+#W16($38CD1)
+ＴＥＭＭＡ[X]
+
+//POINTER #16 @ $38CD3 - STRING #16 @ $38E3D
+
+#W16($38CD3)
+ＰＥＧＡＳＵＳ[X]
+
+//POINTER #17 @ $38CD5 - STRING #17 @ $38E4D
+
+#W16($38CD5)
+ＦＡＬＣＯＮ[X]
+
+//POINTER #18 @ $38CD7 - STRING #18 @ $38E5B
+
+#W16($38CD7)
+ＲＹＵＫＩ[X]
+
+//POINTER #19 @ $38CD9 - STRING #19 @ $38E67
+
+#W16($38CD9)
+ＤＲＡＧＯＮ[X]
+
+//POINTER #20 @ $38CDB - STRING #20 @ $38E75
+
+#W16($38CDB)
+ＲＹＵ ＫＩＳＩ[X]
+
+//POINTER #21 @ $38CDD - STRING #21 @ $38E87
+
+#W16($38CDD)
+ＫＹＵＨＥＩ[X]
+
+//POINTER #22 @ $38CDF - STRING #22 @ $38E95
+
+#W16($38CDF)
+ＳＷＤＭＡＮ[X]
+
+//POINTER #23 @ $38CE1 - STRING #23 @ $38EA3
+
+#W16($38CE1)
+ＫＥＮＳＨＩ[X]
+
+//POINTER #24 @ $38CE3 - STRING #24 @ $38EB1
+
+#W16($38CE3)
+ＳＮＩＰＥＲ[X]
+
+//POINTER #25 @ $38CE5 - STRING #25 @ $38DFB
+
+#W16($38CE5)
+ＦＯＲＲＥＳＴ[X]
+
+//POINTER #26 @ $38CE7 - STRING #26 @ $38EBF
+
+#W16($38CE7)
+ＧＥＮＥＲＡＬ[X]
+
+//POINTER #27 @ $38CE9 - STRING #27 @ $38ECF
+
+#W16($38CE9)
+ＥＭＰＥＲＯＲ[X]
+
+//POINTER #28 @ $38CEB - STRING #28 @ $38EDF
+
+#W16($38CEB)
+ＢＡＲＯＮ[X]
+
+//POINTER #29 @ $38CED - STRING #29 @ $38EEB
+
+#W16($38CED)
+ＳＨＩＮＯＢＩ[X]
+
+//POINTER #30 @ $38CEF - STRING #30 @ $38EFB
+
+#W16($38CEF)
+ＲＡＰＰＡ[X]
+
+//POINTER #31 @ $38CF1 - STRING #31 @ $38F07
+
+#W16($38CF1)
+ＫＵＮＯＩＣＨＩ[X]
+
+//POINTER #32 @ $38CF3 - STRING #32 @ $38F19
+
+#W16($38CF3)
+ＡＲＣＨＥＲ[X]
+
+//POINTER #33 @ $38CF5 - STRING #33 @ $38F27
+
+#W16($38CF5)
+ＢＵＧ[X]
+
+//POINTER #34 @ $38CF7 - STRING #34 @ $38F2F
+
+#W16($38CF7)
+ＡＲＭＯＵＲ[X]
+
+//POINTER #35 @ $38CF9 - STRING #35 @ $38F3D
+
+#W16($38CF9)
+ＡＸＥ ＡＲＭＯＲ[X]
+
+//POINTER #36 @ $38CFB - STRING #36 @ $38F51
+
+#W16($38CFB)
+ＢＯＷ ＡＲＭＯＲ[X]
+
+//POINTER #37 @ $38CFD - STRING #37 @ $38F65
+
+#W16($38CFD)
+ＳＷＤ ＡＲＭＯＲ[X]
+
+//POINTER #38 @ $38CFF - STRING #38 @ $38F79
+
+#W16($38CFF)
+ＢＡＮＺＯＫＵ[X]
+
+//POINTER #39 @ $38D01 - STRING #39 @ $38F89
+
+#W16($38D01)
+ＦＵＳＥＮＳＩ[X]
+
+//POINTER #40 @ $38D03 - STRING #40 @ $38F99
+
+#W16($38D03)
+ＳＡＮＺＯＫＵ[X]
+
+//POINTER #41 @ $38D05 - STRING #41 @ $38FA9
+
+#W16($38D05)
+ＷＡＲＲＩＯＲ[X]
+
+//POINTER #42 @ $38D07 - STRING #42 @ $38FB9
+
+#W16($38D07)
+ＨＵＮＴＥＲ[X]
+
+//POINTER #43 @ $38D09 - STRING #43 @ $38FC7
+
+#W16($38D09)
+ＰＩＲＡＴＥ[X]
+
+//POINTER #44 @ $38D0B - STRING #44 @ $38FD5
+
+#W16($38D0B)
+ＬＯＲＤ[X]
+
+//POINTER #45 @ $38D0D - STRING #45 @ $38FDF
+
+#W16($38D0D)
+ＭＡＳＥＮＳＨＩ[X]
+
+//POINTER #46 @ $38D0F - STRING #46 @ $38FF1
+
+#W16($38D0F)
+ＰＲＩＮＣＥ[X]
+
+//POINTER #47 @ $38D11 - STRING #47 @ $38FFF
+
+#W16($38D11)
+ＰＲＩＮＣＥＳＳ[X]
+
+//POINTER #48 @ $38D13 - STRING #48 @ $38FDF
+
+#W16($38D13)
+ＭＡＳＥＮＳＨＩ[X]
+
+//POINTER #49 @ $38D15 - STRING #49 @ $39011
+
+#W16($38D15)
+ＱＵＥＥＮ[X]
+
+//POINTER #50 @ $38D17 - STRING #50 @ $3901D
+
+#W16($38D17)
+ＯＤＯＲＩＫＯ[X]
+
+//POINTER #51 @ $38D19 - STRING #51 @ $3902D
+
+#W16($38D19)
+ＰＲＩＥＳＴ[X]
+
+//POINTER #52 @ $38D1B - STRING #52 @ $3903B
+
+#W16($38D1B)
+ＭＡＧＥ[X]
+
+//POINTER #53 @ $38D1D - STRING #53 @ $39045
+
+#W16($38D1D)
+ＫＡＳＥＮＳＨＩ[X]
+
+//POINTER #54 @ $38D1F - STRING #54 @ $39057
+
+#W16($38D1F)
+ＲＡＩＳＥＮＳＩ[X]
+
+//POINTER #55 @ $38D21 - STRING #55 @ $39069
+
+#W16($38D21)
+ＦＵＳＥＮＳＨＩ[X]
+
+//POINTER #56 @ $38D23 - STRING #56 @ $3907B
+
+#W16($38D23)
+ＨＩＰＲＩＥＳＴ[X]
+
+//POINTER #57 @ $38D25 - STRING #57 @ $3908D
+
+#W16($38D25)
+ＢＩＳＨＯＰ[X]
+
+//POINTER #58 @ $38D27 - STRING #58 @ $3909B
+
+#W16($38D27)
+ＳＡＧＥ[X]
+
+//POINTER #59 @ $38D29 - STRING #59 @ $390A5
+
+#W16($38D29)
+ＢＡＲＤ[X]
+
+//POINTER #60 @ $38D2B - STRING #60 @ $390AF
+
+#W16($38D2B)
+ＳＨＡＭＡＮ[X]
+
+//POINTER #61 @ $38D2D - STRING #61 @ $390BD
+
+#W16($38D2D)
+ＳＨＩＳＡＩ[X]
+
+//POINTER #62 @ $38D2F - STRING #62 @ $390CB
+
+#W16($38D2F)
+ＤＯＵＳＩ[X]
+
+//POINTER #63 @ $38D31 - STRING #63 @ $390D7
+
+#W16($38D31)
+ＴＯＵＺＯＫＵ[X]
+
+//POINTER #64 @ $38D33 - STRING #64 @ $390E7
+
+#W16($38D33)
+ＲＡＰＰＡ[X]
+
+//POINTER #65 @ $38D35 - STRING #65 @ $390F3
+
+#W16($38D35)
+ＳＨＩＭＩＮ[X]
+
+//POINTER #66 @ $38D37 - STRING #66 @ $390F3
+
+#W16($38D37)
+ＳＨＩＭＩＮ[X]
+
+//POINTER #67 @ $38D39 - STRING #67 @ $39101
+
+#W16($38D39)
+ＡＲＣＨ[X]
+
+//POINTER #68 @ $38D3B - STRING #68 @ $39101
+
+#W16($38D3B)
+ＡＲＣＨ[X]
+
+//POINTER #69 @ $38D3D - STRING #69 @ $39101
+
+#W16($38D3D)
+ＡＲＣＨ[X]
+
+//POINTER #70 @ $38D3F - STRING #70 @ $39101
+
+#W16($38D3F)
+ＡＲＣＨ[X]
+
+//POINTER #71 @ $38D41 - STRING #71 @ $3910B
+
+#W16($38D41)
+ＭＡＯＵ[X]
